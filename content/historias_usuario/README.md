@@ -8,14 +8,9 @@ Las historias de usuario representan las funcionalidades requeridas por los dife
 
 ## Estructura de las historias
 
-| ID     | Rol             | Necesidad             | Resultado esperado                         | Prioridad | Estado        |
-| ------ | --------------- | --------------------- | ------------------------------------------ | --------- | ------------- |
-| HU-001 | Administrador   | Consultar capas SIG   | Visualizar las capas temáticas disponibles | Alta      | En desarrollo |
-| HU-002 | Usuario público | Descargar información | Descargar shapefiles y GeoJSON             | Alta      | Pendiente     |
-
-## Enlace a historias completas
-
-- [Listado detallado de historias de usuario](../documentos/historias_usuario_detalladas.md)
+| ID                                                               | Rol      | Necesidad         | Resultado esperado                                 | Prioridad | Estado         |
+| ---------------------------------------------------------------- | -------- | ----------------- | -------------------------------------------------- | --------- | -------------- |
+| [PLANTILLA](/content/historias_usuario/1_PLANTILLA/PLANTILLA.md) | Consulta | Consulta espacial | Identificar y visualizar los elementos geográficos | Alta      | En formulación |
 
 ## Consideraciones
 
