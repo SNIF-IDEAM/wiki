@@ -3,7 +3,7 @@
 > **Identificador Historia de Usuario:** hu-ideam-snif-rest-001 \
 > **Nombre Historia de Usuario:** Módulo de restauración - Consulta espacial
 
-> **Área Proyecto:** Coordinación CyA \
+> **Área Proyecto:** Subdirección de Ecosistemas e Información Ambiental \
 > **Nombre proyecto:** Realizar la construcción temática, mejoras informáticas y optimización del Módulo de restauración del SNIF del IDEAM. \
 > **Líder funcional:** Wilmer Espitia Muñoz\
 > **Analista de requerimiento de TI:** Sergio Alonso Anaya Estévez
