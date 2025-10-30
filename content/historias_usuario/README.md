@@ -10,7 +10,7 @@ Las historias de usuario representan las funcionalidades requeridas por los dife
 
 | ID                                                               | Rol      | Necesidad         | Resultado esperado                                 | Prioridad | Estado         |
 | ---------------------------------------------------------------- | -------- | ----------------- | -------------------------------------------------- | --------- | -------------- |
-| [HU-IDEAM-SNIF-REST-015](/content/historias_usuario/HU-IDEAM-SNIF-REST-015/HU-IDEAM-SNIF-REST-015.md) | Consulta | medición | medir distancias lineales y áreas sobre el mapa | Alta      | En formulación |
+| [PLANTILLA](/content/historias_usuario/1_PLANTILLA/PLANTILLA.md) | Consulta | Consulta espacial | Identificar y visualizar los elementos geográficos | Alta      | En formulación |
 
 ## Consideraciones
 
