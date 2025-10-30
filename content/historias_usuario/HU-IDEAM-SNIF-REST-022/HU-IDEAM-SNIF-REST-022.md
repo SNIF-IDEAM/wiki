@@ -10,15 +10,14 @@
 ## DESCRIPCIÓN HISTORIA DE USUARIO
 
 > **Como:** usuario solicitante. \
-> **Quiero:** Que el sistema conste de unun sidebar lateral izquierdo,
+> **Quiero:** Que el sistema conste de unun sidebar lateral izquierdo. \
 > **Para:** que permita la gestión de las principales operaciones del visor geográfico, ofreciendo acceso estructurado a los catálogos temáticos, los procesos disponibles, y las consultas del sistema (ver SIDEBAR DE GESTIÓN DE OPERACIONES).
 
 ## CRITERIOS DE ACEPTACIÓN
 
-1. **El panel se mostrara solo cuando el subdominio relacionado este en la URL (/left-panel)**
-2. **Debera cumplir las caracteristicas dadas por el diseno**
-3. **En caso de que el contenido supere el alto del panel este debera mostrar opcion de scroll (solo en vertical)**
-4. **Debera cumplir las caracteristicas dadas por el diseno**
+1. **El panel se mostrará solo cuando el subdominio relacionado esté en la URL (/left-panel)**
+2. **Deberá cumplir las características dadas por el diseño**
+3. **En caso de que el contenido supere el alto del panel, este deberá mostrar opción de scroll (solo en vertical)**
 
 ## DIAGRAMA DE SECUENCIA
 
