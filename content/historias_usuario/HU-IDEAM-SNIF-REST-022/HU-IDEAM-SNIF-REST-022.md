@@ -11,13 +11,15 @@
 
 > **Como:** usuario solicitante. \
 > **Quiero:** Que el sistema conste de unun sidebar lateral izquierdo. \
-> **Para:** que permita la gestión de las principales operaciones del visor geográfico, ofreciendo acceso estructurado a los catálogos temáticos, los procesos disponibles, y las consultas del sistema (ver SIDEBAR DE GESTIÓN DE OPERACIONES).
+> **Para:** que permita la gestión de las principales operaciones del visor geográfico, ofreciendo acceso estructurado a los catálogos temáticos, los procesos disponibles, y las consultas del sistema.
 
 ## CRITERIOS DE ACEPTACIÓN
 
 1. **El panel se mostrará solo cuando el subdominio relacionado esté en la URL (/left-panel)**
 2. **Deberá cumplir las características dadas por el diseño**
 3. **En caso de que el contenido supere el alto del panel, este deberá mostrar opción de scroll (solo en vertical)**
+4. **Deberá brindar acceso a catálogos temáticos, procesos y consultas del sistemao. Estos se visualizaran como tabs**
+5. **Deberá ocultarse o mostrarse mediante un botón de control lateral, para optimizar el espacio de visualización del mapa**
 
 ## DIAGRAMA DE SECUENCIA
 
