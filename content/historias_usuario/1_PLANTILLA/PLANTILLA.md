@@ -60,6 +60,8 @@
 
 ## ANEXOS
 
-- Ejemplo de consulta espacial mediante API REST.
-- Ejemplo de respuesta en formato GeoJSON.
-- Referencia a numeral **Descargar capas** del visor geográfico.
+- Ejemplo de consulta espacial mediante API REST.  
+- Ejemplo de respuesta en formato **GeoJSON**.  
+- Referencia al numeral **Descargar capas** del visor geográfico.  
+- Especificación técnica del servicio geoespacial utilizado (endpoints, parámetros, formato de salida).  
+- Ejemplo de representación visual de los resultados en el visor. 
