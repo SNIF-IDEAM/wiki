@@ -18,6 +18,9 @@
 
 1. **Encabezado (Header)**  
    1.1 El encabezado debe mostar el logo institucional del IDEAM y la identidad visual del modulo, esto para permitir el origen del sistema. \
+   1.2 El encabezado debe disponer de un menú de navegación principal, que permita acceder rápidamente a las secciones principales. \
+   1.3 El encabezado debe mostrar el avatar del usuario autenticado con opciones de cuenta y cierre de sesión, permitiendo gestionar el perfil del mencionado usuario. \
+   1.4 El encabezado debe contar con un icono de notificaciones, informando sobre alertas o mensajes del sistema.
    
 2. **Cuerpo (Body)**  
    2.1 El cuerpo de la interfaz debe estar dividido en una zona de trabajo del visor geográfico y un área de visualización de contenidos, que permita operar las funciones espaciales del modulo. \
