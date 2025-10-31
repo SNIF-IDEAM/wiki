@@ -1,7 +1,7 @@
 ## HU-IDEAM-SNIF-REST-042
 
 > **Identificador Historia de Usuario:** hu-ideam-snif-rest-042 \
-> **Nombre Historia de Usuario:** Módulo de restauración - Consulta por Capa Geográfica
+> **Nombre Historia de Usuario:** Módulo de restauración - Validaciones topológicas y estructurales
 
 > **Área Proyecto:** Subdirección de Ecosistemas e Información Ambiental \
 > **Nombre proyecto:** Realizar la construcción temática, mejoras informáticas y optimización del Módulo de restauración del SNIF del IDEAM. \
