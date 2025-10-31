@@ -11,6 +11,7 @@ Las historias de usuario representan las funcionalidades requeridas por los dife
 | ID                                                               | Rol      | Necesidad         | Resultado esperado                                 | Prioridad | Estado         |
 | ---------------------------------------------------------------- | -------- | ----------------- | -------------------------------------------------- | --------- | -------------- |
 | [PLANTILLA](/content/historias_usuario/1_PLANTILLA/PLANTILLA.md) | Consulta | Consulta espacial | Identificar y visualizar los elementos geográficos | Alta      | En formulación |
+| [HU-IDEAM-SNIF-REST-001](/content/historias_usuario/HU-IDEAM-SNIF-REST-001/HU-IDEAM-SNIF-REST-001.md) | Consulta | Acceso | Ingresar al modulo | Alta      | En formulación |
 | [HU-IDEAM-SNIF-REST-022](/content/historias_usuario/HU-IDEAM-SNIF-REST-022/HU-IDEAM-SNIF-REST-022.md) | Consulta | Consulta espacial | Mostrar panel izquierdo para funcionalidades | Alta      | En formulación |
 
 ## Consideraciones
