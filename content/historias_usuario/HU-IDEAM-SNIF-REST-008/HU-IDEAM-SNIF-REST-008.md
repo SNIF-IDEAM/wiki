@@ -18,20 +18,20 @@
 
 1. **Visualización de la escala**  
    1.1 El sistema debe mostrar de forma permanente una escala gráfica en la parte inferior izquierda del visor.  \
-   1.2 La escala debe expresarse en unidades métricas (metros y kilómetros).\
-   1.3 Debe mantener legibilidad y consistencia visual con la identidad gráfica del IDEAM.\
+   1.2 La escala debe expresarse en unidades métricas (metros y kilómetros).  \
+   1.3 Debe mantener legibilidad y consistencia visual con la identidad gráfica del IDEAM.  \
 
 2. **Actualización dinámica**  
    2.1 La escala debe actualizarse automáticamente al modificar el nivel de zoom.  \
-   2.2 Los valores deben ajustarse proporcionalmente según la resolución del mapa.\
+   2.2 Los valores deben ajustarse proporcionalmente según la resolución del mapa.  \
 
 3. **Escala numérica**  
-   3.1 Mostrar escala numérica opcional en formato 1:n (ejemplo: 1:50.000).\
-   3.2 Permitir habilitar o deshabilitar su visualización desde las preferencias del usuario.\
+   3.1 Mostrar escala numérica opcional en formato 1:n (ejemplo: 1:50.000).  \
+   3.2 Permitir habilitar o deshabilitar su visualización desde las preferencias del usuario.  \
 
 4. **Compatibilidad y comportamiento general**  
-   4.1 La escala debe adaptarse a distintos tamaños de pantalla (responsiva).\
-   4.2 Conservar la precisión y formato en todos los niveles de ampliación.\
+   4.1 La escala debe adaptarse a distintos tamaños de pantalla (responsiva).  \
+   4.2 Conservar la precisión y formato en todos los niveles de ampliación.  \
 
 
 ## DIAGRAMA DE SECUENCIA
