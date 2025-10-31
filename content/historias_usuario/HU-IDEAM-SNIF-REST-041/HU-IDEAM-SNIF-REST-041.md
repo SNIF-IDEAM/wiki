@@ -16,21 +16,20 @@
 
 ## CRITERIOS DE ACEPTACIÓN
 
-   1. Permitir cargar formatos GeoJSON, Shapefile (ZIP) y KML.  
-   2. Validar que el archivo contenga geometrías poligonales o multipoligonales.  
-   3. Verificar que el sistema de referencia espacial esté definido.  
-   4. Rechazar archivos vacíos, corruptos o sin geometría válida. 
-   5. Limitar el tamaño máximo del archivo a 10 MB.  
-   6. Mostrar mensajes claros sobre el estado de la carga (éxito o error).
-
+1.  Permitir cargar formatos GeoJSON, Shapefile (ZIP) y KML.
+2.  Validar que el archivo contenga geometrías poligonales o multipoligonales.
+3.  Verificar que el sistema de referencia espacial esté definido.
+4.  Rechazar archivos vacíos, corruptos o sin geometría válida.
+5.  Limitar el tamaño máximo del archivo a 10 MB.
+6.  Mostrar mensajes claros sobre el estado de la carga (éxito o error).
 
 ## DIAGRAMA DE SECUENCIA
 
-![IMAGEN DIAGRAMA DE SECUENCIA](assets/actividades-hu-ideam-snif-rest-041.png)
+![IMAGEN DIAGRAMA DE SECUENCIA](assets/secuencia-hu-ideam-snif-rest-041.png)
 
 ## DIAGRAMA DE FLUJO DEL PROCESO
 
-![IMAGEN DIAGRAMA DE FLUJO DEL PROCESO](assets/secuencia-hu-ideam-snif-rest-041.png)
+![IMAGEN DIAGRAMA DE FLUJO DEL PROCESO](assets/actividades-hu-ideam-snif-rest-041.png)
 
 ## PROTOTIPO PRELIMINAR
 

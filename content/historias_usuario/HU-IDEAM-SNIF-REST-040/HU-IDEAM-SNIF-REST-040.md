@@ -16,19 +16,19 @@
 
 ## CRITERIOS DE ACEPTACIÓN
 
-   1. Incluir la opción 'Consulta por capa geográfica' en la pestaña Consultas.  
-   2. Permitir cargar archivos en formatos GeoJSON, Shapefile (ZIP) o KML.  
-   3. Validar que contengan geometrías tipo polígono o multipolígono.  
-   4. Permitir ejecutar, visualizar y descargar los resultados (ver HU 037–040). 
-   5. Cumplir lineamientos de diseño y seguridad institucional IDEAM.
+1.  Incluir la opción 'Consulta por capa geográfica' en la pestaña Consultas.
+2.  Permitir cargar archivos en formatos GeoJSON, Shapefile (ZIP) o KML.
+3.  Validar que contengan geometrías tipo polígono o multipolígono.
+4.  Permitir ejecutar, visualizar y descargar los resultados (ver HU 037–040).
+5.  Cumplir lineamientos de diseño y seguridad institucional IDEAM.
 
 ## DIAGRAMA DE SECUENCIA
 
-![IMAGEN DIAGRAMA DE SECUENCIA](assets/actividades-hu-ideam-snif-rest-040.png)
+![IMAGEN DIAGRAMA DE SECUENCIA](assets/secuencia-hu-ideam-snif-rest-040.png)
 
 ## DIAGRAMA DE FLUJO DEL PROCESO
 
-![IMAGEN DIAGRAMA DE FLUJO DEL PROCESO](assets/secuencia-hu-ideam-snif-rest-040.png)
+![IMAGEN DIAGRAMA DE FLUJO DEL PROCESO](assets/actividades-hu-ideam-snif-rest-040.png)
 
 ## PROTOTIPO PRELIMINAR
 
