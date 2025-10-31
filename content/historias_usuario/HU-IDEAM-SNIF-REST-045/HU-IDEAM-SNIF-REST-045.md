@@ -18,7 +18,7 @@
 
    1. El sistema debe permitir la descarga de datos desde: Catálogo, resultados de consultas atributivas o espaciales, y widgets directos del visor.  
    2. Mostrar un botón o menú 'Descargar datos' visible y accesible en cada contexto aplicable.
-   3. 3.	Garantizar consistencia y cumplimiento de los lineamientos institucionales de diseño y seguridad del IDEAM.
+   3. Garantizar consistencia y cumplimiento de los lineamientos institucionales de diseño y seguridad del IDEAM.
 
 ## DIAGRAMA DE SECUENCIA
 
@@ -30,7 +30,7 @@
 
 ## PROTOTIPO PRELIMINAR
 
-![PROTOTIPO PRELIMINAR](assets/wireframe-hu-ideam-snif-rest-044.png)
+![PROTOTIPO PRELIMINAR](assets/wireframe-hu-ideam-snif-rest-045.png)
 
 ## ANEXOS
 
