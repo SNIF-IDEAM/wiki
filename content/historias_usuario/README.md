@@ -22,6 +22,7 @@ Las historias de usuario representan las funcionalidades requeridas por los dife
 | [HU-IDEAM-SNIF-REST-044](/content/historias_usuario/HU-IDEAM-SNIF-REST-044/HU-IDEAM-SNIF-REST-044.md) | Consulta |Visualización y descarga de resultados | Permitir descarga de información consultada | Alta      | En formulación |
 | [HU-IDEAM-SNIF-REST-045](/content/historias_usuario/HU-IDEAM-SNIF-REST-045/HU-IDEAM-SNIF-REST-045.md) | Consulta |Descarga de capas | Desplegar ventana de descarga | Alta      | En formulación |
 | [HU-IDEAM-SNIF-REST-046](/content/historias_usuario/HU-IDEAM-SNIF-REST-046/HU-IDEAM-SNIF-REST-046.md) | Consulta |Origen de las descargas | Iniciar descarga | Alta      | En formulación |
+| [HU-IDEAM-SNIF-REST-047](/content/historias_usuario/HU-IDEAM-SNIF-REST-047/HU-IDEAM-SNIF-REST-047.md) | Consulta |Formatos de descarga soportados | Información descarga en formato permitidos | Alta      | En formulación |
 
 ## Consideraciones
 
