@@ -29,7 +29,7 @@ Las historias de usuario representan las funcionalidades requeridas por los dife
 | [HU-IDEAM-SNIF-REST-047](/content/historias_usuario/HU-IDEAM-SNIF-REST-047/HU-IDEAM-SNIF-REST-047.md) | Descarga              | Formatos de descarga soportados              | Información descargada en formato permitido                                             | Alta      | En formulación |
 | [HU-IDEAM-SNIF-REST-048](/content/historias_usuario/HU-IDEAM-SNIF-REST-048/HU-IDEAM-SNIF-REST-048.md) | Descarga              | Sistema de referencia espacial               | Sistema de referencia espacial permitido                                                | Alta      | En formulación |
 | [HU-IDEAM-SNIF-REST-049](/content/historias_usuario/HU-IDEAM-SNIF-REST-049/HU-IDEAM-SNIF-REST-049.md) | Descarga              | Parámetros y condiciones de descarga               | Identificación de los datos descargados                                               | Alta      | En formulación |
-| [HU-IDEAM-SNIF-REST-050](/content/historias_usuario/HU-IDEAM-SNIF-REST-050/HU-IDEAM-SNIF-REST-050.md) | Descarga              | Validaciones y control de errores               | ARchivos validados                                               | Alta      | En formulación |
+| [HU-IDEAM-SNIF-REST-050](/content/historias_usuario/HU-IDEAM-SNIF-REST-050/HU-IDEAM-SNIF-REST-050.md) | Descarga              | Validaciones y control de errores               | Achivos validados                                               | Alta      | En formulación |
 
 ## Consideraciones
 
