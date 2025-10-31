@@ -16,10 +16,10 @@
 
 ## CRITERIOS DE ACEPTACIÓN
 
-1. **Mostrar lista de capas organizadas jerárquicamente por grupo o tema.**
-2. **Incluir casillas de visibilidad (check) para cada capa.**
-3. **Permitir cambiar el orden de visualización de las capas.**
-4. **Mostrar leyenda dinámica con símbolos de cada capa.**
+1. Mostrar lista de capas organizadas jerárquicamente por grupo o tema.
+2. Incluir casillas de visibilidad (check) para cada capa.
+3. Permitir cambiar el orden de visualización de las capas.
+4. Mostrar leyenda dinámica con símbolos de cada capa.
 
 
 
