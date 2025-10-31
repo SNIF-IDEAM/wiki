@@ -24,11 +24,11 @@
 
 ## DIAGRAMA DE SECUENCIA
 
-![IMAGEN DIAGRAMA DE SECUENCIA](assets/secuencia-hu-ideam-snif-rest-040.png)
+![IMAGEN DIAGRAMA DE SECUENCIA](assets/actividades-hu-ideam-snif-rest-040.png)
 
 ## DIAGRAMA DE FLUJO DEL PROCESO
 
-![IMAGEN DIAGRAMA DE FLUJO DEL PROCESO](assets/actividades-hu-ideam-snif-rest-040.png)
+![IMAGEN DIAGRAMA DE FLUJO DEL PROCESO](assets/secuencia-hu-ideam-snif-rest-040.png)
 
 ## PROTOTIPO PRELIMINAR
 

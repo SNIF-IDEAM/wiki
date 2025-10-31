@@ -1,7 +1,7 @@
 ## HU-IDEAM-SNIF-REST-041
 
 > **Identificador Historia de Usuario:** hu-ideam-snif-rest-041 \
-> **Nombre Historia de Usuario:** Módulo de restauración - Consulta por Capa Geográfica
+> **Nombre Historia de Usuario:** Módulo de restauración - Carga y validación del archivo geográfico
 
 > **Área Proyecto:** Subdirección de Ecosistemas e Información Ambiental \
 > **Nombre proyecto:** Realizar la construcción temática, mejoras informáticas y optimización del Módulo de restauración del SNIF del IDEAM. \
@@ -26,11 +26,11 @@
 
 ## DIAGRAMA DE SECUENCIA
 
-![IMAGEN DIAGRAMA DE SECUENCIA](assets/secuencia-hu-ideam-snif-rest-041.png)
+![IMAGEN DIAGRAMA DE SECUENCIA](assets/actividades-hu-ideam-snif-rest-041.png)
 
 ## DIAGRAMA DE FLUJO DEL PROCESO
 
-![IMAGEN DIAGRAMA DE FLUJO DEL PROCESO](assets/actividades-hu-ideam-snif-rest-041.png)
+![IMAGEN DIAGRAMA DE FLUJO DEL PROCESO](assets/secuencia-hu-ideam-snif-rest-041.png)
 
 ## PROTOTIPO PRELIMINAR
 
