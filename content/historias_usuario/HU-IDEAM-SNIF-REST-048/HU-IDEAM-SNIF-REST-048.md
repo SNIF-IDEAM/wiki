@@ -11,7 +11,7 @@
 ## DESCRIPCIÓN HISTORIA DE USUARIO
 
 > **Como:** usuario solicitante. \
-> **Quiero:**  quiero que todos los datos descargados estén reproyectados a EPSG:4326. \
+> **Quiero:**  que todos los datos descargados estén reproyectados a EPSG:4326. \
 > **Para:** garantizar compatibilidad con visores web y herramientas SIG externas.
 
 ## CRITERIOS DE ACEPTACIÓN
