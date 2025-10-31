@@ -16,10 +16,12 @@
 
 ## CRITERIOS DE ACEPTACIÓN
 
-   1. Omitir registros con geometría inválida.  
-   2. Validar nombres de campo según formato destino.
-   3. Mostrar mensajes de error con causa específica y registrar los errores en logs.
-   4. Interrumpir el proceso si se detectan inconsistencias críticas en el dataset.
+   1. Verificar geometrías válidas (no vacías, no nulas). 
+   2. Omitir registros con geometría inválida.
+   3. Validar nombres de campo según formato destino.
+   4. Mostrar mensajes de error con causa específica y registrar los errores en logs.
+   5. Interrumpir el proceso si se detectan inconsistencias críticas en el dataset.
+
 
 ## DIAGRAMA DE SECUENCIA
 
