@@ -16,9 +16,9 @@
 
 ## CRITERIOS DE ACEPTACIÓN
 
-1. **Generar imagen en formato PNG o JPG con escala, coordenadas y logotipo institucional.**
-2. **Incluir leyenda si está visible en el visor.**
-3. **Descargar automáticamente el archivo generado al equipo del usuario.**
+1. Generar imagen en formato PNG o JPG con escala, coordenadas y logotipo institucional.
+2. Incluir leyenda si está visible en el visor.
+3. Descargar automáticamente el archivo generado al equipo del usuario.
 
 
 

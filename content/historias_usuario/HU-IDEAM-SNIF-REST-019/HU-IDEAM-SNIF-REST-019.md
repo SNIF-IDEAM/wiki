@@ -16,9 +16,9 @@
 
 ## CRITERIOS DE ACEPTACIÓN
 
-1. **Permitir seleccionar dos capas compatibles para la comparación.**
-2. **Incluir control deslizante horizontal o vertical para revelar una capa sobre otra.**
-3. **Permitir activar o desactivar la herramienta sin recargar el mapa.**
+1. Permitir seleccionar dos capas compatibles para la comparación.
+2. Incluir control deslizante horizontal o vertical para revelar una capa sobre otra.
+3. Permitir activar o desactivar la herramienta sin recargar el mapa.
 
 
 

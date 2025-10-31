@@ -16,9 +16,9 @@
 
 ## CRITERIOS DE ACEPTACIÓN
 
-1. **Desplegar panel con miniaturas de opciones disponibles (ESRI, Google, OSM, etc.).**
-2. **Actualizar el mapa base automáticamente al confirmar la selección.**
-3. **Mantener la preferencia del usuario entre sesiones.**
+1. Desplegar panel con miniaturas de opciones disponibles (ESRI, Google, OSM, etc.).
+2. Actualizar el mapa base automáticamente al confirmar la selección.
+3. Mantener la preferencia del usuario entre sesiones.
 
 
 

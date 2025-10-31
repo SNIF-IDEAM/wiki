@@ -16,10 +16,10 @@
 
 ## CRITERIOS DE ACEPTACIÓN
 
-1. **Permitir seleccionar tipo de medición: distancia o área.**  
-2. **Mostrar resultados en metros, kilómetros o hectáreas según unidad configurada.**  
-3. **Actualizar los valores en tiempo real durante la medición.**  
-4. **Incluir botón para limpiar las mediciones activas.**  
+1. Permitir seleccionar tipo de medición: distancia o área. 
+2. Mostrar resultados en metros, kilómetros o hectáreas según unidad configurada.
+3. Actualizar los valores en tiempo real durante la medición.
+4. Incluir botón para limpiar las mediciones activas.
 
 
 ## DIAGRAMA DE SECUENCIA

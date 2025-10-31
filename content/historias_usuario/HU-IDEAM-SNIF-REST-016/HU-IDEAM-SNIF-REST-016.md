@@ -16,10 +16,10 @@
 
 ## CRITERIOS DE ACEPTACIÓN
 
-1. **Mostrar atributos del elemento seleccionado en ventana emergente.**  
-2. **Incluir nombre de la capa y valores de cada campo.**  
-3. **Actualizar los valores en tiempo real durante la medición.**  
-4. **Permitir identificación simultánea en múltiples capas.**  
+1. Mostrar atributos del elemento seleccionado en ventana emergente. 
+2. Incluir nombre de la capa y valores de cada campo.
+3. Actualizar los valores en tiempo real durante la medición.
+4. Permitir identificación simultánea en múltiples capas.
 
 
 ## DIAGRAMA DE SECUENCIA
