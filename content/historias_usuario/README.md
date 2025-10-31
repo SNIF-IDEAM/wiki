@@ -21,6 +21,7 @@ Las historias de usuario representan las funcionalidades requeridas por los dife
 | [HU-IDEAM-SNIF-REST-043](/content/historias_usuario/HU-IDEAM-SNIF-REST-043/HU-IDEAM-SNIF-REST-043.md) | Consulta |Ejecución de la consulta por capa geográfica | Información Consultada | Alta      | En formulación |
 | [HU-IDEAM-SNIF-REST-044](/content/historias_usuario/HU-IDEAM-SNIF-REST-044/HU-IDEAM-SNIF-REST-044.md) | Consulta |Visualización y descarga de resultados | Permitir descarga de información consultada | Alta      | En formulación |
 | [HU-IDEAM-SNIF-REST-045](/content/historias_usuario/HU-IDEAM-SNIF-REST-044/HU-IDEAM-SNIF-REST-045.md) | Descarga |Descarga de capas | Opción para descargar | Alta      | En formulación |
+| [HU-IDEAM-SNIF-REST-048](/content/historias_usuario/HU-IDEAM-SNIF-REST-048/HU-IDEAM-SNIF-REST-048.md) | Descarga |Sistema de referencia espacial | Sistema de referencia espacial permitido | Alta      | En formulación |
 
 ## Consideraciones
 
