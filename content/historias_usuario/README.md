@@ -17,8 +17,8 @@ Las historias de usuario representan las funcionalidades requeridas por los dife
 | [HU-IDEAM-SNIF-REST-022](/content/historias_usuario/HU-IDEAM-SNIF-REST-022/HU-IDEAM-SNIF-REST-022.md) | Consulta | Consulta espacial | Mostrar panel izquierdo para funcionalidades | Alta      | En formulación |
 | [HU-IDEAM-SNIF-REST-040](/content/historias_usuario/HU-IDEAM-SNIF-REST-040/HU-IDEAM-SNIF-REST-040.md) | Consulta | Consulta por capa geográfica | Desplegar ventana de consulta | Alta      | En formulación |
 | [HU-IDEAM-SNIF-REST-041](/content/historias_usuario/HU-IDEAM-SNIF-REST-041/HU-IDEAM-SNIF-REST-041.md) | Consulta |  Carga y validación del archivo geográfico | Cargue de archivo geográfico | Alta      | En formulación |
-| [HU-IDEAM-SNIF-REST-042](/content/historias_usuario/HU-IDEAM-SNIF-REST-042/HU-IDEAM-SNIF-REST-042.md) | Consulta |Validaciones topológicas y estructurales | Validación de archivo geográfico | Alta      | En formulación |
-| [HU-IDEAM-SNIF-REST-043](/content/historias_usuario/HU-IDEAM-SNIF-REST-043/HU-IDEAM-SNIF-REST-043.md) | Consulta |Ejecución de la consulta por capa geográfica | Accionar consulta | Alta      | En formulación |
+| [HU-IDEAM-SNIF-REST-042](/content/historias_usuario/HU-IDEAM-SNIF-REST-042/HU-IDEAM-SNIF-REST-042.md) | Consulta |Validaciones topológicas y estructurales | Archivo validado | Alta      | En formulación |
+| [HU-IDEAM-SNIF-REST-043](/content/historias_usuario/HU-IDEAM-SNIF-REST-043/HU-IDEAM-SNIF-REST-043.md) | Consulta |Ejecución de la consulta por capa geográfica | Información Consultada | Alta      | En formulación |
 | [HU-IDEAM-SNIF-REST-044](/content/historias_usuario/HU-IDEAM-SNIF-REST-044/HU-IDEAM-SNIF-REST-044.md) | Consulta |Visualización y descarga de resultados | Permitir descarga de información consultada | Alta      | En formulación |
 
 ## Consideraciones
