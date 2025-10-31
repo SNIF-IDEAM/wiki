@@ -11,7 +11,7 @@
 ## DESCRIPCIÓN HISTORIA DE USUARIO
 
 > **Como:** usuario solicitante. \
-> **Quiero:** que al cerrar la ventana de bienvenidad, se despliegue la interfaza general del modulo con encabezado, cuerpo y pie de página. \
+> **Quiero:** que al cerrar la ventana de bienvenida, se despliegue la interfaz general del modulo con encabezado, cuerpo y pie de página. \
 > **Para:** navegar por las funcionalidades disponibles.
 
 ## CRITERIOS DE ACEPTACIÓN
