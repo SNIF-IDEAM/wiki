@@ -16,12 +16,6 @@
 
 ## CRITERIOS DE ACEPTACIÓN
 
-1. **Visualización inicial del mapa general**  
-   1.1 El sistema debe mostrar por defecto un mapa general en la esquina inferior derecha del visor principal. \
-   1.2 El mapa general debe representar una miniatura del mapa base activo en el visor principal. \
-   1.3 La visualización debe mantenerse visible durante toda la sesión, salvo que el usuario decida ocultarla.
-
-
 1. **Visualización del logo institucional**  
    1.1 El sistema debe mostrar de forma permanente el logo institucional del IDEAM en la barra superior del visor. \
    1.2 La posición por defecto del logo será en la esquina superior izquierda de la interfaz. \
