@@ -1,6 +1,6 @@
 ## HU-IDEAM-SNIF-REST-005
 
-> **Identificador Historia de Usuario:** hu-ideam-snif-rest-002 \
+> **Identificador Historia de Usuario:** hu-ideam-snif-rest-005 \
 > **Nombre Historia de Usuario:** Módulo de restauración - Zona de trabajo del visor geográfico
 
 > **Área Proyecto:** Subdirección de Ecosistemas e Información Ambiental \

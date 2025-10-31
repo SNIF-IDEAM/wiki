@@ -1,6 +1,6 @@
 ## HU-IDEAM-SNIF-REST-007
 
-> **Identificador Historia de Usuario:** hu-ideam-snif-rest-002 \
+> **Identificador Historia de Usuario:** hu-ideam-snif-rest-007 \
 > **Nombre Historia de Usuario:** Módulo de restauración - Footer y elementos de navegación auxiliar
 
 > **Área Proyecto:** Subdirección de Ecosistemas e Información Ambiental \
