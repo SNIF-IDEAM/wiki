@@ -37,4 +37,4 @@
 
 - Ejemplo de consulta espacial mediante API REST.
 - Ejemplo de respuesta en formato GeoJSON.
-- Referencia a numeral **Descarda de Capas** del visor geográfico.
+- Referencia a numeral **Descarga de Capas** del visor geográfico.
