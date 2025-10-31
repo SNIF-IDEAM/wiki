@@ -1,6 +1,6 @@
 ## HU-IDEAM-SNIF-REST-029
 
-> **Identificador Historia de Usuario:** hu-ideam-snif-rest-028 \
+> **Identificador Historia de Usuario:** hu-ideam-snif-rest-029 \
 > **Nombre Historia de Usuario:** Módulo de restauración - Activación del modo de consulta espacial
 
 > **Área Proyecto:** Subdirección de Ecosistemas e Información Ambiental \
@@ -34,7 +34,3 @@
 ![PROTOTIPO PRELIMINAR](assets/wireframe-hu-ideam-snif-rest-029.png)
 
 ## ANEXOS
-
-- Wireframe: Mapa con resultados resaltados y tabla de atributos.
-- Dependencias funcionales: HU-027 (Ejecución), HU-045 (Descarga de capas).
-- Observaciones: Permitir reiniciar resultados sin recargar el visor.

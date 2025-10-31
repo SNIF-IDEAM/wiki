@@ -1,6 +1,6 @@
 ## HU-IDEAM-SNIF-REST-003
 
-> **Identificador Historia de Usuario:** hu-ideam-snif-rest-002 \
+> **Identificador Historia de Usuario:** hu-ideam-snif-rest-003 \
 > **Nombre Historia de Usuario:** Módulo de restauración - Ventana modal de validación y bienvenida
 
 > **Área Proyecto:** Subdirección de Ecosistemas e Información Ambiental \
