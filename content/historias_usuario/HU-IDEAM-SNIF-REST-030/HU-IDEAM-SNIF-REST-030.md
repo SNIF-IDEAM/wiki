@@ -1,7 +1,7 @@
 ## HU-IDEAM-SNIF-REST-030
 
 > **Identificador Historia de Usuario:** hu-ideam-snif-rest-030 \
-> **Nombre Historia de Usuario:** Módulo de restauración - Captura y validación de geometría
+> **Nombre Historia de Usuario:** Módulo de restauración - Dibujar la geometría en el mapa
 
 > **Área Proyecto:** Subdirección de Ecosistemas e Información Ambiental \
 > **Nombre proyecto:** Realizar la construcción temática, mejoras informáticas y optimización del Módulo de restauración del SNIF del IDEAM. \
@@ -11,22 +11,17 @@
 ## DESCRIPCIÓN HISTORIA DE USUARIO
 
 > **Como:** usuario solicitante. \
-> **Quiero:** dibujar una geometría directamente sobre el mapa y que el sistema valide su forma. \
-> **Para:** garantizar que la consulta espacial se realice con una geometría válida.
+> **Quiero:** dibujar una geometría directamente sobre el mapa. \
+> **Para:** definir el área o forma espacial sobre la cual realizaré la consulta.
 
 ## CRITERIOS DE ACEPTACIÓN
 
-1. **Representación visual en el mapa**  
-    1.1 Dado que el usuario tiene activo el modo de dibujo, cuando realiza una geometría en el mapa, entonces el sistema debe representar la figura con un estilo destacado (línea o relleno visible).  
+1. **Dibujar figura en el mapa**  
+    1.1 Dado que el modo de consulta espacial está activo, cuando el usuario selecciona un tipo de geometría, entonces el sistema debe permitir dibujar la figura sobre el mapa. 
 
 
-2. **Validación de geometría**  
-    2.1 Dado que el dibujo se completó, cuando el sistema evalúa la geometría, entonces debe validar que no esté vacía ni sea inválida (sin vértices o con coordenadas erróneas).
-
-
-3. **Notificación de error**  
-    3.1 Dado que la geometría no es válida, cuando el sistema detecte el error, entonces debe mostrar un mensaje informativo al usuario y solicitar que repita el dibujo.
-
+2. **Representación visual en el mapa**  
+    2.1 Dado que el dibujo ha finalizado, cuando el usuario suelta el cursor o completa el trazado, entonces el sistema debe mostrar la geometría con un estilo destacado (borde o relleno visible).
 
    
 ## DIAGRAMA DE SECUENCIA
