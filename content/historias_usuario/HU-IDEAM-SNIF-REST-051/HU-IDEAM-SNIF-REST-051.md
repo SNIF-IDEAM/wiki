@@ -23,7 +23,6 @@
    5. Permitir abrir los archivos generados en QGIS, ArcGIS, Google Earth y visores web.
 
 
-
 ## DIAGRAMA DE SECUENCIA
 
 ![IMAGEN DIAGRAMA DE SECUENCIA](assets/secuencia-hu-ideam-snif-rest-051.png)
