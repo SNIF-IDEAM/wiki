@@ -1,5 +1,5 @@
-## HU-IDEAM-SNIF-REST-023
-> **Identificador Historia de Usuario:** HU-IDEAM-SNIF-REST-023 \
+## HU-IDEAM-SNIF-REST-022
+> **Identificador Historia de Usuario:** HU-IDEAM-SNIF-REST-022 \
 > **Nombre Historia de Usuario:** Módulo de restauración - Pestaña Catálogo
 
 > **Área Proyecto:** Subdirección de Ecosistemas e Información Ambiental \
