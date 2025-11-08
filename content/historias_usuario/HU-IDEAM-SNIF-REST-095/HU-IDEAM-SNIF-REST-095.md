@@ -12,10 +12,9 @@
 
 > **Como:** usuario del sistema con rol adecuado. \
 > **Quiero:**  registrar un nuevo proyecto de restauración.  \
-> **Para:** iniciar la trazabilidad y la administración de los planes y sus atributos clave, obteniendo un identificador único y legible
+> **Para:** iniciar la trazabilidad y la administración de los planes y sus atributos clave, obteniendo un identificador único y legible.
 
 ## CRITERIOS DE ACEPTACIÓN
-
 
 1. **Control de acceso**  
    1.1 Solo los usuarios con el rol adecuado (Ej: Editor/Administrador) pueden crear o editar proyectos.   
@@ -28,7 +27,7 @@
    3.1 Al guardar el registro exitosamente, el sistema debe generar el identificador especial con la estructura: PROY_<YYYYMMDD>_<número consecutivo>.   
    3.2 Si ocurre un error durante el guardado (falla de DB/validación), el sistema no debe generar ni consumir el consecutivo para mantener la integridad.
 
-4. **Visibilidad y editabilidad**  
+4. **Validación de unicidad**  
    4.1 El campo del identificador especial (PROY_...) no es visible durante la creación o edición del formulario, solo después de que el registro ha sido guardado.   
    4.2 El campo del identificador especial no es editable por el usuario.
 
