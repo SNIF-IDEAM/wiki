@@ -65,7 +65,7 @@ Las historias de usuario representan las funcionalidades requeridas por los dife
 | [HU-IDEAM-SNIF-REST-087](/content/historias_usuario/HU-IDEAM-SNIF-REST-087/HU-IDEAM-SNIF-REST-087.md) | Carga de archivos log              | Registro de eventos para carga y gestión de Archivos               | Registro de archivos en el log de auditoría                                              | Alta      | En formulación |
 | [HU-IDEAM-SNIF-REST-095](/content/historias_usuario/HU-IDEAM-SNIF-REST-095/HU-IDEAM-SNIF-REST-095.md) | Formulario Proyecto             | Formulario Proyecto: creación y asignación automática de identificadores               | Generación automática de identificadores                                              | Alta      | En formulación |
 | [HU-IDEAM-SNIF-REST-096](/content/historias_usuario/HU-IDEAM-SNIF-REST-096/HU-IDEAM-SNIF-REST-096.md) | Formulario Proyecto             | Formulario Proyecto: campos básicos y validaciones               | Validación del llenado de campos básicos                                              | Alta      | En formulación |
-
+| [HU-IDEAM-SNIF-REST-097](/content/historias_usuario/HU-IDEAM-SNIF-REST-097/HU-IDEAM-SNIF-REST-097.md) | Formulario Proyecto             | Formulario Proyecto: lógica condicional de sostenibilidad y monitoreo               | Lógica condicional para el monitoreo                                               | Alta      | En formulación |
 ## Consideraciones
 
 - Las historias se gestionan mediante Jira.
