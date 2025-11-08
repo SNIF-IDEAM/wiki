@@ -18,7 +18,7 @@
 
 
 1. **Integración con el Log de Auditoría (HU-083)**  
-   1.1 Los eventos de carga, reemplazo o eliminación lógica se deben registrar en el log de auditoría del sistema (Ver HU-083). 
+   1.1 Los eventos de carga, reemplazo o eliminación lógica se deben registrar en el log de auditoría del sistema (Ver HU-083).   
    1.2 El registro en el log debe cumplir con el Formato de Log estándar definido en la HU-083.
 
 2. **Detalle Específico del Registro**  
