@@ -54,8 +54,10 @@
 ![IMAGEN DIAGRAMA DE FLUJO DEL PROCESO](assets/actividades-hu-ideam-snif-rest-012.png)
 
 ## PROTOTIPO PRELIMINAR
-
-![PROTOTIPO PRELIMINAR](assets/wireframe-hu-ideam-snif-rest-001.png)
+Avatar de usuario autenticado (Foto)
+![PROTOTIPO PRELIMINAR](assets/wireframe-hu-ideam-snif-rest-012a.png)
+Avatar de usuario autenticado (Letra)
+![PROTOTIPO PRELIMINAR](assets/wireframe-hu-ideam-snif-rest-012b.png)
 
 ## ANEXOS
 

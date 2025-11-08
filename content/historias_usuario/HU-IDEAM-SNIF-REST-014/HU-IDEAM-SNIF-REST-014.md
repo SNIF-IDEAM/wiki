@@ -56,7 +56,7 @@
 
 ## PROTOTIPO PRELIMINAR
 
-![PROTOTIPO PRELIMINAR](assets/wireframe-hu-ideam-snif-rest-001.png)
+![PROTOTIPO PRELIMINAR](assets/wireframe-hu-ideam-snif-rest-014.png)
 
 ## ANEXOS
 
