@@ -38,8 +38,10 @@
 ![IMAGEN DIAGRAMA DE FLUJO DEL PROCESO](assets/actividades-hu-ideam-snif-rest-006.png)
 
 ## PROTOTIPO PRELIMINAR
-
-![PROTOTIPO PRELIMINAR](assets/wireframe-hu-ideam-snif-rest-006.png)
+Panel lateral abierto
+![PROTOTIPO PRELIMINAR](assets/wireframe-hu-ideam-snif-rest-006-abierto.png)
+Panel lateral cerrado
+![PROTOTIPO PRELIMINAR](assets/wireframe-hu-ideam-snif-rest-006-cerrado.png)
 
 ## ANEXOS
 
