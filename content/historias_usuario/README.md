@@ -62,6 +62,7 @@ Las historias de usuario representan las funcionalidades requeridas por los dife
 | [HU-IDEAM-SNIF-REST-049](/content/historias_usuario/HU-IDEAM-SNIF-REST-049/HU-IDEAM-SNIF-REST-049.md) | Descarga              | Parámetros y condiciones de descarga               | Identificación de los datos descargados                                               | Alta      | En formulación |
 | [HU-IDEAM-SNIF-REST-050](/content/historias_usuario/HU-IDEAM-SNIF-REST-050/HU-IDEAM-SNIF-REST-050.md) | Descarga              | Validaciones y control de errores               | Archivos validados                                               | Alta      | En formulación |
 | [HU-IDEAM-SNIF-REST-051](/content/historias_usuario/HU-IDEAM-SNIF-REST-051/HU-IDEAM-SNIF-REST-051.md) | Descarga              | Interfaz de usuario y registro de descargas               | Desplegar listado de descargas                                              | Alta      | En formulación |
+| [HU-IDEAM-SNIF-REST-087](/content/historias_usuario/HU-IDEAM-SNIF-REST-087/HU-IDEAM-SNIF-REST-087.md) | Carga de archivos log              | Registro de eventos para carga y gestión de Archivos               | Registro de archivos en el log de auditoría                                              | Alta      | En formulación |
 
 ## Consideraciones
 
