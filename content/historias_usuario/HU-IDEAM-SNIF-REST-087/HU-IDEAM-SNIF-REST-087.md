@@ -25,7 +25,7 @@
    1.1 El log debe incluir información específica que relacione el evento con el archivo, tales como: tipo de archivo (GENERAL o GEOGRÁFICO), ID del archivo (PK de la tabla adjuntos) y tabla referida. 
 
 3. **Detalle Específico del Registro**  
-   1.1 Se debe registrar explícitamente cuando: un archivo se sube (Carga), un archivo se marca con estado 'INACTIVO' (Eliminación lógica) y cuando Se sube una nueva versión de un archivo existente. 
+   1.1 Se debe registrar explícitamente cuando: un archivo se sube (Carga), un archivo se marca con estado 'INACTIVO' (Eliminación lógica) y cuando se sube una nueva versión de un archivo existente. 
 
 ## DIAGRAMA DE SECUENCIA
 
