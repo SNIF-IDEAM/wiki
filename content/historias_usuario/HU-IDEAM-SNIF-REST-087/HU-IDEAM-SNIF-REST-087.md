@@ -12,7 +12,7 @@
 
 > **Como:** administrador del sistema. \
 > **Quiero:**  que todos los eventos de gestión de archivos (carga, reemplazo y eliminación) queden registrados en el log de auditoría.  \
-> **Para:** : asegurar la trazabilidad de la gestión de la documentación y los archivos geográfico.
+> **Para:** asegurar la trazabilidad de la gestión de la documentación y los archivos geográfico.
 
 ## CRITERIOS DE ACEPTACIÓN
 
