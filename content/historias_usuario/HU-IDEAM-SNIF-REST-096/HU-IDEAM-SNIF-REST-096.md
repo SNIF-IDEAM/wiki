@@ -58,4 +58,4 @@
 
 ## ANEXOS
 
-- Listado de valores de la enumeración dom_moneda, dom_tipo_tramite y enum_estado_proyecto.
+- Listado de valores de la enumeración moneda, dom_tipo_tramite y estado_proyecto.
