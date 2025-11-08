@@ -16,12 +16,12 @@
 
 ## CRITERIOS DE ACEPTACIÓN
 
-   1.	Integración con el Log de Auditoría (HU-083)  \
-   1.1. Los eventos de carga, reemplazo o eliminación lógica se deben registrar en el log de auditoría del sistema (Ver HU-083). \
-   1.2. El registro en el log debe cumplir con el Formato de Log estándar definido en la HU-083.
-   2. Detalle Específico del Registro \
-   2.1. El log debe incluir información específica que relacione el evento con el archivo, tales como: Tipo de Archivo (GENERAL o GEOGRAFICO), ID del Archivo (PK de la tabla adjuntos) y Tabla Referida.
-   3. Eventos a Registrar \
+   1.	Integración con el Log de Auditoría (HU-083)  
+   1.1 Los eventos de carga, reemplazo o eliminación lógica se deben registrar en el log de auditoría del sistema (Ver HU-083).  
+   1.2 El registro en el log debe cumplir con el Formato de Log estándar definido en la HU-083.
+   2. Detalle Específico del Registro  
+   2.1 El log debe incluir información específica que relacione el evento con el archivo, tales como: Tipo de Archivo (GENERAL o GEOGRAFICO), ID del Archivo (PK de la tabla adjuntos) y Tabla Referida.
+   3. Eventos a Registrar  
    3.1. Se debe registrar explícitamente cuando: un archivo se sube (Carga), un archivo se marca con estado 'INACTIVO' (Eliminación lógica) y cuando Se sube una nueva versión de un archivo existente.
 
 ## DIAGRAMA DE SECUENCIA
