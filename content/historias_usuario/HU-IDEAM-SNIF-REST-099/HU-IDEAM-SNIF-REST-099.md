@@ -34,7 +34,7 @@
    4.2 El sistema debe mostrar un resumen tabular de las fuentes agregadas con las opciones: Editar y Eliminar.
 
 5. **Eliminación**  
-   5.1 Al eliminar una fuente, se debe mostrar un mensaje de confirmación: “¿Desea eliminar esta fuente de financiación del proyecto?” (Ver HU-070).
+   5.1 Al eliminar una fuente, se debe mostrar un mensaje de confirmación: “¿Desea eliminar esta fuente de financiación del proyecto?” (Ver [HU-IDEAM-SNIF-REST-070](/content/historias_usuario/HU-IDEAM-SNIF-REST-070/HU-IDEAM-SNIF-REST-070.md)).
 
 ## DIAGRAMA DE SECUENCIA
 
