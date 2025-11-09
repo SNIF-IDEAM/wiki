@@ -24,7 +24,7 @@
    2.1 . El registro de log para archivos debe incluir los siguientes campos mínimos de detalle técnico: id_log (PK, autoincremental), fecha_hora * usuario, acción (UPLOAD, REPLACE, DELETE, PROCESS), resultado (SUCCESS, ERROR), id_archivo (FK a la tabla adjuntos) y mensaje (descripción corta). 
 
 3. **Clasificación y Detalle de Error**  
-   3.1 Los logs deben clasificarse por niveles: INFO (éxito, upload), WARNING (formato no ideal), y ERROR (falla en el servidor/proceso).
+   3.1 Los logs deben clasificarse por niveles: INFO (éxito, upload), WARNING (formato no ideal), y ERROR (falla en el servidor/proceso).   
    3.2 Si el proceso de carga/procesamiento falla (por formato no admitido o error del servidor), el sistema debe guardar el stack trace resumido o el código de error completo en el log.
 
 4. **Administración del Log**  

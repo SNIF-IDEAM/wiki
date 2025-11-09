@@ -21,7 +21,8 @@
    1.2. Se debe limitar el tamaño a 10 MB y aceptar solo las extensiones permitidas.
 
 2. **Proceso de Subida (Retroalimentación)**  
-   2.1 Durante el proceso de subida, se debe mostrar un indicador de progreso o spinner al usuario (Ver HU-090).  2.2. Al finalizar, se debe mostrar una notificación de éxito o error (Ver HU-091).
+   2.1 Durante el proceso de subida, se debe mostrar un indicador de progreso o spinner al usuario (Ver HU-090).         
+   2.2. Al finalizar, se debe mostrar una notificación de éxito o error (Ver HU-091).
 
 3. **Almacenamiento y Seguridad**  
    3.1 La metadata del archivo debe registrarse en la tabla ADJUNTOS (Ver HU-086).   
