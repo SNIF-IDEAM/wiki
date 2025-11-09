@@ -26,9 +26,9 @@
    2.1 Toda operación (Crear, Editar) debe registrarse en el log de auditoría (Ver HU-083) con: usuario, fecha_hora, acción (CREAR/EDITAR), tabla_afectada (proyecto) e id_proyecto.   
 
 3. **Habilitación de Pestañas**  
-  3.1. Las pestañas "Gestión de fuentes de financiación" y "Gestión de adjuntos" solo se habilitan una vez que el proyecto ha sido guardado exitosamente y existe un id_proyecto válido.   
-  3.2. Si el usuario intenta acceder a las pestañas sin guardar, se muestra el mensaje: “Debe guardar el proyecto antes de acceder a esta información".  
-  3.3. Las pestañas pueden editarse en cualquier momento (modo edición).
+   3.1. Las pestañas "Gestión de fuentes de financiación" y "Gestión de adjuntos" solo se habilitan una vez que el proyecto ha sido guardado exitosamente y existe un id_proyecto válido.     
+   3.2. Si el usuario intenta acceder a las pestañas sin guardar, se muestra el mensaje: “Debe guardar el proyecto antes de acceder a esta información".    
+   3.3. Las pestañas pueden editarse en cualquier momento (modo edición).  
    
 4. **Controles de Abandono**  
    4.1 Si el usuario intenta abandonar el formulario con cambios no guardados, se mostrará una modal de confirmación: “Tiene cambios sin guardar. ¿Desea salir sin guardar?” (Ver HU-070).  
