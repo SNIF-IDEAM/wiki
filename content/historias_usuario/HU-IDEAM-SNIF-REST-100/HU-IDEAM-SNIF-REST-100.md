@@ -11,8 +11,8 @@
 ## DESCRIPCIÓN HISTORIA DE USUARIO
 
 > **Como:** usuario del sistema. \
-> **Quiero:**  gestionar los documentos y archivos geográficos asociados al proyecto, y tener controles independientes para cada pestaña.   \
-> **Para:** : mantener la evidencia documental y tener flexibilidad al guardar la información.
+> **Quiero:** gestionar los documentos y archivos geográficos asociados al proyecto, y tener controles independientes para cada pestaña.   \
+> **Para:** mantener la evidencia documental y tener flexibilidad al guardar la información.
 
 ## CRITERIOS DE ACEPTACIÓN
 
@@ -35,7 +35,7 @@
    4.2 Al Guardar se muestra mensaje de éxito: “Los datos se han guardado correctamente.”. \
    4.3 Al Cancelar se revierten los cambios no guardados y muestra: “Los cambios han sido cancelados.” No se afectan datos previos. \
    4.4 Al Reiniciar se limpia los campos de la pestaña activa, pidiendo una confirmación: “¿Desea reiniciar los campos de esta pestaña? Se perderán los datos no guardados.”. \
-   4.5 Los botones se deshabilitan durante la operación de guardado para evitar duplicados. \
+   4.5 Los botones se deshabilitan durante la operación de guardado para evitar duplicados.
  
 5. **Log y Seguridad** \
    5.1 Toda operación de pestaña (Guardar, Cargar Adjunto) debe registrarse en logs con: usuario, acción, tabla_afectada e id_proyecto.
