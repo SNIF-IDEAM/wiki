@@ -97,6 +97,7 @@ Las historias de usuario representan las funcionalidades requeridas por los dife
 | [HU-IDEAM-SNIF-REST-100](/content/historias_usuario/HU-IDEAM-SNIF-REST-100/HU-IDEAM-SNIF-REST-100.md) | Pestaña Gestión de adjuntos             | Pestaña Gestión de Adjuntos y Controles de Pestaña               | Gestión de Adjuntos                                           | Alta      | En formulación |
 | [HU-IDEAM-SNIF-REST-124](/content/historias_usuario/HU-IDEAM-SNIF-REST-124/HU-IDEAM-SNIF-REST-124.md) | Dominios             | Gestión integral de dominios y catálogos               | Estructura de dominios                                               | Alta      | En formulación |
 | [HU-IDEAM-SNIF-REST-125](/content/historias_usuario/HU-IDEAM-SNIF-REST-125/HU-IDEAM-SNIF-REST-125.md) | Dominios             | Carga y consumo de valores de dominio dinámico y enumeraciones               | Dominios existentes                                               | Alta      | En formulación |
+| [HU-IDEAM-SNIF-REST-126](/content/historias_usuario/HU-IDEAM-SNIF-REST-126/HU-IDEAM-SNIF-REST-126.md) | Dominios             | Administración (CRUD) y auditoría de tablas de dominio               | CRUD de dominios                                               | Alta      | En formulación |
 ## Consideraciones
 
 - Las historias se gestionan mediante Jira.

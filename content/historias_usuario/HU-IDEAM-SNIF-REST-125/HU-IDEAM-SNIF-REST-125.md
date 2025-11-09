@@ -11,8 +11,8 @@
 ## DESCRIPCIÓN HISTORIA DE USUARIO
 
 > **Como:** usuario final. \
-> **Quiero:**  ver listas desplegables en los formularios que me muestren opciones actualizadas y válidas.  \
-> **Para:** poder seleccionar la opción correcta de manera rápida y sin errores de digitación..
+> **Quiero:** ver listas desplegables en los formularios que me muestren opciones actualizadas y válidas.  \
+> **Para:** poder seleccionar la opción correcta de manera rápida y sin errores de digitación.
 
 ## CRITERIOS DE ACEPTACIÓN
 
