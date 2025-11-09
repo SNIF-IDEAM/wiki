@@ -1,7 +1,7 @@
 ## HU-IDEAM-SNIF-REST-088
 
 > **Identificador Historia de Usuario:** hu-ideam-snif-rest-088 \
-> **Nombre Historia de Usuario:** Módulo de restauración - - Detalle avanzado y administración del Log de procesamiento de archivos
+> **Nombre Historia de Usuario:** Módulo de restauración - Detalle avanzado y administración del Log de procesamiento de archivos
 
 > **Área Proyecto:** Subdirección de Ecosistemas e Información Ambiental \
 > **Nombre proyecto:** Realizar la construcción temática, mejoras informáticas y optimización del Módulo de restauración del SNIF del IDEAM. \
