@@ -40,3 +40,4 @@
 ## ANEXOS
 
 -	[HU-IDEAM-SNIF-REST-101](/content/historias_usuario/HU-IDEAM-SNIF-REST-101/HU-IDEAM-SNIF-REST-101.md)
+-  Mapeo de errores de validación a mensajes específicos.
