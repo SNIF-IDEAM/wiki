@@ -16,7 +16,7 @@
 
 ## CRITERIOS DE ACEPTACIÓN
 
-1. **Carga de Dominios Dinámicos (Tablas dom_*)**  
+1. **Carga de Dominios Dinámicos (Tablas dom_)**  
    1.1 El sistema debe consultar la tabla de dominio correspondiente al cargar el formulario.    
    1.2. Filtro de Activo: Solo deben mostrarse valores con estado activo = true.   
    1.3. Ordenamiento: Los valores deben cargarse en orden alfabético o según el campo orden definido.     
