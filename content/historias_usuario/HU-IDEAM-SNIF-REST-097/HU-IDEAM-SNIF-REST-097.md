@@ -23,7 +23,7 @@
 
 2. **Programa de Monitoreo**  
    2.1 El campo “¿Tiene programa de monitoreo?” es obligatorio (Sí/No).    
-   2.2. Lógica Condicional: Si el usuario selecciona Sí, se habilitan los siguientes campos, todos obligatorios: Línea base (texto), Objetivo del programa (texto), Frecuencia (lista enum), Metodología (texto).  
+   2.2. Lógica Condicional: Si el usuario selecciona Sí, se habilitan los siguientes campos, todos obligatorios: Línea base (textarea), Objetivo del programa (textarea), Frecuencia (lista enum), Metodología (textarea).  
    2.3. Si se selecciona No, todos los campos anteriores se desactivan y se limpian.   
    2.4. Validaciones Específicas: Los textos tienen longitud mínima de 10 caracteres (si son obligatorios) y la frecuencia debe pertenecer al enum y no puede ser nula si la opción es Sí. 
 
