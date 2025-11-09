@@ -26,10 +26,10 @@
 
 3. **Validación de Nomenclatura y Renombre**  
    3.1 No se deben permitir nombres de archivo con caracteres especiales o espacios consecutivos al subir.     
-    3.2. El sistema debe renombrar internamente el archivo subido utilizando un identificador único (Ej: UUID o hash) antes de guardarlo en el disco.
+   3.2. El sistema debe renombrar internamente el archivo subido utilizando un identificador único (Ej: UUID o hash) antes de guardarlo en el disco.
 
 4. **Retroalimentación de Subida**  
-   3.1 Se debe mostrar una barra de progreso o un spinner (Ver HU-076) mientras la subida se está realizando.
+   4.1 Se debe mostrar una barra de progreso o un spinner (Ver HU-076) mientras la subida se está realizando.
 
 ## DIAGRAMA DE SECUENCIA
 
