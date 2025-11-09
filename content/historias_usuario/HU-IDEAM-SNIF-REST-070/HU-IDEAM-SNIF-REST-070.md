@@ -16,21 +16,16 @@
 
 ## CRITERIOS DE ACEPTACIÓN
 
-1.	**Uso de Modal**
-    1.1. El sistema debe mostrar una modal de confirmación para todas las operaciones consideradas críticas (Ej: Eliminar registro, Actualizar un registro principal o Enviar un informe final). 
-
+1. **Uso de Modal**  
+    1.1. El sistema debe mostrar una modal de confirmación para todas las operaciones consideradas críticas (Ej: Eliminar registro, Actualizar un registro principal o Enviar un informe final).    
     1.2. La modal debe detener el flujo de trabajo hasta que el usuario confirme o cancele la acción.
 
-2.	**Contenido de la Modal**
-
-    2.1. La modal debe tener un título claro y un mensaje que explique la consecuencia de la acción (Ej: "¿Está seguro que desea eliminar el registro? Esta acción es irreversible."). 
-
+2.	**Contenido de la Modal**   
+    2.1. La modal debe tener un título claro y un mensaje que explique la consecuencia de la acción (Ej: "¿Está seguro que desea eliminar el registro? Esta acción es irreversible.").  
     2.2. Debe ofrecer opciones claras de Confirmar (botón primario) y Cancelar (botón secundario).
 
-3.	**Comportamiento**
-
-    3.1. Si el usuario selecciona Confirmar, se ejecuta la operación y se invoca la Notificación de Resultado ([HU-71](../HU-IDEAM-SNIF-REST-071/HU-IDEAM-SNIF-REST-071.md)). 
-
+3.	**Comportamiento**  
+    3.1. Si el usuario selecciona Confirmar, se ejecuta la operación y se invoca la Notificación de Resultado ([HU-71](../HU-IDEAM-SNIF-REST-071/HU-IDEAM-SNIF-REST-071.md)).   
     3.2. Si el usuario selecciona Cancelar, se cierra la modal y se vuelve al estado anterior.
 
 
