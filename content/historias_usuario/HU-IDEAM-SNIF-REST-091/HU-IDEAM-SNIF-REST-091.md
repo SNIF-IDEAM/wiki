@@ -44,4 +44,4 @@
 
 ## ANEXOS
 
-- •	Especificación del endpoint seguro para la descarga de archivos.
+- Especificación del endpoint seguro para la descarga de archivos.
