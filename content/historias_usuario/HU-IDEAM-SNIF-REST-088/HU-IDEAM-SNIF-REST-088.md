@@ -12,10 +12,9 @@
 
 > **Como:** administrador del sistema y desarrollador. \
 > **Quiero:**  un registro de log con detalle técnico y clasificación por nivel para todas las operaciones de gestión de archivos.  \
-> **Para:** : poder auditar acciones de archivos, depurar rápidamente errores de procesamiento y verificar la trazabilidad de los archivos con precisión.
+> **Para:** poder auditar acciones de archivos, depurar rápidamente errores de procesamiento y verificar la trazabilidad de los archivos con precisión.
 
 ## CRITERIOS DE ACEPTACIÓN
-
 
 1. **Registro Obligatorio de Eventos**  
    1.1 Por cada operación de gestión de archivos (carga, reemplazo, eliminación, procesamiento), el sistema debe generar un registro en la tabla de logs (logs_sistema).   
