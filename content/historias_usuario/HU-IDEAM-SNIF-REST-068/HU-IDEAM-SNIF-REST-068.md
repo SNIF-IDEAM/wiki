@@ -25,7 +25,7 @@
     1.3. La acción primaria (Guardar/Enviar) debe destacarse visualmente de las acciones secundarias (Cancelar/Limpiar).
 2.	**Integración con Flujo**
 
-    2.1. El sistema debe garantizar que los controles de acción (Guardar, Cancelar, etc.) sean la puerta de entrada para las Validaciones ([HU-61](content/historias_usuario/HU-IDEAM-SNIF-REST-061/HU-IDEAM-SNIF-REST-061.md)) y las Notificaciones ([HU-71](content/historias_usuario/HU-IDEAM-SNIF-REST-071/HU-IDEAM-SNIF-REST-071.md)).
+    2.1. El sistema debe garantizar que los controles de acción (Guardar, Cancelar, etc.) sean la puerta de entrada para las Validaciones ([HU-61](../HU-IDEAM-SNIF-REST-061/HU-IDEAM-SNIF-REST-061.md)) y las Notificaciones ([HU-71](../HU-IDEAM-SNIF-REST-071/HU-IDEAM-SNIF-REST-071.md)).
 3.	**Accesibilidad**
 
     3.1. Todos los botones de acción deben ser accesibles y navegables por teclado.
