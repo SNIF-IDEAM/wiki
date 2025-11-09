@@ -11,7 +11,7 @@
 ## DESCRIPCIÓN HISTORIA DE USUARIO
 
 > **Como:** usuario del sistema.  \
-> **Quiero:**  : interactuar con botones de acción consistentes y lógicos en todos los formularios. \
+> **Quiero:**  interactuar con botones de acción consistentes y lógicos en todos los formularios. \
 > **Para:** poder guardar, cancelar o limpiar mi progreso de forma intuitiva, sin confusión en la interfaz.
 
 ## CRITERIOS DE ACEPTACIÓN
@@ -47,5 +47,5 @@
 
 ## ANEXOS
 
-- Guía de estilo para la apariencia de los **botones primarios y secundario**s.
+- Guía de estilo para la apariencia de los **botones primarios y secundarios**.
 
