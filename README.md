@@ -33,6 +33,7 @@ Identificar las necesidades principales para el desarrollo del Módulo de restau
 - [Diagrama de proceso](content/diagrama_proceso/)
 - [Arquitectura de software](content/arquitectura_software/)
 - [Estructura de datos](content/estructura_datos/)
+- [Experiencia UX/UI](content/ux_ui/)
 - [Historias de usuario](content/historias_usuario/)
 - [Casos de prueba](content/casos_prueba/)
 - [Documentación técnica](content/documentacion_tecnica/)
