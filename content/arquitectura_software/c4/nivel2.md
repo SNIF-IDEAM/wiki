@@ -65,7 +65,7 @@ El SNIF mantiene comunicación con las siguientes plataformas externas, esencial
 
 > **Descripción:** Representa los principales contenedores del SNIF (Frontend, Backend y Base de Datos) y su interacción con los sistemas externos (Keycloak, ArcGIS Enterprise, ArcGIS Online y Power BI).
 
-![Modelo C4 – Nivel 2: Contenedores](assets/02_contenedores.png)
+<img src="assets/02_contenedores.png" class="zoomable" />
 
 ---
 

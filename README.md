@@ -30,23 +30,20 @@ Identificar las necesidades principales para el desarrollo del Módulo de restau
 
 ### Enlaces relacionados
 
-- [Documentación técnica](content/documentacion_tecnica/)
+- [Diagrama de proceso](content/diagrama_proceso/)
 - [Arquitectura de software](content/arquitectura_software/)
+- [Estructura de datos](content/estructura_datos/)
 - [Historias de usuario](content/historias_usuario/)
 - [Casos de prueba](content/casos_prueba/)
+- [Documentación técnica](content/documentacion_tecnica/)
 
-## **Diagrama del proceso**
+### Colaboradores
 
-### Descripción
-
-En el diagrama en mención, se utiliza un modelado y notación de procesos de negocio, o diagrama BPMN (Business Process Model and Notation), que se utiliza para crear diagramas de flujo de modelos de procesos de negocio fáciles de leer, que se puedan compartir en distintas industrias y organizacione.
-
-### Diagramas
-
-- **Diagrama BPMN del proceso general**
-  > Acá va la imagen o enlace al diagrama (`/assets/diagrama_proceso.png`).
-
-### Herramientas utilizadas
-
-- Visio para diagramación.
-- GitLab para gestión de versiones.
+| **Organización** | **Nombre del actor**              | **Cargo**                                          | **Correo electrónico**                                                |
+| ---------------- | --------------------------------- | -------------------------------------------------- | --------------------------------------------------------------------- |
+| IDEAM            | Raymond Alexander Jiménez Arteaga | Subdirector de Ecosistemas e Información Ambiental | [rjimenez@ideam.gov.co](mailto:rjimenez@ideam.gov.co)                 |
+| IDEAM            | Wilmer Espitia Muñoz              | Jefe de la Oficina de Informática                  | [wespitia@ideam.gov.co](mailto:wespitia@ideam.gov.co)                 |
+| IDEAM            | Amparo Rodríguez León             | Grupo de Bosques                                   | [arodriguezl@ideam.gov.co](mailto:arodriguezl@ideam.gov.co)           |
+| GIZ              | Jennifer Bocanegra Díaz           | Proyecto SolNatura – Asesora Técnica               | [jennifer.bocanegradiaz@giz.de](mailto:jennifer.bocanegradiaz@giz.de) |
+| GIZ              | Eliana Álvarez Grueso             | Asesora técnica Programa Global de Biodiversidad   | [eliana.alvarezgrueso@giz.de](mailto:eliana.alvarezgrueso@giz.de)     |
+| GIZ              | Vicky Guerrero Barrios            | Asesora Monitoreo Proyecto Interfaz IKI II         | [vicky.guerrerobarrios@giz.de](mailto:vicky.guerrerobarrios@giz.de)   |

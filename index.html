@@ -19,6 +19,54 @@
     <!-- Docsify v4 -->
     <script src="//cdn.jsdelivr.net/npm/docsify@4"></script>
     <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/docsify-include.js"></script>
+    <script src="https://unpkg.com/@panzoom/panzoom/dist/panzoom.min.js"></script>
+
+    <style>
+      .zoomable-container {
+        position: relative;
+        display: inline-block;
+        max-width: 100%;
+        overflow: hidden;
+        border-radius: 8px;
+      }
+
+      .zoomable {
+        display: block;
+        width: 100%;
+        height: auto;
+        cursor: grab;
+        user-select: none;
+      }
+
+      /* 🔹 Controles dentro de la imagen */
+      .zoom-controls {
+        position: absolute;
+        bottom: 12px;
+        right: 12px;
+        display: flex;
+        background: rgba(0, 0, 0, 0.45);
+        border-radius: 8px;
+        padding: 4px;
+        z-index: 5;
+        backdrop-filter: blur(4px);
+      }
+
+      .zoom-controls button {
+        background: transparent;
+        color: #fff;
+        border: none;
+        font-size: 18px;
+        margin: 0 3px;
+        cursor: pointer;
+        transition: transform 0.2s, color 0.2s;
+      }
+
+      .zoom-controls button:hover {
+        transform: scale(1.2);
+        color: #00bcd4;
+      }
+    </style>
+
     <script>
       window.$docsify = {
         name: "",
@@ -43,6 +91,56 @@
               } else {
                 next(content);
               }
+            });
+          },
+          function (hook, vm) {
+            hook.afterEach(function (html, next) {
+              let currentDir = "";
+              if (vm.route.file && vm.route.file.includes("/")) {
+                currentDir = vm.route.file.replace(/[^/]+$/, "");
+              }
+              const fixedHtml = html.replace(
+                /<img\s+([^>]*?)src=["']assets\/(.*?)["']/g,
+                `<img $1src="/${currentDir}assets/$2"`
+              );
+              next(fixedHtml);
+            });
+
+            hook.doneEach(() => {
+              document.querySelectorAll(".zoomable").forEach((img) => {
+                // Evitar reenvolver si ya se hizo
+                if (img.parentElement.classList.contains("zoomable-container"))
+                  return;
+
+                // Crear contenedor alrededor de la imagen
+                const wrapper = document.createElement("div");
+                wrapper.className = "zoomable-container";
+                img.parentNode.insertBefore(wrapper, img);
+                wrapper.appendChild(img);
+
+                // Crear controles DENTRO del contenedor
+                const controls = document.createElement("div");
+                controls.className = "zoom-controls";
+                controls.innerHTML = `
+              <button title="Acercar">＋</button>
+              <button title="Alejar">－</button>
+              <button title="Restablecer">⟳</button>
+            `;
+                wrapper.appendChild(controls);
+
+                // Inicializar Panzoom
+                const panzoom = Panzoom(img, {
+                  maxScale: 5,
+                  contain: "outside",
+                });
+
+                // Asignar funciones a los botones
+                const [btnIn, btnOut, btnReset] =
+                  controls.querySelectorAll("button");
+                btnIn.onclick = () => panzoom.zoomIn();
+                btnOut.onclick = () => panzoom.zoomOut();
+                btnReset.onclick = () => panzoom.reset();
+              });
             });
           },
         ],

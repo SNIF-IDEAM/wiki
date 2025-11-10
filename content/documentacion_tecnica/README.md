@@ -64,14 +64,4 @@
 - [Portal IDEAM](https://www.ideam.gov.co)
 - [SNIF Colombia](https://snif.ideam.gov.co)
 
-## Colaboradores
-
-| Organización     | Nombre del Miembro                                             | Correo electronico            |
-| ---------------- | -------------------------------------------------------------- | ----------------------------- |
-| Itim ENGINEERING | Persona 1: Director del proyecto/ Analista / Backend developer | gerencia@itim-engineering.com |
-| Itim ENGINEERING | Persona 2: Frontend Developer                                  | arnoldcaba@gmail.com          |
-| Itim ENGINEERING | Persona 3: GIS Developer                                       | clavijo.camilo.juan@gmail.com |
-
----
-
 **Última actualización:** `28 de octubre de 2025`
