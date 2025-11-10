@@ -25,7 +25,7 @@
    2.2 Cada fuente se selecciona desde la tabla maestra de fuentes de financiación y puede registrar un monto asignado (numérico, positivo) y una descripción opcional.  
 
 3. **Validaciones**  
-   3.1. Validar que cada fuente seleccionada exita en su respectiva tabla maestra.     
+   3.1. Validar que cada fuente seleccionada exista en su respectiva tabla maestra.     
    3.2. Validar que el monto sea numérico y mayor a 0.    
    3.3. No permitir duplicar una misma fuente de financiación para un mismo proyecto.  
    
