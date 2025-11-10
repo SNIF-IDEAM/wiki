@@ -42,7 +42,7 @@
           function (hook, vm) {
             hook.beforeEach(function (content, next) {
               if (/^\/content\/historias_usuario\/[^/]+/.test(vm.route.path)) {
-                fetch("/includes/historia_header.md")
+                fetch("includes/historia_header.md")
                   .then((r) => r.text())
                   .then((header) => {
                     next(header + "\n\n" + content);
