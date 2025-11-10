@@ -26,9 +26,18 @@ Su diseño busca garantizar **escalabilidad, mantenibilidad y seguridad**, permi
 
 ---
 
-## Modelo C4 (hasta Nivel 3)
+## Arquitectura del sistema
 
-A continuación se documenta el **modelo C4** del sistema, desglosado en tres niveles (Contexto, Contenedores, Componentes).
+En este apartado se detallan los **componentes de la solución tecnológica** y cómo se relacionan entre sí.  
+Proporciona una visión más interna y detallada de la **arquitectura del sistema**, mostrando los componentes y las dependencias entre ellos.
+
+Bajo la **notación C4**, se visualiza la estructura interna del sistema y cómo los componentes interactúan entre sí para lograr la funcionalidad esperada.
+
+En este punto, se detallan como componentes: **módulos**, **librerías**, **servicios**, **subsistemas** u otros elementos lógicos de orden funcional.
+
+En el **diagrama de componentes**, estos se representan como **cajas rectangulares**, y las **dependencias** entre ellos se muestran mediante **flechas o líneas** que indican las relaciones.
+
+Se incluyen detalles como **interfaces**, **puertos**, **protocolos**, **bases de datos** u otros elementos relevantes para comprender la estructura y las interacciones del sistema.
 
 > [Nivel 1 — Contexto (System Context)](content/arquitectura_software/c4/nivel1.md)
 >
