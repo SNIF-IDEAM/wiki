@@ -103,26 +103,30 @@
               if (vm.route.file && vm.route.file.includes("/")) {
                 currentDir = vm.route.file.replace(/[^/]+$/, "");
               }
+
+              const isGitHubPages = location.hostname.endsWith("github.io");
+              const repoBase = isGitHubPages
+                ? location.pathname.split("/")[1] + "/"
+                : "";
+
               const fixedHtml = html.replace(
                 /<img\s+([^>]*?)src=["']assets\/(.*?)["']/g,
-                `<img $1src="/${currentDir}assets/$2"`
+                `<img $1src="/${repoBase}${currentDir}assets/$2"`
               );
+
               next(fixedHtml);
             });
 
             hook.doneEach(() => {
               document.querySelectorAll(".zoomable").forEach((img) => {
-                // Evitar reenvolver si ya se hizo
                 if (img.parentElement.classList.contains("zoomable-container"))
                   return;
 
-                // Crear contenedor alrededor de la imagen
                 const wrapper = document.createElement("div");
                 wrapper.className = "zoomable-container";
                 img.parentNode.insertBefore(wrapper, img);
                 wrapper.appendChild(img);
 
-                // Crear controles DENTRO del contenedor
                 const controls = document.createElement("div");
                 controls.className = "zoom-controls";
                 controls.innerHTML = `
