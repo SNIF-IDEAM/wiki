@@ -22,14 +22,14 @@
 
 2. **Validación de Tamaño**  
    2.1 El tamaño máximo permitido es de 10 MB.         
-   2.2. Si el archivo supera este límite, se debe mostrar el mensaje: “El archivo excede el tamaño máximo permitido (10 MB).” (Ver HU-082 y HU-088).
+   2.2. Si el archivo supera este límite, se debe mostrar el mensaje: “El archivo excede el tamaño máximo permitido (10 MB)”. (Ver (Ver [HU-IDEAM-SNIF-REST-082](/content/historias_usuario/HU-IDEAM-SNIF-REST-082/HU-IDEAM-SNIF-REST-082.md y (Ver [HU-IDEAM-SNIF-REST-088](/content/historias_usuario/HU-IDEAM-SNIF-REST-088/HU-IDEAM-SNIF-REST-088.md))))).
 
 3. **Validación de Nomenclatura y Renombre**  
    3.1 No se deben permitir nombres de archivo con caracteres especiales o espacios consecutivos al subir.     
    3.2. El sistema debe renombrar internamente el archivo subido utilizando un identificador único (Ej: UUID o hash) antes de guardarlo en el disco.
 
 4. **Retroalimentación de Subida**  
-   4.1 Se debe mostrar una barra de progreso o un spinner (Ver HU-076) mientras la subida se está realizando.
+   4.1 Se debe mostrar una barra de progreso o un spinner (Ver (Ver [HU-IDEAM-SNIF-REST-076](/content/historias_usuario/HU-IDEAM-SNIF-REST-076/HU-IDEAM-SNIF-REST-076.md))) mientras la subida se está realizando.
 
 ## DIAGRAMA DE SECUENCIA
 

@@ -17,8 +17,8 @@
 ## CRITERIOS DE ACEPTACIÓN
 
 1. **Integración con el Log de Auditoría (HU-083)**  
-   1.1 Los eventos de carga, reemplazo o eliminación lógica se deben registrar en el log de auditoría del sistema (Ver HU-083).   
-   1.2 El registro en el log debe cumplir con el Formato de Log estándar definido en la HU-083.
+   1.1 Los eventos de carga, reemplazo o eliminación lógica se deben registrar en el log de auditoría del sistema (Ver [HU-IDEAM-SNIF-REST-083](/content/historias_usuario/HU-IDEAM-SNIF-REST-083/HU-IDEAM-SNIF-REST-083.md)).   
+   1.2 El registro en el log debe cumplir con el Formato de Log estándar definido en la [HU-IDEAM-SNIF-REST-083](/content/historias_usuario/HU-IDEAM-SNIF-REST-083/HU-IDEAM-SNIF-REST-083.md).
 
 2. **Detalle Específico del Registro**  
    2.1 El log debe incluir información específica que relacione el evento con el archivo, tales como: tipo de archivo (GENERAL o GEOGRÁFICO), ID del archivo (PK de la tabla adjuntos) y tabla referida. 

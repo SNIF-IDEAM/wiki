@@ -24,7 +24,7 @@
    2.1 La metadata del archivo debe registrarse en la tabla ADJUNTO (Ver HU-086), incluyendo: id_archivo, nombre_original, nombre_sistema, tipo_mime, tamaño_bytes, ruta_almacenamiento, y las claves de trazabilidad (tabla_referida, id_elemento_referido).
 
 3. **Control de Reemplazo**  
-   3.1 Si el usuario intenta subir un archivo con el mismo nombre y tipo sobre el mismo elemento/registro (tabla_referida + id_elemento_referido), el sistema debe mostrar una modal de confirmación para solicitar el reemplazo (Ver HU-070).      
+   3.1 Si el usuario intenta subir un archivo con el mismo nombre y tipo sobre el mismo elemento/registro (tabla_referida + id_elemento_referido), el sistema debe mostrar una modal de confirmación para solicitar el reemplazo (Ver (Ver [HU-IDEAM-SNIF-REST-070](/content/historias_usuario/HU-IDEAM-SNIF-REST-070/HU-IDEAM-SNIF-REST-070.md))).      
    3.2. Si el usuario confirma el reemplazo, el archivo anterior debe ser marcado como eliminación lógica (estado = 'INACTIVO') y el nuevo archivo se registra.
 
 4. **Notificación Final**  

@@ -42,7 +42,7 @@
 
 5. **Estado del Proyecto**  
    5.1 El campo Estado del Proyecto es obligatorio. Los valores provienen de una enumeración.   
-    5.2. El valor debe mostrarse como texto legible y no es editable manualmente (solo selección).
+   5.2. El valor debe mostrarse como texto legible y no es editable manualmente (solo selección).
 
 ## DIAGRAMA DE SECUENCIA
 
