@@ -32,5 +32,28 @@
     </script>
     <!-- Docsify v4 -->
     <script src="//cdn.jsdelivr.net/npm/docsify@4"></script>
+    <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/docsify-include.js"></script>
+    <script>
+      window.$docsify = {
+        // name: "SNIF",
+        loadSidebar: false,
+        subMaxLevel: 2,
+        plugins: [
+          function (hook, vm) {
+            hook.beforeEach(function (content, next) {
+              if (/^\/content\/historias_usuario\/[^/]+/.test(vm.route.path)) {
+                fetch("/includes/historia_header.md")
+                  .then((r) => r.text())
+                  .then((header) => {
+                    next(header + "\n\n" + content);
+                  });
+              } else {
+                next(content);
+              }
+            });
+          },
+        ],
+      };
+    </script>
   </body>
 </html>
