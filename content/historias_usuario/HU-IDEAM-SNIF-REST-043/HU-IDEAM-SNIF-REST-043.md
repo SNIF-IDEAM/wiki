@@ -16,12 +16,11 @@
 
 ## CRITERIOS DE ACEPTACIÓN
 
-   1. Detectar automáticamente el tipo de geometría antes de procesar.  
-   2. Validar topología (geometrías válidas, no autointersectadas). 
-   3. Rechazar geometrías vacías o corruptas. 
-   4. Controlar la cantidad máxima de vértices por geometría.
-   5. Mostrar mensajes de error claros cuando la capa no cumpla los requisitos. 
-
+   1. Permitir seleccionar las capas sobre las cuales aplicar la intersección.
+   2. Ejecutar la consulta espacial mediante servicio REST optimizado con índices espaciales.
+   3. Limitar resultados a 500 registros con paginación.
+   4. Mostrar notificación si se excede el límite.
+   5. Registrar en logs: usuario, fecha, nombre de archivo, número de entidades y tiempo de ejecución.
 
 ## DIAGRAMA DE SECUENCIA
 
