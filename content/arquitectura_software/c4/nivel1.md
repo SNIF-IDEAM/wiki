@@ -75,7 +75,7 @@ Los sistemas externos —**Keycloak**, **ArcGIS Online**, **ArcGIS Enterprise** 
 
 > **Descripción:** Este diagrama representa el **Sistema Nacional de Información Forestal (SNIF)** en su entorno, mostrando los actores y sistemas externos que interactúan con él.
 
-![Modelo C4 – Nivel 1: Contexto](/assets/01_contexto.png)
+![Modelo C4 – Nivel 1: Contexto](assets/01_contexto.png)
 
 ---
 

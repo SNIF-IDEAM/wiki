@@ -89,11 +89,11 @@ El SNIF mantiene una **arquitectura interoperable** mediante integraciones con s
 4. Los resultados se devuelven al **Frontend** o se publican en plataformas externas como **Power BI** o **ArcGIS Online**.
 5. **ArcGIS Enterprise** mantiene sincronización de datos espaciales, permitiendo que el Backend acceda a servicios geográficos o actualice capas.
 
-![Modelo C4 – Nivel 3: Componentes](/assets/03_componentes.png)
+![Modelo C4 – Nivel 3: Componentes](assets/03_componentes.png)
 
 > Detalle componente frontend
 
-![Modelo C4 – Nivel 3: Componentes](/assets/03_componentes_detalle.png)
+![Modelo C4 – Nivel 3: Componentes](assets/03_componentes_detalle.png)
 
 ---
 
