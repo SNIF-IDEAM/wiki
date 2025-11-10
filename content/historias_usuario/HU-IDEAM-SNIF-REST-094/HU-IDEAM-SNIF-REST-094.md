@@ -28,7 +28,7 @@
 
 4. **Experiencia de Usuario (UX)**  
    4.1  Tras subir el archivo, el sistema debe mostrar una vista previa inmediata en el mapa, delimitando el bounding box o la geometría cargada.    
-   4.2. Si ya existe un archivo geográfico para ese elemento y tipo, se debe invocar una modal de confirmación para el reemplazo (Ver HU-070).
+   4.2. Si ya existe un archivo geográfico para ese elemento y tipo, se debe invocar una modal de confirmación para el reemplazo (Ver [HU-IDEAM-SNIF-REST-070](/content/historias_usuario/HU-IDEAM-SNIF-REST-070/HU-IDEAM-SNIF-REST-070.md)).
 
 ## DIAGRAMA DE SECUENCIA
 

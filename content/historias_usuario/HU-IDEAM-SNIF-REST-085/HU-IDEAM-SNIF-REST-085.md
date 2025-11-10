@@ -18,14 +18,14 @@
 
 
 1. **Estructura Unificada**  
-   1.1 El sistema debe almacenar el registro de todos los archivos subidos (generales/documentales y geográficos) en una única tabla relacional (tabla adjuntos).     
+   1.1 El sistema debe almacenar el registro de todos los archivos subidos (generales/documentales y geográficos) en una única tabla relacional (tabla adjunto).     
    1.2. La misma estructura debe servir para adjuntos documentales y geográficos.
 
 2. **Trazabilidad y Relación**  
    2.1 La tabla de archivos debe contener campos (tabla_referida y id_elemento_referido) que garanticen la trazabilidad completa hacia el elemento principal al que está adjunto.
 
 3. **Gestión consistente**  
-   3.1 Las políticas de registro de eventos (Log) y eliminación de datos deben aplicarse de manera uniforme a todos los tipos de archivos (Ver HU-087).   
+   3.1 Las políticas de registro de eventos (Log) y eliminación de datos deben aplicarse de manera uniforme a todos los tipos de archivos (Ver [HU-IDEAM-SNIF-REST-087](/content/historias_usuario/HU-IDEAM-SNIF-REST-087/HU-IDEAM-SNIF-REST-087.md)).   
    3.2. La eliminación de archivos debe ser lógica para preservar el historial. 
 
 ## DIAGRAMA DE SECUENCIA

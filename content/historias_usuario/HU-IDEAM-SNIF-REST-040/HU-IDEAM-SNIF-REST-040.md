@@ -19,7 +19,7 @@
 1.  Incluir la opción 'Consulta por capa geográfica' en la pestaña Consultas.
 2.  Permitir cargar archivos en formatos GeoJSON, Shapefile (ZIP) o KML.
 3.  Validar que contengan geometrías tipo polígono o multipolígono.
-4.  Permitir ejecutar, visualizar y descargar los resultados (ver HU 037–040).
+4.  Permitir ejecutar, visualizar y descargar los resultados (ver [HU-IDEAM-SNIF-REST-037](/content/historias_usuario/HU-IDEAM-SNIF-REST-037/HU-IDEAM-SNIF-REST-037.md), [HU-IDEAM-SNIF-REST-038](/content/historias_usuario/HU-IDEAM-SNIF-REST-038/HU-IDEAM-SNIF-REST-038.md), [HU-IDEAM-SNIF-REST-039](/content/historias_usuario/HU-IDEAM-SNIF-REST-039/HU-IDEAM-SNIF-REST-039.md) y [HU-IDEAM-SNIF-REST-040](/content/historias_usuario/HU-IDEAM-SNIF-REST-040/HU-IDEAM-SNIF-REST-040.md)).
 5.  Cumplir lineamientos de diseño y seguridad institucional IDEAM.
 
 ## DIAGRAMA DE SECUENCIA
