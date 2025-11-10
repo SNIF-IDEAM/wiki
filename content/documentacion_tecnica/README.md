@@ -49,19 +49,10 @@
 ## Documentación de soporte
 
 - `SNIF-RACI Documento de Actores, Roles y Responsabilidades`
-- `Diseño de estructuras de datos`
-- `Diccionario de datos`
-- `ETLs Migración de datos`
-
-## Referencias
-
-- Normas IDEAM e IDE Colombia.
-- Estándares OGC (WMS, WFS, WMTS).
-- Guía de interoperabilidad SNIF.
 
 ## Enlaces útiles
 
 - [Portal IDEAM](https://www.ideam.gov.co)
 - [SNIF Colombia](https://snif.ideam.gov.co)
 
-**Última actualización:** `28 de octubre de 2025`
+**Última actualización:** `10 de Noviembre de 2025`
