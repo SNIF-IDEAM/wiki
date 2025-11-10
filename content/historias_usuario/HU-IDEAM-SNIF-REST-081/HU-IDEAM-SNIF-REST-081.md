@@ -24,7 +24,7 @@
     2.1. Todas las acciones relevantes del sistema deben ser registradas en un log de auditoría (Ver HU-083).     
     2.2. El log debe tener un formato detallado que permita la trazabilidad completa del evento.
 
-3.	**Manejo de errores inesperados** 
+3.	**Manejo de errores inesperados**  
     3.1. En caso de errores no controlados, el sistema debe mostrar un mensaje genérico al usuario y registrar el detalle técnico completo en el log (Ver HU-084).  
 
     
@@ -44,5 +44,6 @@
 
 ## ANEXOS
 
-- Guía de buenas prácticas para el manejo de tokens y variables de sesión.
+- Especificación de la estructura de la tabla de logs de auditoría.
+- Wireframe: Estándar de Mensajería y Registro de Eventos del Sistema.
 
