@@ -16,9 +16,9 @@
 
 ## CRITERIOS DE ACEPTACIÓN
 1. **Funcionales generales**  
-   1.1 Debe permitir la edición de atributos físicos y ecológicos. \
-   1.2 Debe permitir la edición de atributos sociales y de participación. \
-   1.3 Debe permitir la edición de Atributos Técnicos, Monitoreo y Financieros. \
+   1.1 Debe permitir la edición de atributos físicos y ecológicos, (Ver  [HU-IDEAM-SNIF-REST-116](/content/historias_usuario/HU-IDEAM-SNIF-REST-116/HU-IDEAM-SNIF-REST-116.md)). \
+   1.2 Debe permitir la edición de atributos sociales y de participación, (Ver  [HU-IDEAM-SNIF-REST-117](/content/historias_usuario/HU-IDEAM-SNIF-REST-117/HU-IDEAM-SNIF-REST-117.md)). \
+   1.3 Debe permitir la edición de Atributos Técnicos, Monitoreo y Financieros, (Ver  [HU-IDEAM-SNIF-REST-118](/content/historias_usuario/HU-IDEAM-SNIF-REST-118/HU-IDEAM-SNIF-REST-118.md)). \
 
 ## DIAGRAMA DE SECUENCIA
 
