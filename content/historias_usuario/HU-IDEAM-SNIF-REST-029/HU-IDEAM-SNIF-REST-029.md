@@ -30,7 +30,9 @@
 ![IMAGEN DIAGRAMA DE FLUJO DEL PROCESO](assets/actividades-hu-ideam-snif-rest-029.png)
 
 ## PROTOTIPO PRELIMINAR
-
-![PROTOTIPO PRELIMINAR](assets/wireframe-hu-ideam-snif-rest-029.png)
+Menu consulta espacial
+![PROTOTIPO PRELIMINAR](assets/wireframe-hu-ideam-snif-rest-029-menu.png)
+Consulta espacial
+![PROTOTIPO PRELIMINAR](assets/wireframe-hu-ideam-snif-rest-029-consulta-espacial.png)
 
 ## ANEXOS
