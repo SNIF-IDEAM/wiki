@@ -143,6 +143,7 @@ Las historias de usuario representan las funcionalidades requeridas por los dife
 | [HU-IDEAM-SNIF-REST-130](/content/historias_usuario/HU-IDEAM-SNIF-REST-130/HU-IDEAM-SNIF-REST-130.md) | Validacion de registros             | validacion de registros               | Flujo de Validación por Entidad (Nivel I)                                               | Alta      | En formulación |
 | [HU-IDEAM-SNIF-REST-131](/content/historias_usuario/HU-IDEAM-SNIF-REST-131/HU-IDEAM-SNIF-REST-131.md) | Validacion de registros             | validacion de registros               | Flujo de Validación por IDEAM (Nivel II)                                               | Alta      | En formulación |
 | [HU-IDEAM-SNIF-REST-132](/content/historias_usuario/HU-IDEAM-SNIF-REST-132/HU-IDEAM-SNIF-REST-132.md) | Validacion de registros             | validacion de registros               | Ciclo de Correcciones y Reenvío de Registros                                               | Alta      | En formulación |
+| [HU-IDEAM-SNIF-REST-133](/content/historias_usuario/HU-IDEAM-SNIF-REST-133/HU-IDEAM-SNIF-REST-133.md) | Gestión de áreas de restauración              | Creación de Registro de Especie (Campos y Validaciones)              | Documentación de insumos biológicos y métodos aplicados en el proceso de restauración                                               | Alta      | En formulación |
 ## Consideraciones
 
 - Las historias se gestionan mediante Jira.
