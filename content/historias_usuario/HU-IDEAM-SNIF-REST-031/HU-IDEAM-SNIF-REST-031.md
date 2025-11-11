@@ -34,7 +34,9 @@
 ![IMAGEN DIAGRAMA DE FLUJO DEL PROCESO](assets/actividades-hu-ideam-snif-rest-031.png)
 
 ## PROTOTIPO PRELIMINAR
-
-![PROTOTIPO PRELIMINAR](assets/wireframe-hu-ideam-snif-rest-031.png)
+Valido
+![PROTOTIPO PRELIMINAR](assets/wireframe-hu-ideam-snif-rest-031-valido.png)
+Invalido
+![PROTOTIPO PRELIMINAR](assets/wireframe-hu-ideam-snif-rest-031-invalido.png)
 
 ## ANEXOS
