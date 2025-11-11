@@ -46,9 +46,10 @@
 
 ## PROTOTIPO PRELIMINAR
 
-![PROTOTIPO PRELIMINAR](assets/wireframe-hu-ideam-snif-rest-081.png)
+![PROTOTIPO PRELIMINAR](assets/wireframe-hu-ideam-snif-rest-082.png)
 
 ## ANEXOS
 
-- Guía de buenas prácticas para el manejo de tokens y variables de sesión.
+- Especificación de textos de notificaciones estándar.
+- Wireframe: Visualización de Mensajes Informativos.
 
