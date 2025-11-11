@@ -48,7 +48,7 @@
 
 ## Documentación de soporte
 
-- `SNIF-RACI Documento de Actores, Roles y Responsabilidades`
+- <a href="https://drive.google.com/file/d/1fowsx-bKz5YwBmgNeN9Skigu43AfGuoO/view?usp=drive_link" target="_blank">SNIF-RACI Documento de Actores, Roles y Responsabilidades</a>
 
 ## Enlaces útiles
 
