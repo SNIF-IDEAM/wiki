@@ -87,12 +87,49 @@
         color: #333;
       }
 
-      #app {
+      #app, .show {
         display: none;
       }
+
+      .loader-container{
+        width: 100%;
+        height: 100%;
+            z-index: 999999 !important;
+    display: none;
+    position: fixed;
+    justify-content: center;
+    align-items: center;
+    background: rgba(0, 0, 0, 0.6);
+    pointer-events: none;
+      }
+
+      .loader {
+    width: 48px;
+    height: 48px;
+    border: 5px solid #FFF;
+    border-bottom-color: #FF3D00;
+    border-radius: 50%;
+    display: inline-block;
+    box-sizing: border-box;
+    animation: rotation 1s linear infinite;
+    }
+
+    @keyframes rotation {
+    0% {
+        transform: rotate(0deg);
+    }
+    100% {
+        transform: rotate(360deg);
+    }
+    } 
     </style>
 
     <!-- Contenedor de login -->
+
+    <div class="loader-container">
+      <span class="loader"></span>
+    </div>
+
     <div id="auth-container" style="text-align:center;">
       <h2>Inicia sesión para acceder</h2>
     </div>
@@ -123,6 +160,9 @@
 
   // Función que se ejecuta al iniciar sesión correctamente
   async function handleCredentialResponse(response) {
+    document.querySelector(".loader-container").style.display = "flex";
+    const app = document.querySelector("#app")
+    const cover = document.querySelector(".show")
     const data = parseJwt(response.credential);
     const email = data.email;
 
@@ -130,11 +170,13 @@
 
     if (allowed.includes(email)) {
       // Autorizado ✅
-      document.getElementById("auth-container").style.display = "none";
-      document.getElementById("app").style.display = "block";
+      document.querySelector("#auth-container").style.display = "none";
+      if(app) app.style.display = "block";
+      if(cover) cover.style.display = "flex";
     } else {
       document.body.innerHTML = `<h2 style="text-align:center;margin-top:20%">⛔ Acceso denegado: ${email}</h2>`;
     }
+    document.querySelector(".loader-container").style.display = "none";
   }
 
   // Función para decodificar el token JWT
@@ -148,15 +190,6 @@
         .join('')
     );
     return JSON.parse(jsonPayload);
-  }
-
-  function doGet() {
-    const sheet = SpreadsheetApp.getActiveSpreadsheet().getSheetByName("Permisos");
-    const data = sheet.getRange(2, 1, sheet.getLastRow() - 1, 1).getValues();
-    const emails = data.flat().filter(String); // elimina celdas vacías
-    return ContentService
-      .createTextOutput(JSON.stringify({ emails }))
-      .setMimeType(ContentService.MimeType.JSON);
   }
 
   window.onload = function() {
@@ -182,8 +215,7 @@
         basePath: isLocal ? "/" : "/wiki/",
         auto2top: true,
         autoHeader: true,
-        coverpage: true,
-        onlyCover: true,
+        coverpage: false,
         notFoundPage: true,
         themeColor: "#00b27c",
         loadSidebar: false,
