@@ -15,11 +15,6 @@
     />
   </head>
   <body>
-    <div id="app"></div>
-    <!-- Docsify v4 -->
-    <script src="//cdn.jsdelivr.net/npm/docsify@4"></script>
-    <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/docsify-include.js"></script>
-    <script src="https://unpkg.com/@panzoom/panzoom/dist/panzoom.min.js"></script>
 
     <style>
       .zoomable-container {
@@ -74,7 +69,110 @@
         max-width: 800px;
         width: auto;
       }
+
+      /* Contenedor de login */
+      #auth-container {
+        position: fixed;
+        inset: 0;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        background: #fff;
+        z-index: 9999;
+      }
+
+      #auth-container h2 {
+        margin-bottom: 20px;
+        color: #333;
+      }
+
+      #app {
+        display: none;
+      }
     </style>
+
+    <!-- Contenedor de login -->
+    <div id="auth-container" style="text-align:center;">
+      <h2>Inicia sesión para acceder</h2>
+    </div>
+
+    <div id="app"></div>
+    <!-- Docsify v4 -->
+    <script src="//cdn.jsdelivr.net/npm/docsify@4"></script>
+    <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/docsify-include.js"></script>
+    <script src="https://unpkg.com/@panzoom/panzoom/dist/panzoom.min.js"></script>
+    <script src="https://accounts.google.com/gsi/client" async defer></script>
+
+    <script>
+
+  // Tu Client ID de Google Cloud
+  const SHEET_URL  = "https://script.google.com/macros/s/AKfycbwLNRKVXFr3Rce9vnY8GW6R4v3l7yer9vtUahdVc9Li5dGP6Yl-qOaV49Wv4Tx38rCp/exec";
+  const CLIENT_ID = "444181898034-bj3ijh735krh74pajl733mtkp1lvisns.apps.googleusercontent.com";
+
+  async function getAllowedEmails() {
+        try {
+          const res = await fetch(SHEET_URL);
+          const data = await res.json();
+          cosole.log(data)
+          return data.emails || [];
+        } catch (e) {
+          console.error("Error obteniendo correos permitidos:", e);
+          return [];
+        }
+      }
+
+  // Función que se ejecuta al iniciar sesión correctamente
+  async function handleCredentialResponse(response) {
+    const data = parseJwt(response.credential);
+    const email = data.email;
+
+    const allowed = await getAllowedEmails();
+    return
+
+    if (allowed.includes(email)) {
+      // Autorizado ✅
+      document.getElementById("auth-container").style.display = "none";
+      document.getElementById("app").style.display = "block";
+    } else {
+      document.body.innerHTML = `<h2 style="text-align:center;margin-top:20%">⛔ Acceso denegado: ${email}</h2>`;
+    }
+  }
+
+  // Función para decodificar el token JWT
+  function parseJwt(token) {
+    const base64Url = token.split('.')[1];
+    const base64 = base64Url.replace(/-/g, '+').replace(/_/g, '/');
+    const jsonPayload = decodeURIComponent(
+      atob(base64)
+        .split('')
+        .map(c => '%' + ('00' + c.charCodeAt(0).toString(16)).slice(-2))
+        .join('')
+    );
+    return JSON.parse(jsonPayload);
+  }
+
+  function doGet() {
+    const sheet = SpreadsheetApp.getActiveSpreadsheet().getSheetByName("Permisos");
+    const data = sheet.getRange(2, 1, sheet.getLastRow() - 1, 1).getValues();
+    const emails = data.flat().filter(String); // elimina celdas vacías
+    return ContentService
+      .createTextOutput(JSON.stringify({ emails }))
+      .setMimeType(ContentService.MimeType.JSON);
+  }
+
+  window.onload = function() {
+
+    google.accounts.id.initialize({
+      client_id: CLIENT_ID,
+      callback: handleCredentialResponse
+    });
+    google.accounts.id.renderButton(
+      document.getElementById("auth-container"),
+      { theme: "outline", size: "large" }
+    );
+  };
+</script>
 
     <script>
       const isLocal =
