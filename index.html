@@ -114,7 +114,6 @@
         try {
           const res = await fetch(SHEET_URL);
           const data = await res.json();
-          cosole.log(data)
           return data.emails || [];
         } catch (e) {
           console.error("Error obteniendo correos permitidos:", e);
@@ -128,7 +127,6 @@
     const email = data.email;
 
     const allowed = await getAllowedEmails();
-    return
 
     if (allowed.includes(email)) {
       // Autorizado ✅
