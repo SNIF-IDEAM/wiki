@@ -13,8 +13,6 @@
       rel="stylesheet"
       href="//cdn.jsdelivr.net/npm/docsify@4/lib/themes/vue.css"
     />
-  </head>
-  <body>
 
     <style>
       .zoomable-container {
@@ -87,50 +85,80 @@
         color: #333;
       }
 
-      #app, .show {
+      #app,
+      .show {
         display: none;
       }
 
-      .loader-container{
+      .loader-container {
         width: 100%;
         height: 100%;
-            z-index: 999999 !important;
-    display: none;
-    position: fixed;
-    justify-content: center;
-    align-items: center;
-    background: rgba(0, 0, 0, 0.6);
-    pointer-events: none;
+        z-index: 999999 !important;
+        display: none;
+        position: fixed;
+        justify-content: center;
+        align-items: center;
+        background: rgba(0, 0, 0, 0.6);
+        pointer-events: none;
       }
 
       .loader {
-    width: 48px;
-    height: 48px;
-    border: 5px solid #FFF;
-    border-bottom-color: #FF3D00;
-    border-radius: 50%;
-    display: inline-block;
-    box-sizing: border-box;
-    animation: rotation 1s linear infinite;
-    }
+        width: 48px;
+        height: 48px;
+        border: 5px solid #fff;
+        border-bottom-color: #ff3d00;
+        border-radius: 50%;
+        display: inline-block;
+        box-sizing: border-box;
+        animation: rotation 1s linear infinite;
+      }
 
-    @keyframes rotation {
-    0% {
-        transform: rotate(0deg);
-    }
-    100% {
-        transform: rotate(360deg);
-    }
-    } 
+      @keyframes rotation {
+        0% {
+          transform: rotate(0deg);
+        }
+        100% {
+          transform: rotate(360deg);
+        }
+      }
+
+      .tooltip-wrapper {
+        position: relative;
+        display: inline-block;
+        cursor: pointer;
+      }
+
+      .tooltip-box {
+        display: none;
+        position: absolute;
+
+        /* ⬅️ Aquí está el cambio: en vez de left: 20px */
+        right: 20px;
+        top: 0;
+
+        z-index: 999;
+        background: #222;
+        color: white;
+        padding: 8px 10px;
+        font-size: 12px;
+        border-radius: 6px;
+        white-space: pre-wrap;
+        width: 800px;
+      }
+
+      .tooltip-wrapper:hover .tooltip-box {
+        display: block;
+      }
     </style>
+  </head>
 
+  <body>
     <!-- Contenedor de login -->
-
     <div class="loader-container">
       <span class="loader"></span>
     </div>
 
-    <div id="auth-container" style="text-align:center;">
+    <div id="auth-container" style="text-align: center">
       <h2>Inicia sesión para acceder</h2>
     </div>
 
@@ -142,12 +170,13 @@
     <script src="https://accounts.google.com/gsi/client" async defer></script>
 
     <script>
+      // Tu Client ID de Google Cloud
+      const SHEET_URL =
+        "https://script.google.com/macros/s/AKfycbwLNRKVXFr3Rce9vnY8GW6R4v3l7yer9vtUahdVc9Li5dGP6Yl-qOaV49Wv4Tx38rCp/exec";
+      const CLIENT_ID =
+        "444181898034-bj3ijh735krh74pajl733mtkp1lvisns.apps.googleusercontent.com";
 
-  // Tu Client ID de Google Cloud
-  const SHEET_URL  = "https://script.google.com/macros/s/AKfycbwLNRKVXFr3Rce9vnY8GW6R4v3l7yer9vtUahdVc9Li5dGP6Yl-qOaV49Wv4Tx38rCp/exec";
-  const CLIENT_ID = "444181898034-bj3ijh735krh74pajl733mtkp1lvisns.apps.googleusercontent.com";
-
-  async function getAllowedEmails() {
+      async function getAllowedEmails() {
         try {
           const res = await fetch(SHEET_URL);
           const data = await res.json();
@@ -158,52 +187,51 @@
         }
       }
 
-  // Función que se ejecuta al iniciar sesión correctamente
-  async function handleCredentialResponse(response) {
-    document.querySelector(".loader-container").style.display = "flex";
-    const app = document.querySelector("#app")
-    const cover = document.querySelector(".show")
-    const data = parseJwt(response.credential);
-    const email = data.email;
+      // Función que se ejecuta al iniciar sesión correctamente
+      async function handleCredentialResponse(response) {
+        document.querySelector(".loader-container").style.display = "flex";
+        const app = document.querySelector("#app");
+        const cover = document.querySelector(".show");
+        const data = parseJwt(response.credential);
+        const email = data.email;
 
-    const allowed = await getAllowedEmails();
+        const allowed = await getAllowedEmails();
 
-    if (allowed.includes(email)) {
-      // Autorizado ✅
-      document.querySelector("#auth-container").style.display = "none";
-      if(app) app.style.display = "block";
-      if(cover) cover.style.display = "flex";
-    } else {
-      document.body.innerHTML = `<h2 style="text-align:center;margin-top:20%">⛔ Acceso denegado: ${email}</h2>`;
-    }
-    document.querySelector(".loader-container").style.display = "none";
-  }
+        if (allowed.includes(email)) {
+          // Autorizado ✅
+          document.querySelector("#auth-container").style.display = "none";
+          if (app) app.style.display = "block";
+          if (cover) cover.style.display = "flex";
+        } else {
+          document.body.innerHTML = `<h2 style="text-align:center;margin-top:20%">⛔ Acceso denegado: ${email}</h2>`;
+        }
+        document.querySelector(".loader-container").style.display = "none";
+      }
 
-  // Función para decodificar el token JWT
-  function parseJwt(token) {
-    const base64Url = token.split('.')[1];
-    const base64 = base64Url.replace(/-/g, '+').replace(/_/g, '/');
-    const jsonPayload = decodeURIComponent(
-      atob(base64)
-        .split('')
-        .map(c => '%' + ('00' + c.charCodeAt(0).toString(16)).slice(-2))
-        .join('')
-    );
-    return JSON.parse(jsonPayload);
-  }
+      // Función para decodificar el token JWT
+      function parseJwt(token) {
+        const base64Url = token.split(".")[1];
+        const base64 = base64Url.replace(/-/g, "+").replace(/_/g, "/");
+        const jsonPayload = decodeURIComponent(
+          atob(base64)
+            .split("")
+            .map((c) => "%" + ("00" + c.charCodeAt(0).toString(16)).slice(-2))
+            .join("")
+        );
+        return JSON.parse(jsonPayload);
+      }
 
-  window.onload = function() {
-
-    google.accounts.id.initialize({
-      client_id: CLIENT_ID,
-      callback: handleCredentialResponse
-    });
-    google.accounts.id.renderButton(
-      document.getElementById("auth-container"),
-      { theme: "outline", size: "large" }
-    );
-  };
-</script>
+      window.onload = function () {
+        google.accounts.id.initialize({
+          client_id: CLIENT_ID,
+          callback: handleCredentialResponse,
+        });
+        google.accounts.id.renderButton(
+          document.getElementById("auth-container"),
+          { theme: "outline", size: "large" }
+        );
+      };
+    </script>
 
     <script>
       const isLocal =
@@ -268,10 +296,10 @@
                 const controls = document.createElement("div");
                 controls.className = "zoom-controls";
                 controls.innerHTML = `
-                  <button title="Acercar">＋</button>
-                  <button title="Alejar">－</button>
-                  <button title="Restablecer">⟳</button>
-                `;
+                      <button title="Acercar">＋</button>
+                      <button title="Alejar">－</button>
+                      <button title="Restablecer">⟳</button>
+                    `;
                 wrapper.appendChild(controls);
 
                 const panzoom = Panzoom(img, {
@@ -288,6 +316,76 @@
             });
           },
           ,
+          function (hook, vm) {
+            hook.doneEach(function () {
+              // Solo si en la página existe el contenedor
+              const table = document.getElementById("jsonTable");
+              if (!table) return;
+
+              fetch("assets/json/glosario.json")
+                .then((r) => r.json())
+                .then((data) => {
+                  // const headers = Object.keys(data[0]);
+                  const headers = ["id", "term", "definition"];
+
+                  function render(rows) {
+                    const thead = `
+        <tr>
+          <th>ID</th>
+          <th>Término</th>
+          <th>Definición</th>
+          <th>Info</th>
+        </tr>
+      `;
+
+                    const tbody = rows
+                      .map((row) => {
+                        const simpleCols = headers
+                          .map(
+                            (h) =>
+                              `<td style="min-width: 110px">${
+                                row[h] ?? ""
+                              }</td>`
+                          )
+                          .join("");
+
+                        const tooltipData = JSON.stringify(row, null, 2); // pretty JSON
+
+                        const infoIcon = `
+            <td>
+              <div class="tooltip-wrapper">
+                🔍
+                <div class="tooltip-box">${tooltipData}</div>
+              </div>
+            </td>
+          `;
+
+                        return `<tr>${simpleCols}${infoIcon}</tr>`;
+                      })
+                      .join("");
+
+                    document.getElementById("jsonTable").innerHTML = `
+        <table border="1" cellpadding="5" style="border-collapse: collapse; width: 100%;">
+          <thead>${thead}</thead>
+          <tbody>${tbody}</tbody>
+        </table>
+      `;
+                  }
+
+                  render(data);
+
+                  const input = document.getElementById("filterInput");
+                  input?.addEventListener("input", () => {
+                    const v = input.value.toLowerCase();
+                    render(
+                      data.filter((obj) =>
+                        JSON.stringify(obj).toLowerCase().includes(v)
+                      )
+                    );
+                  });
+                });
+            });
+          },
         ],
       };
     </script>

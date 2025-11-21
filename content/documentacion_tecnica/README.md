@@ -49,6 +49,7 @@
 ## Documentación de soporte
 
 - <a href="https://drive.google.com/file/d/1fowsx-bKz5YwBmgNeN9Skigu43AfGuoO/view?usp=drive_link" target="_blank">SNIF-RACI Documento de Actores, Roles y Responsabilidades</a>
+- [SNIF-GTS Glosario de términos](content/documentacion_tecnica/glosario/)
 
 ## Enlaces útiles
 
