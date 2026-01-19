@@ -37,6 +37,7 @@ Identificar las necesidades principales para el desarrollo del Módulo de restau
 - [Historias de usuario](content/historias_usuario/)
 - [Casos de prueba](content/casos_prueba/)
 - [Documentación técnica](content/documentacion_tecnica/)
+- [Brief de Identidad Visual e Iconografía SNIF](https://drive.google.com/file/d/1VX2zZ76Jo5NWGE4jiQ2SYBJ1P3zqT1Y3/view?usp=sharing)
 
 ### Colaboradores
 
