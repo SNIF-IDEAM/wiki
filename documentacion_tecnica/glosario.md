@@ -1,5 +1,3 @@
-[Inicio](/README.md) → [Documentación técnica](content/documentacion_tecnica/README.md)
-
 # SNIF-GTS Glosario de términos
 
 ## Descripción
