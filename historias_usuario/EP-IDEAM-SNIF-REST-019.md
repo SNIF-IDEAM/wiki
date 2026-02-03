@@ -24,12 +24,12 @@ Con ello, el sistema fortalece la calidad de los datos espaciales, la consistenc
 
 ## 3. Historias de usuario asociadas
 
-- [**HU-IDEAM-SNIF-REST-201:** Cargar geometría desde archivo geográfico](/historias_usuario/EP-IDEAM-SNIF-REST-019/HU-IDEAM-SNIF-REST-201.md)
-- [**HU-IDEAM-SNIF-REST-202:** Validaciones del archivo geográfico cargado](/historias_usuario/EP-IDEAM-SNIF-REST-019/HU-IDEAM-SNIF-REST-202.md)
-- [**HU-IDEAM-SNIF-REST-203:** Seleccionar y confirmar geometrías del archivo cargado](/historias_usuario/EP-IDEAM-SNIF-REST-019/HU-IDEAM-SNIF-REST-203.md)
-- [**HU-IDEAM-SNIF-REST-204:** Reemplazar geometría existente mediante cargue de archivo](/historias_usuario/EP-IDEAM-SNIF-REST-019/HU-IDEAM-SNIF-REST-204.md)
-- [**HU-IDEAM-SNIF-REST-205:** Recalcular métricas espaciales automáticamente](/historias_usuario/EP-IDEAM-SNIF-REST-019/HU-IDEAM-SNIF-REST-205.md)
-- [**HU-IDEAM-SNIF-REST-206:** Registrar auditoría de edición geométrica](/historias_usuario/EP-IDEAM-SNIF-REST-019/HU-IDEAM-SNIF-REST-206.md)
+- [**HU-IDEAM-SNIF-REST-201:** Cargar geometría desde archivo geográfico](/historias_usuario/EP-IDEAM-SNIF-REST-019/HU-IDEAM-SNIF-REST-201)
+- [**HU-IDEAM-SNIF-REST-202:** Validaciones del archivo geográfico cargado](/historias_usuario/EP-IDEAM-SNIF-REST-019/HU-IDEAM-SNIF-REST-202)
+- [**HU-IDEAM-SNIF-REST-203:** Seleccionar y confirmar geometrías del archivo cargado](/historias_usuario/EP-IDEAM-SNIF-REST-019/HU-IDEAM-SNIF-REST-203)
+- [**HU-IDEAM-SNIF-REST-204:** Reemplazar geometría existente mediante cargue de archivo](/historias_usuario/EP-IDEAM-SNIF-REST-019/HU-IDEAM-SNIF-REST-204)
+- [**HU-IDEAM-SNIF-REST-205:** Recalcular métricas espaciales automáticamente](/historias_usuario/EP-IDEAM-SNIF-REST-019/HU-IDEAM-SNIF-REST-205)
+- [**HU-IDEAM-SNIF-REST-206:** Registrar auditoría de edición geométrica](/historias_usuario/EP-IDEAM-SNIF-REST-019/HU-IDEAM-SNIF-REST-206)
 
 ## 4. Riesgos
 
