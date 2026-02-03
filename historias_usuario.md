@@ -6,11 +6,11 @@ Las épicas representan las funcionalidades agrupadas requeridas por los diferen
 
 ## Listado de épicas
 
-| ID                                                                         | Rol           | Necesidad                    | Resultado esperado                                              | Prioridad | Estado |
-| -------------------------------------------------------------------------- | ------------- | ---------------------------- | --------------------------------------------------------------- | --------- | ------ |
-| [EP-IDEAM-SNIF-REST-018](/historias_usuario/EP-IDEAM-SNIF-REST-018/README) | Registrador   | Gestión de áreas restuaradas | Gestión y edición de geometrías de áreas restauradas            |
-| [EP-IDEAM-SNIF-REST-019](/historias_usuario/EP-IDEAM-SNIF-REST-019/README) | Registrador   | Gestión de áreas restuaradas | Cargue y gestión de archivos geográficos para áreas restauradas |
-| [EP-IDEAM-SNIF-REST-020](/historias_usuario/EP-IDEAM-SNIF-REST-020/README) | Administrador | Administración               | Administracion de catalogos taxonomicos (especies)              |
+| ID                                                                  | Rol           | Necesidad                    | Resultado esperado                                              | Prioridad | Estado |
+| ------------------------------------------------------------------- | ------------- | ---------------------------- | --------------------------------------------------------------- | --------- | ------ |
+| [EP-IDEAM-SNIF-REST-018](/historias_usuario/EP-IDEAM-SNIF-REST-018) | Registrador   | Gestión de áreas restuaradas | Gestión y edición de geometrías de áreas restauradas            |
+| [EP-IDEAM-SNIF-REST-019](/historias_usuario/EP-IDEAM-SNIF-REST-019) | Registrador   | Gestión de áreas restuaradas | Cargue y gestión de archivos geográficos para áreas restauradas |
+| [EP-IDEAM-SNIF-REST-020](/historias_usuario/EP-IDEAM-SNIF-REST-020) | Administrador | Administración               | Administracion de catalogos taxonomicos (especies)              |
 
 ## Consideraciones
 
