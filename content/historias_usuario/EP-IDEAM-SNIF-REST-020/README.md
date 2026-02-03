@@ -1,45 +1,53 @@
-# Épica 20: Administración de catálogos taxonómicos
+# Épica: Gobernanza y Administración de Catálogos Taxonómicos
 
 ## 1. Descripción general
 
-Esta épica define la administración de los catálogos taxonómicos, los cuales permiten la clasificación jerárquica de las especies que posteriormente serán utilizadas en los procesos de caracterización de áreas restauradas dentro del sistema.
+Esta épica define la gobernanza y administración de los catálogos taxonómicos, los cuales constituyen la base semántica y científica oficial para la clasificación biológica de las especies utilizadas en la caracterización de las áreas restauradas dentro del sistema.
 
-La gestión de estos catálogos es exclusiva de perfiles administradores, garantizando la integridad, consistencia y trazabilidad de la información taxonómica.
-La estructura jerárquica contempla los niveles de Reino, Filum, Familia, Género y Especie, asegurando relaciones coherentes entre los distintos niveles y su correcta reutilización en los módulos operativos del sistema.
+La administración de los catálogos es exclusiva del perfil Administrador IDEAM, garantizando:
 
-Todos los catálogos comparten reglas comunes de estado, auditoría, restricción de eliminación física y control de vigencias, fortaleciendo la confiabilidad de la información biológica del sistema.
+- Consistencia científica de la información biológica.
+- Trazabilidad histórica de los cambios taxonómicos.
+- Estabilidad de los datos utilizados en reportes oficiales.
+
+Los catálogos taxonómicos son consumidos de forma transversal por los módulos de:
+
+- Áreas restauradas.
+- Seguimiento y monitoreo.
+- Indicadores ecológicos.
+- Reportes nacional e internacional.
+
+La jerarquía taxonómica definida en el sistema es estricta y obligatoria (Reino, Filum, Familia, Género y Especie), y todos los registros cuentan con control de estado, auditoría completa y prohibición de borrado físico.
 
 ## 2. Objetivo
 
-Disponer de un módulo administrativo que permita crear, consultar, actualizar, activar e inactivar los catálogos taxonómicos, asegurando:
+Disponer de un módulo administrativo que permita la gestión centralizada, controlada y auditada de los catálogos taxonómicos oficiales, asegurando:
 
-- La correcta definición de la jerarquía taxonómica.
-- La integridad referencial entre los distintos niveles (Reino → Especie).
-- La disponibilidad controlada de especies para su uso en la caracterización de áreas restauradas.
-- La trazabilidad completa de los cambios realizados.
-- La preservación histórica de la información mediante inactivación lógica.
+- La correcta administración de la jerarquía taxonómica definida por el sistema.
+- La integridad y coherencia científica de los registros biológicos.
+- La inmutabilidad de la jerarquía una vez existan dependencias asociadas.
+- La disponibilidad de especies activas para su uso en los módulos operativos.
+- La preservación histórica de la información taxonómica utilizada en procesos y reportes oficiales.
 
 ## 3. Historias de usuario asociadas
 
-- [**HU-IDEAM-SNIF-REST-190:** Administrar reinos biológicos](/content/historias_usuario/EP-IDEAM-SNIF-REST-020/HU-IDEAM-SNIF-REST-190.md)
-- [**HU-IDEAM-SNIF-REST-191:** Administrar filum](/content/historias_usuario/EP-IDEAM-SNIF-REST-020/HU-IDEAM-SNIF-REST-191.md)
-- [**HU-IDEAM-SNIF-REST-192:** Administrar familias](/content/historias_usuario/EP-IDEAM-SNIF-REST-020/HU-IDEAM-SNIF-REST-192.md)
-- [**HU-IDEAM-SNIF-REST-193:** Administrar géneros](/content/historias_usuario/EP-IDEAM-SNIF-REST-020/HU-IDEAM-SNIF-REST-193.md)
-- [**HU-IDEAM-SNIF-REST-194:** Administrar especies](/content/historias_usuario/EP-IDEAM-SNIF-REST-020/HU-IDEAM-SNIF-REST-194.md)
-- [**HU-IDEAM-SNIF-REST-195:** Control de dependencias taxonómicas](/content/historias_usuario/EP-IDEAM-SNIF-REST-020/HU-IDEAM-SNIF-REST-195.md)
-- [**HU-IDEAM-SNIF-REST-196:** Uso de especies en áreas restauradas](/content/historias_usuario/EP-IDEAM-SNIF-REST-020/HU-IDEAM-SNIF-REST-196.md)
-- [**HU-IDEAM-SNIF-REST-197:** Auditoría de catálogos taxonómicos](/content/historias_usuario/EP-IDEAM-SNIF-REST-020/HU-IDEAM-SNIF-REST-197.md)
-- [**HU-IDEAM-SNIF-REST-198:** Visualización jerárquica del catálogo](/content/historias_usuario/EP-IDEAM-SNIF-REST-020/HU-IDEAM-SNIF-REST-198.md)
-- [**HU-IDEAM-SNIF-REST-199:** Búsqueda avanzada de especies](/content/historias_usuario/EP-IDEAM-SNIF-REST-020/HU-IDEAM-SNIF-REST-199.md)
+- [**HU-IDEAM-SNIF-REST-207:** Administrar reinos biológicos](/content/historias_usuario/EP-IDEAM-SNIF-REST-020/HU-IDEAM-SNIF-REST-207.md)
+- [**HU-IDEAM-SNIF-REST-208:** Administrar filum](/content/historias_usuario/EP-IDEAM-SNIF-REST-020/HU-IDEAM-SNIF-REST-208.md)
+- [**HU-IDEAM-SNIF-REST-209:** Administrar familias](/content/historias_usuario/EP-IDEAM-SNIF-REST-020/HU-IDEAM-SNIF-REST-209.md)
+- [**HU-IDEAM-SNIF-REST-210:** Administrar géneros](/content/historias_usuario/EP-IDEAM-SNIF-REST-020/HU-IDEAM-SNIF-REST-210.md)
+- [**HU-IDEAM-SNIF-REST-211:** Administrar especies](/content/historias_usuario/EP-IDEAM-SNIF-REST-020/HU-IDEAM-SNIF-REST-211.md)
+- [**HU-IDEAM-SNIF-REST-212:** Control de dependencias taxonómicas](/content/historias_usuario/EP-IDEAM-SNIF-REST-020/HU-IDEAM-SNIF-REST-212.md)
+- [**HU-IDEAM-SNIF-REST-213:** Uso de especies en áreas restauradas](/content/historias_usuario/EP-IDEAM-SNIF-REST-020/HU-IDEAM-SNIF-REST-213.md)
+- [**HU-IDEAM-SNIF-REST-214:** Auditoría de catálogos taxonómicos](/content/historias_usuario/EP-IDEAM-SNIF-REST-020/HU-IDEAM-SNIF-REST-214.md)
+- [**HU-IDEAM-SNIF-REST-215:** Visualización jerárquica del catálogo](/content/historias_usuario/EP-IDEAM-SNIF-REST-020/HU-IDEAM-SNIF-REST-215.md)
+- [**HU-IDEAM-SNIF-REST-216:** Búsqueda avanzada de especies](/content/historias_usuario/EP-IDEAM-SNIF-REST-020/HU-IDEAM-SNIF-REST-216.md)
 
 ## 4. Riesgos
 
-- Registro incorrecto de la jerarquía taxonómica.
-- Inconsistencias entre niveles (por ejemplo, especies sin género).
-- Uso de registros inactivos en procesos operativos.
-- Duplicidad de registros taxonómicos.
-- Pérdida de trazabilidad de modificaciones.
-- Eliminación accidental de información crítica.
+- Inconsistencias científicas por edición no controlada de catálogos.
+- Alteración indebida de jerarquías con dependencias activas.
+- Uso de especies inactivas en formularios operativos.
+- Pérdida de trazabilidad de cambios taxonómicos.
 
 ## 5. Diagrama de secuencia
 
