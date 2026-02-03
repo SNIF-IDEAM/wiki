@@ -50,7 +50,7 @@ Permitir la **gestión centralizada, controlada y trazable de las tablas de domi
 
 ## 5. Diagrama de secuencia
 
-[![IMAGEN DIAGRAMA DE SECUENCIA](EP-IDEAM-SNIF-REST-002\assets\secuencia-ep-ideam-snif-rest-002.png)](EP-IDEAM-SNIF-REST-002\assets\secuencia-ep-ideam-snif-rest-002.png)
+[![IMAGEN DIAGRAMA DE SECUENCIA](EP-IDEAM-SNIF-REST-002/assets/secuencia-ep-ideam-snif-rest-002.png)](EP-IDEAM-SNIF-REST-002/assets/secuencia-ep-ideam-snif-rest-002.png)
 
 
 ---
