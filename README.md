@@ -30,14 +30,14 @@ Identificar las necesidades principales para el desarrollo del Módulo de restau
 
 ### Enlaces relacionados
 
-- [Diagrama de proceso](content/diagrama_proceso/)
-- [Arquitectura de software](content/arquitectura_software/)
-- [Estructura de datos](content/estructura_datos/)
-- [Experiencia UX/UI](content/ux_ui/)
-- [Historias de usuario](content/historias_usuario/)
-- [Requerimientos no funcionales](content/requerimientos_no_funcionales/)
-- [Casos de prueba](content/casos_prueba/)
-- [Documentación técnica](content/documentacion_tecnica/)
+- [Diagrama de proceso](/diagrama_proceso/README)
+- [Arquitectura de software](/arquitectura_software/README)
+- [Estructura de datos](/estructura_datos/README)
+- [Experiencia UX/UI](/ux_ui/README)
+- [Historias de usuario](/historias_usuario/README)
+- [Requerimientos no funcionales](/requerimientos_no_funcionales/README)
+- [Casos de prueba](/casos_prueba/README)
+- [Documentación técnica](/documentacion_tecnica/README)
 - [Brief de Identidad Visual e Iconografía SNIF](https://drive.google.com/file/d/1VX2zZ76Jo5NWGE4jiQ2SYBJ1P3zqT1Y3/view?usp=sharing)
 
 ### Colaboradores
