@@ -30,14 +30,14 @@
 - Estado                  
 2.2 Los filtros deben respetar la jerarquía taxonómica definida.
 
-3. Resultados de búsqueda\
+3. **Resultados de búsqueda**\
 3.1 Los resultados deben mostrarse en un listado tabulado.\
 3.2 El listado debe incluir como mínimo:
 
 - Género
 - Nombre de la especie
 - Estado
-- Fechas de creación y actualización
+- Fechas de creación y actualización               
 3.3 Los resultados deben estar paginados.
 
 4. **Permisos por rol**\
@@ -59,4 +59,4 @@
 
 ## DIAGRAMA DE FLUJO DEL PROCESO
 
-![IMAGEN FLUJO DE ACTIVIDADES](/content/historias_usuario/EP-IDEAM-SNIF-REST-020/assets/actividades-hu-ideam-snif-rest-216.png)
+![IMAGEN FLUJO DE ACTIVIDADES](assets/actividades-hu-ideam-snif-rest-216.png)(assets/actividades-hu-ideam-snif-rest-216.png)

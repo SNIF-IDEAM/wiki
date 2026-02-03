@@ -1,4 +1,4 @@
-# Épica: Gestión y actualización de geometrías de áreas restauradas
+# Épica 18: Gestión y actualización de geometrías de áreas restauradas
 
 ## 1. Descripción general
 
