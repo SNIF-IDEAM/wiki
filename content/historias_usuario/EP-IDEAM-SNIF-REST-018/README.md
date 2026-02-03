@@ -1,35 +1,51 @@
-# Épica 18: Gestión y edición de geometrías de áreas restauradas
+# Épica: Gestión y actualización de geometrías de áreas restauradas
 
 ## 1. Descripción general
 
-Esta épica define la gestión y edición de las geometrías de áreas restauradas, permitiendo a los usuarios con perfil Registrador modificar la delimitación espacial de dichas áreas directamente desde el catálogo del sistema, utilizando el visor geográfico como herramienta principal de edición.
+Esta épica define la gestión y actualización controlada de la geometría de las áreas restauradas dentro del sistema SNIF, permitiendo a los usuarios con perfil Registrador modificar la delimitación espacial de un área restaurada exclusivamente mediante la carga de un nuevo archivo geográfico.
 
-La funcionalidad garantiza que la información espacial pueda ser corregida o actualizada de manera controlada, asegurando la integridad geométrica, el control de estados, la trazabilidad de cambios y la coherencia con los procesos automáticos de cálculo de áreas y traslapes, fortaleciendo así la calidad y confiabilidad de la información geográfica del sistema.
+El sistema dispone de un visor geográfico simplificado, orientado únicamente a la visualización y navegación espacial (zoom, encuadre, activación y desactivación de capas), sin permitir edición gráfica directa sobre el mapa.
+
+Esta épica garantiza:
+
+- Control institucional de la información espacial.
+- Trazabilidad completa de las modificaciones geométricas.
+- Recalculo automático de métricas espaciales.
+- Identificación de traslapes.
+- Coherencia entre geometría, atributos, visor geográfico y reportes oficiales.
+
+La gestión de geometrías se concibe como un proceso técnico, auditado y alineado con los lineamientos del IDEAM.
 
 ## 2. Objetivo
 
-Disponer de un módulo que permita la edición controlada de la geometría de las áreas restauradas, asegurando:
+Disponer de un módulo que permita la actualización controlada, validada y auditada de la geometría de un área restaurada, con el fin de:
 
-- Corrección de errores de delimitación espacial.
-- Actualización de geometrías conforme a nuevos insumos técnicos.
-- Recalculo automático de áreas y traslapes.
-- Consistencia entre geometría, atributos asociados y procesos analíticos.
-- Registro histórico de modificaciones geométricas.
+- Corregir errores de delimitación detectados con posterioridad al registro.
+- Actualizar la geometría a partir de insumos técnicos oficiales más precisos.
+- Mantener la consistencia entre:
+- Geometría almacenada.
+- Área calculada automáticamente.
+- Traslapes espaciales.
+- Información publicada, consultada y reportada por el sistema.
+- Garantizar que cada modificación genere cambios de estado, recálculos automáticos y registros de auditoría.
 
 ## 3. Historias de usuario asociadas
 
-- [**HU-IDEAM-SNIF-REST-178** Editar geometría de un área restaurada desde el catálogo](/content/historias_usuario/EP-IDEAM-SNIF-REST-018/HU-IDEAM-SNIF-REST-178.md)
-- [**HU-IDEAM-SNIF-REST-179:** Guardar cambios de geometría editada](/content/historias_usuario/EP-IDEAM-SNIF-REST-018/HU-IDEAM-SNIF-REST-179.md)
-- [**HU-IDEAM-SNIF-REST-180:** Validaciones geométricas en edición](/content/historias_usuario/EP-IDEAM-SNIF-REST-018/HU-IDEAM-SNIF-REST-180.md)
+- [**HU-IDEAM-SNIF-REST-195:** Actualizar geometría de un área restaurada mediante archivo](/content/historias_usuario/EP-IDEAM-SNIF-REST-018/HU-IDEAM-SNIF-REST-195.md)
+- [**HU-IDEAM-SNIF-REST-196:** Confirmar o cancelar actualización de geometría](/content/historias_usuario/EP-IDEAM-SNIF-REST-018/HU-IDEAM-SNIF-REST-196.md)
+- [**HU-IDEAM-SNIF-REST-197:** Validaciones geométricas en carga de archivo](/content/historias_usuario/EP-IDEAM-SNIF-REST-018/HU-IDEAM-SNIF-REST-197.md)
+- [**HU-IDEAM-SNIF-REST-198:** Recalcular áreas y traslapes tras actualización geométrica](/content/historias_usuario/EP-IDEAM-SNIF-REST-018/HU-IDEAM-SNIF-REST-198.md)
+- [**HU-IDEAM-SNIF-REST-199:** Registrar auditoría de cambios geométricos](/content/historias_usuario/EP-IDEAM-SNIF-REST-018/HU-IDEAM-SNIF-REST-199.md)
+- [**HU-IDEAM-SNIF-REST-200:** Visualizar geometría actualizada en visor geográfico](/content/historias_usuario/EP-IDEAM-SNIF-REST-018/HU-IDEAM-SNIF-REST-200.md)
 
 ## 4. Riesgos
 
-- Edición incorrecta de la geometría que genere errores espaciales.
-- Inconsistencia entre geometría y atributos del área restaurada.
-- Pérdida de información por falta de control de versiones.
-- Errores en el cálculo de áreas y traslapes.
-- Uso de geometrías no validadas en procesos analíticos.
-- Modificaciones no autorizadas por perfiles incorrectos.
+- Carga de archivos geográficos con errores técnicos o proyección incorrecta.
+- Inconsistencias entre geometría actualizada y métricas espaciales publicadas.
+- Uso de geometrías desactualizadas en reportes o visualizaciones.
+- Pérdida de trazabilidad de cambios geométricos.
+- Edición no autorizada de geometría fuera del flujo institucional.
+- Falta de sincronización entre el visor, la base de datos espacial y los módulos de reporte.
 
 ## 5. Diagrama de secuencia
 
