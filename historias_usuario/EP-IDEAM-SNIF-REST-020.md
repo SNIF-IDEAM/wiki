@@ -1,4 +1,4 @@
-# Épica: Gobernanza y Administración de Catálogos Taxonómicos
+# Épica 20: Gobernanza y Administración de Catálogos Taxonómicos
 
 ## 1. Descripción general
 
