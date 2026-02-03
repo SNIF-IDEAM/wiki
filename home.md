@@ -30,7 +30,7 @@ Identificar las necesidades principales para el desarrollo del Módulo de restau
 
 ### Enlaces relacionados
 
-- [Diagrama de proceso](/diagrama_proceso/README)
+- [Diagrama de proceso](/diagrama_proceso)
 - [Arquitectura de software](/arquitectura_software/README)
 - [Estructura de datos](/estructura_datos/README)
 - [Experiencia UX/UI](/ux_ui/README)
