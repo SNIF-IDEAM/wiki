@@ -1,5 +1,3 @@
-[Inicio](/README.md)
-
 # Arquitectura de software
 
 ## Visión general
