@@ -51,6 +51,6 @@ Disponer de un módulo administrativo que permita la gestión centralizada, cont
 
 ## 5. Diagrama de secuencia
 
-![IMAGEN DIAGRAMA DE SECUENCIA](/historias_usuario/EP-IDEAM-SNIF-REST-020/assets/secuencia-ep-ideam-snif-rest-020.png)
+[![IMAGEN DIAGRAMA DE SECUENCIA](EP-IDEAM-SNIF-REST-020/assets/secuencia-ep-ideam-snif-rest-020.png)](EP-IDEAM-SNIF-REST-020/assets/secuencia-ep-ideam-snif-rest-020.png)
 
 ## 6. Wireframes / mockupso

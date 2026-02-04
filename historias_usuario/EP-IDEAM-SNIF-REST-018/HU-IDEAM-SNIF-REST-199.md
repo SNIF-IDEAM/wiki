@@ -58,4 +58,4 @@ HU-IDEAM-SNIF-REST-199
 
 ## DIAGRAMA DE FLUJO DEL PROCESO
 
-![IMAGEN FLUJO DE ACTIVIDADES](assets/actividades-hu-ideam-snif-rest-199.png)(assets/actividades-hu-ideam-snif-rest-199.png)
+[![IMAGEN FLUJO DE ACTIVIDADES](assets/actividades-hu-ideam-snif-rest-199.png)](assets/actividades-hu-ideam-snif-rest-199.png)

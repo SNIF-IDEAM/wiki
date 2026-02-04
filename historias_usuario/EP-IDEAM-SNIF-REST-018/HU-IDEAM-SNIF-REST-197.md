@@ -24,7 +24,6 @@ HU-IDEAM-SNIF-REST-197
 
 2. **Validación de geometría válida**\
 2.1 La geometría debe cumplir las siguientes condiciones:
-
 - No presentar autointersecciones. 
 - Estar correctamente cerrada.                      
 2.2 Geometrías inválidas deben impedir la continuación del proceso.
@@ -43,7 +42,6 @@ HU-IDEAM-SNIF-REST-197
 
 6. **Comportamiento ante errores**\
 6.1 Si alguna validación falla:
-
 - Se debe bloquear la opción Confirmar actualización.
 - El sistema debe mostrar mensajes de error claros, específicos y orientados al usuario.
 
@@ -66,4 +64,4 @@ HU-IDEAM-SNIF-REST-197
 
 ## DIAGRAMA DE FLUJO DEL PROCESO
 
-![IMAGEN FLUJO DE ACTIVIDADES](assets/actividades-hu-ideam-snif-rest-197.png)(assets/actividades-hu-ideam-snif-rest-197.png)
+[![IMAGEN FLUJO DE ACTIVIDADES](assets/actividades-hu-ideam-snif-rest-197.png)](assets/actividades-hu-ideam-snif-rest-197.png)

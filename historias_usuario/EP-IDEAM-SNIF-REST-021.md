@@ -53,6 +53,6 @@ Disponer de un mecanismo controlado y trazable que permita al usuario registrado
 
 ## 5. Diagrama de secuencia
 
-![IMAGEN DIAGRAMA DE SECUENCIA](/historias_usuario/EP-IDEAM-SNIF-REST-021/assets/secuencia-ep-ideam-snif-rest-021.png)
+[![IMAGEN DIAGRAMA DE SECUENCIA](EP-IDEAM-SNIF-REST-021/assets/secuencia-ep-ideam-snif-rest-021.png)](EP-IDEAM-SNIF-REST-021/assets/secuencia-ep-ideam-snif-rest-021.png)
 
 ## 6. Wireframes / mockupso

@@ -46,4 +46,4 @@ El reordenamiento no afecta la simbología ni la leyenda de las capas.
 
 ## DIAGRAMA DE FLUJO DEL PROCESO
 
-![IMAGEN FLUJO DE ACTIVIDADES](assets/actividades-hu-ideam-snif-rest-223.png)(assets/actividades-hu-ideam-snif-rest-223.png)
+[![IMAGEN FLUJO DE ACTIVIDADES](assets/actividades-hu-ideam-snif-rest-223.png)](assets/actividades-hu-ideam-snif-rest-223.png)
