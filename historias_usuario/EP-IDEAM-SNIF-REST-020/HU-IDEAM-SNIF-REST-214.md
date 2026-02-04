@@ -16,48 +16,45 @@
 ## CRITERIOS DE ACEPTACIÓN
 
 1. **Cobertura de entidades auditadas**\
-1.1 El sistema debe auditar cambios realizados sobre las siguientes entidades:
-
-- Reino
-- Filum
-- Familia
-- Género
-- Especie
+    1.1 El sistema debe auditar cambios realizados sobre las siguientes entidades:
+    - Reino
+    - Filum
+    - Familia
+    - Género
+    - Especie
 
 2. **Eventos auditables**\
-2.1 El sistema debe registrar auditoría para las acciones de:
-
-- Crear
-- Editar
-- Activar
-- Desactivar
+    2.1 El sistema debe registrar auditoría para las acciones de:
+    - Crear
+    - Editar
+    - Activar
+    - Desactivar
 
 3. **Información mínima registrada**\
-3.1 Cada registro de auditoría debe almacenar obligatoriamente:
-
-- Tipo de entidad afectada.
-- Acción ejecutada.
-- Usuario que realizó la acción.
-- Fecha y hora del evento.
-- Valores anteriores.
-- Valores nuevos.
+    3.1 Cada registro de auditoría debe almacenar obligatoriamente:
+    - Tipo de entidad afectada.
+    - Acción ejecutada.
+    - Usuario que realizó la acción.
+    - Fecha y hora del evento.
+    - Valores anteriores.
+    - Valores nuevos.
 
 4. **Registro automático**\
-4.1 El registro de auditoría debe ejecutarse de manera automática, sin intervención del usuario.\
-4.2 Ninguna acción válida sobre los catálogos puede ejecutarse sin generar su respectivo registro de auditoría.
+    4.1 El registro de auditoría debe ejecutarse de manera automática, sin intervención del usuario.\
+    4.2 Ninguna acción válida sobre los catálogos puede ejecutarse sin generar su respectivo registro de auditoría.
 
 5. **Integridad de la auditoría**\
-5.1 Los registros de auditoría no deben poder ser modificados ni eliminados por ningún rol.\
-5.2 La auditoría debe conservarse incluso si la entidad auditada es desactivada.
+    5.1 Los registros de auditoría no deben poder ser modificados ni eliminados por ningún rol.\
+    5.2 La auditoría debe conservarse incluso si la entidad auditada es desactivada.
 
 6. **Consulta de auditoría**\
-6.1 El sistema podrá permitir la consulta de auditoría a usuarios autorizados.\
-6.2 La consulta podrá filtrarse por:
+    6.1 El sistema podrá permitir la consulta de auditoría a usuarios autorizados.\
+    6.2 La consulta podrá filtrarse por:
 
-- Tipo de entidad
-- Acción
-- Usuario
-- Rango de fechas
+    - Tipo de entidad
+    - Acción
+    - Usuario
+    - Rango de fechas
 
 ## ROLES
 

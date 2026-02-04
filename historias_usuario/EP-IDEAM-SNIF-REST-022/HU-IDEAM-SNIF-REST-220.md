@@ -16,25 +16,26 @@
 ## CRITERIOS DE ACEPTACIÓN
 
 1. **Herramienta de Control de Capas**\
-1.1 El visor debe incluir una herramienta de Control de Capas visible y accesible.\
-1.2 El control muestra únicamente las capas que están actualmente activas.
+    1.1 El visor debe incluir una herramienta de Control de Capas visible y accesible.\
+    1.2 El control muestra únicamente las capas que están actualmente activas.
 
 2. **Información de cada capa**\
-2.1 Cada capa activa debe mostrar:
+    2.1 Cada capa activa debe mostrar:
 
-- Nombre de la capa.
-- Grupo temático al que pertenece.
-- Icono que indique el tipo de capa (polígono, línea, punto, raster).                               
-2.2 Las capas se deben agrupar visualmente por grupo temático para facilitar la navegación.
+    - Nombre de la capa.
+    - Grupo temático al que pertenece.
+    - Icono que indique el tipo de capa (polígono, línea, punto, raster). 
+          
+    2.2 Las capas se deben agrupar visualmente por grupo temático para facilitar la navegación.
 
 3. **Validaciones de negocio**\
-3.1 El orden de las capas en el control debe reflejar el orden de renderizado en el mapa.\
-3.2 Las capas base se gestionan en un grupo separado y no se mezclan con las capas activas del usuario.
+    3.1 El orden de las capas en el control debe reflejar el orden de renderizado en el mapa.\
+    3.2 Las capas base se gestionan en un grupo separado y no se mezclan con las capas activas del usuario.
 
 4. **UX esperado**\
-4.1 Panel de control colapsable.\
-4.2 Grupos temáticos plegables y desplegables según preferencia del usuario.\
-4.3 Scroll visible si hay muchas capas activas para asegurar que todas sean accesibles.
+    4.1 Panel de control colapsable.\
+    4.2 Grupos temáticos plegables y desplegables según preferencia del usuario.\
+    4.3 Scroll visible si hay muchas capas activas para asegurar que todas sean accesibles.
 
 ## ROLES
 

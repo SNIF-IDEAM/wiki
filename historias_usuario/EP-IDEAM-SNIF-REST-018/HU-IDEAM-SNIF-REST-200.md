@@ -16,28 +16,27 @@ HU-IDEAM-SNIF-REST-200
 ## CRITERIOS DE ACEPTACIÓN
 
 1. **Geometría visible en el visor**\
-1.1 El visor geográfico debe mostrar únicamente la última geometría validada por IDEAM.\
-1.2 No se deben visualizar geometrías históricas ni versiones en borrador en la vista principal.
+    1.1 El visor geográfico debe mostrar únicamente la última geometría validada por IDEAM.\
+    1.2 No se deben visualizar geometrías históricas ni versiones en borrador en la vista principal.
 
 2. **Restricción por estado**\
-2.1 Las geometrías en estado BORRADOR no deben ser visibles para usuarios de consulta.\
-2.2 Solo las geometrías con estado validado deben considerarse oficiales para visualización pública.
+    2.1 Las geometrías en estado BORRADOR no deben ser visibles para usuarios de consulta.\
+    2.2 Solo las geometrías con estado validado deben considerarse oficiales para visualización pública.
 
 3. **Indicador visual de estado**\
-3.1 El visor debe mostrar un indicador visual del estado del área restaurada.\
-3.2 El estado debe diferenciar claramente, como mínimo:
-
-- Borrador
-- Validado
-- Inactivo
+    3.1 El visor debe mostrar un indicador visual del estado del área restaurada.\
+    3.2 El estado debe diferenciar claramente, como mínimo:
+    - Borrador
+    - Validado
+    - Inactivo
 
 4. **Consistencia de la información**\
-4.1 La geometría visualizada debe coincidir con la versión geométrica vigente y los valores de área y traslapes recalculados.\
-4.2 Los datos mostrados deben estar sincronizados con los reportes y formularios informativos.
+    4.1 La geometría visualizada debe coincidir con la versión geométrica vigente y los valores de área y traslapes recalculados.\
+    4.2 Los datos mostrados deben estar sincronizados con los reportes y formularios informativos.
 
 5. **Modo de visualización**\
-5.1 El visor debe permitir únicamente acciones de navegación (zoom, desplazamiento, encuadre).\
-5.2 No se permite ningún tipo de edición gráfica desde esta vista.
+    5.1 El visor debe permitir únicamente acciones de navegación (zoom, desplazamiento, encuadre).\
+    5.2 No se permite ningún tipo de edición gráfica desde esta vista.
 
 ## ROLES
 

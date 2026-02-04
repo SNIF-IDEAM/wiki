@@ -16,27 +16,27 @@ HU-IDEAM-SNIF-REST-198
 ## CRITERIOS DE ACEPTACIÓN
 
 1. **Disparador del recalculo**\
-1.1 El recalculo debe ejecutarse automáticamente al confirmar una nueva geometría.\
-1.2 El proceso no debe requerir intervención manual del usuario.
+    1.1 El recalculo debe ejecutarse automáticamente al confirmar una nueva geometría.\
+    1.2 El proceso no debe requerir intervención manual del usuario.
 
 2. **Recalculo de áreas**\
-2.1 El sistema debe recalcular el área total del polígono en hectáreas (ha).\
-2.2 Cuando aplique, el sistema debe recalcular el área efectiva, descontando zonas no computables según reglas del sistema.
+    2.1 El sistema debe recalcular el área total del polígono en hectáreas (ha).\
+    2.2 Cuando aplique, el sistema debe recalcular el área efectiva, descontando zonas no computables según reglas del sistema.
 
 3. **Análisis de traslapes**\
-3.1 El sistema debe ejecutar el análisis de traslapes de la nueva geometría con otras áreas restauradas del mismo proyecto y áreas restauradas de otros proyectos, según reglas definidas.\
-3.2 El análisis debe identificar la extensión del traslape y su impacto sobre el área efectiva.
+    3.1 El sistema debe ejecutar el análisis de traslapes de la nueva geometría con otras áreas restauradas del mismo proyecto y áreas restauradas de otros proyectos, según reglas definidas.\
+    3.2 El análisis debe identificar la extensión del traslape y su impacto sobre el área efectiva.
 
 4. **Persistencia de resultados**\
-4.1 Los valores recalculados deben almacenarse como una nueva versión.\
-4.2 Los resultados deben quedar asociados al área restaurada correspondiente.\
-4.3 La versión anterior debe conservarse únicamente para fines históricos y de auditoría.
+    4.1 Los valores recalculados deben almacenarse como una nueva versión.\
+    4.2 Los resultados deben quedar asociados al área restaurada correspondiente.\
+    4.3 La versión anterior debe conservarse únicamente para fines históricos y de auditoría.
 
-5 **Consistencia y disponibilidad**\
-5.1 Los nuevos valores deben reflejarse de forma inmediata en:
-- El visor geográfico.
-- Los formularios informativos del área restaurada.
-- Los reportes dependientes.
+5. **Consistencia y disponibilidad**\
+    5.1 Los nuevos valores deben reflejarse de forma inmediata en:
+    - El visor geográfico.
+    - Los formularios informativos del área restaurada.
+    - Los reportes dependientes.
 
 ## ROLES
 

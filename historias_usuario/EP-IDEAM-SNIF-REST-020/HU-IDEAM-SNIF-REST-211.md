@@ -16,43 +16,41 @@
 ## CRITERIOS DE ACEPTACIÓN
 
 1. **Vista principal del catálogo de especies**\
-1.1 El sistema debe presentar un listado principal de las especies registradas.\
-1.2 El listado debe permitir visualizar especies activas e inactivas.
+    1.1 El sistema debe presentar un listado principal de las especies registradas.\
+    1.2 El listado debe permitir visualizar especies activas e inactivas.
 
 2. **Filtros del catálogo**\
-2.1 El sistema debe permitir filtrar las especies por los siguientes criterios:
-
-- Reino.
-- Filum.
-- Familia.
-- Género.
-- Estado.
+    2.1 El sistema debe permitir filtrar las especies por los siguientes criterios:
+    - Reino.
+    - Filum.
+    - Familia.
+    - Género.
+    - Estado.
 
 3. **Campos visibles en el catálogo**\
-3.1 Cada registro de especie debe mostrar como mínimo los siguientes campos:
-
-- Género asociado.
-- Nombre de la especie.
-- Estado (activo / inactivo).
-- Fecha de creación.
-- Fecha de actualización.
+    3.1 Cada registro de especie debe mostrar como mínimo los siguientes campos:
+    - Género asociado.
+    - Nombre de la especie.
+    - Estado (activo / inactivo).
+    - Fecha de creación.
+    - Fecha de actualización.
 
 4. **Creación de especies**\
-4.1 El sistema debe permitir crear una nueva especie.\
-4.2 La especie debe estar obligatoriamente asociada a un género existente.\
-4.3 El sistema debe validar la unicidad de la especie dentro del género.
+    4.1 El sistema debe permitir crear una nueva especie.\
+    4.2 La especie debe estar obligatoriamente asociada a un género existente.\
+    4.3 El sistema debe validar la unicidad de la especie dentro del género.
 
 5. **Edición de especies**\
-5.1 El sistema debe permitir editar la información de la especie.\
-5.2 La edición no debe alterar registros históricos asociados.
+    5.1 El sistema debe permitir editar la información de la especie.\
+    5.2 La edición no debe alterar registros históricos asociados.
 
 6. **Activación e inactivación de especies**\
-6.1 El sistema debe permitir activar o desactivar una especie.\
-6.2 Las especies inactivas no deben mostrarse en los formularios de áreas restauradas.
+    6.1 El sistema debe permitir activar o desactivar una especie.\
+    6.2 Las especies inactivas no deben mostrarse en los formularios de áreas restauradas.
 
-7- **Persistencia y trazabilidad**\
-7.1 El sistema debe registrar la fecha de creación y actualización de cada especie.\
-7.2 Todas las acciones deben quedar registradas para fines de auditoría.
+7. **Persistencia y trazabilidad**\
+    7.1 El sistema debe registrar la fecha de creación y actualización de cada especie.\
+    7.2 Todas las acciones deben quedar registradas para fines de auditoría.
 
 ## ROLES
 

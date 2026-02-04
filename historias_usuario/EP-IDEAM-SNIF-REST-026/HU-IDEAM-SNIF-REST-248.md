@@ -16,24 +16,25 @@
 ## CRITERIOS DE ACEPTACIÓN
 
 1. **Opciones de tipo de información**\
-1.1 El panel de estadísticas debe permitir seleccionar el tipo de información a consolidar mediante las opciones:
-- Proyectos.
-- Áreas de restauración.                         
-1.2 Las opciones deben presentarse de forma clara y mutuamente excluyente.
+    1.1 El panel de estadísticas debe permitir seleccionar el tipo de información a consolidar mediante las opciones:
+    - Proyectos.
+    - Áreas de restauración. 
+       
+    1.2 Las opciones deben presentarse de forma clara y mutuamente excluyente.
 
 2. **Selección obligatoria**\
-2.1 La selección del tipo de información debe ser obligatoria para el cálculo de estadísticas.\
-2.2 Mientras no se seleccione un tipo de información, el sistema no debe mostrar resultados estadísticos.\
-2.3 El sistema debe indicar visualmente que la selección es requerida.
+    2.1 La selección del tipo de información debe ser obligatoria para el cálculo de estadísticas.\
+    2.2 Mientras no se seleccione un tipo de información, el sistema no debe mostrar resultados estadísticos.\
+    2.3 El sistema debe indicar visualmente que la selección es requerida.
 
 3. **Recalculo automático de indicadores**\
-3.1 Al cambiar el tipo de información seleccionado, el sistema debe recalcular automáticamente las estadísticas e indicadores asociados.\
-3.2 El recalculo debe realizarse sin requerir confirmación adicional del usuario.\
-3.3 Durante el recalculo, el sistema debe mostrar un indicador de procesamiento.
+    3.1 Al cambiar el tipo de información seleccionado, el sistema debe recalcular automáticamente las estadísticas e indicadores asociados.\
+    3.2 El recalculo debe realizarse sin requerir confirmación adicional del usuario.\
+    3.3 Durante el recalculo, el sistema debe mostrar un indicador de procesamiento.
 
 4. **Consistencia del análisis**\
-4.1 El tipo de información seleccionado debe aplicarse a todo el conjunto de estadísticas mostradas en el panel.\
-4.2 No se debe permitir la visualización simultánea de estadísticas de proyectos y áreas de restauración.
+    4.1 El tipo de información seleccionado debe aplicarse a todo el conjunto de estadísticas mostradas en el panel.\
+    4.2 No se debe permitir la visualización simultánea de estadísticas de proyectos y áreas de restauración.
 
 ## ROLES
 
