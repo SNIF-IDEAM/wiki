@@ -9,9 +9,9 @@
 
 ## DESCRIPCIÓN HISTORIA DE USUARIO
 
-> **Como: usuario administrador.\
-> **Quiero: administrar las familias asociadas a un filum.\
-> **Para: garantizar la consistencia y coherencia de la jerarquía taxonómica del sistema.
+> **Como:** usuario administrador.\
+> **Quiero:** administrar las familias asociadas a un filum.\
+> **Para:** garantizar la consistencia y coherencia de la jerarquía taxonómica del sistema.
 
 ## CRITERIOS DE ACEPTACIÓN
 

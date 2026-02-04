@@ -1,4 +1,4 @@
-HU-IDEAM-SNIF-REST-200
+# HU-IDEAM-SNIF-REST-200
 
 > **Identificador Historia de Usuario:** hu-ideam-snif-rest-200\
 > **Nombre Historia de Usuario:** Visualizar geometría actualizada en visor geográfico

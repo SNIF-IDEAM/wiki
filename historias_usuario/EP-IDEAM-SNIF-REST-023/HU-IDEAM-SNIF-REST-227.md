@@ -30,7 +30,7 @@
                                     
     2.3 No se pueden registrar dos módulos con el mismo nombre dentro del mismo sistema.
 
-3 **UX esperado**\
+3. **UX esperado**\
     3.1 Formulario de creación y edición intuitivo, con validación en tiempo real de campos obligatorios.\
     3.2 Listado claro de módulos con las capas internas asociadas y grupos temáticos vinculados.\
     3.3 Feedback inmediato al asociar o desvincular capas de un módulo.
