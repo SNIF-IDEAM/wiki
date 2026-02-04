@@ -11,7 +11,11 @@ Las épicas representan las funcionalidades agrupadas requeridas por los diferen
 | [EP-IDEAM-SNIF-REST-002](historias_usuario/EP-IDEAM-SNIF-REST-002.md) | Administrador IDEAM | Administración de catálogos | Gestión centralizada, controlada y trazable de tablas de dominio (_dom) |
 | [EP-IDEAM-SNIF-REST-018](/historias_usuario/EP-IDEAM-SNIF-REST-018) | Registrador   | Gestión de áreas restuaradas | Gestión y edición de geometrías de áreas restauradas            |
 | [EP-IDEAM-SNIF-REST-019](/historias_usuario/EP-IDEAM-SNIF-REST-019) | Registrador   | Gestión de áreas restuaradas | Cargue y gestión de archivos geográficos para áreas restauradas |
-| [EP-IDEAM-SNIF-REST-020](/historias_usuario/EP-IDEAM-SNIF-REST-020) | Administrador | Administración               | Administracion de catalogos taxonomicos (especies)              |
+| [EP-IDEAM-SNIF-REST-020](/historias_usuario/EP-IDEAM-SNIF-REST-020) | Administrador | Gobernanza y Administración de Catálogos Taxonómicos             | Módulo administrativo de catalogos taxonomicos (especies)              |
+| [EP-IDEAM-SNIF-REST-021](/historias_usuario/EP-IDEAM-SNIF-REST-021) | Registrador | Envío a Validación IDEAM              | Validación de IDEAM de la información registrada |
+| [EP-IDEAM-SNIF-REST-022](/historias_usuario/EP-IDEAM-SNIF-REST-022) | Usuario del sistema | Control y Gestión de Capas del Visor Geográfico  | Control, visualización y gestión de capas temáticas dentro del visor geográfico del sistema  |
+| [EP-IDEAM-SNIF-REST-023](/historias_usuario/EP-IDEAM-SNIF-REST-023) | Administrador | Gestión de Capas Geográficas              | Administración integral de las capas geográficas utilizadas en el visor  |
+| [EP-IDEAM-SNIF-REST-026](/historias_usuario/EP-IDEAM-SNIF-REST-026) | Usuario del sistema              | Estadísticas Espaciales Consolidadas en el Visor Geográfico     | consulta y visualización de estadísticas espaciales consolidadas dentro del visor|
 
 ## Consideraciones
 

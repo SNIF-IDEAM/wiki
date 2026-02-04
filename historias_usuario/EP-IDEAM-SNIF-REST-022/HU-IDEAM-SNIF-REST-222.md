@@ -16,12 +16,12 @@
 ## CRITERIOS DE ACEPTACIÓN
 
 1. **Control de transparencia**\
-1.1 Cada capa activa debe tener un control de transparencia visible y accesible.\
-1.2 El control permite valores entre:
-
-- 0% → totalmente opaca.
-- 100% → totalmente transparente.                      
-1.3 El cambio de transparencia se refleja en tiempo real sobre la capa en el mapa.
+    1.1 Cada capa activa debe tener un control de transparencia visible y accesible.\
+    1.2 El control permite valores entre:
+    - 0% → totalmente opaca.
+    - 100% → totalmente transparente.  
+                        
+    1.3 El cambio de transparencia se refleja en tiempo real sobre la capa en el mapa.
 
 2. **Validaciones de negocio**\
 2.1 El valor de transparencia se aplica únicamente a la capa seleccionada.\

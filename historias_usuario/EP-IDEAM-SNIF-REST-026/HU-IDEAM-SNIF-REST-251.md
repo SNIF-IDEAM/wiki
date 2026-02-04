@@ -16,20 +16,20 @@
 ## CRITERIOS DE ACEPTACIÓN
 
 1. **Sincronización entre gráficos y mapa**\
-1.1 Al seleccionar un valor, categoría o segmento dentro de un gráfico, el sistema debe resaltar en el mapa los elementos espaciales asociados.\
-1.2 El resaltado debe aplicarse únicamente a los registros que hacen parte del resultado estadístico seleccionado.
+    1.1 Al seleccionar un valor, categoría o segmento dentro de un gráfico, el sistema debe resaltar en el mapa los elementos espaciales asociados.\
+    1.2 El resaltado debe aplicarse únicamente a los registros que hacen parte del resultado estadístico seleccionado.
 
 2. **Control de resaltados**\
-2.1 El sistema debe permitir al usuario activar o desactivar el resaltado espacial desde el panel de estadísticas.\
-2.2 Al desactivar el resaltado, el mapa debe regresar a su visualización original.
+    2.1 El sistema debe permitir al usuario activar o desactivar el resaltado espacial desde el panel de estadísticas.\
+    2.2 Al desactivar el resaltado, el mapa debe regresar a su visualización original.
 
 3. **Comportamiento del visor**\
-3.1 El resaltado aplicado no debe modificar ni afectar las capas base del visor geográfico.\
-3.2 El comportamiento debe ser reversible y no persistente al cerrar el panel de estadísticas.
+    3.1 El resaltado aplicado no debe modificar ni afectar las capas base del visor geográfico.\
+    3.2 El comportamiento debe ser reversible y no persistente al cerrar el panel de estadísticas.
 
 4. **Compatibilidad con navegación**\
-4.1 El usuario debe poder continuar utilizando las herramientas de navegación del mapa (zoom, desplazamiento) mientras el resaltado está activo.\
-4.2 El resaltado debe mantenerse visible durante la interacción con el mapa, salvo que el usuario lo desactive.
+    4.1 El usuario debe poder continuar utilizando las herramientas de navegación del mapa (zoom, desplazamiento) mientras el resaltado está activo.\
+    4.2 El resaltado debe mantenerse visible durante la interacción con el mapa, salvo que el usuario lo desactive.
 
 ## ROLES
 

@@ -16,26 +16,27 @@
 ## CRITERIOS DE ACEPTACIÓN
 
 1. **Opciones de selección del ámbito espacial**\
-1.1 El sistema debe permitir definir el ámbito espacial mediante las siguientes opciones:
-- Geometría dibujada directamente en el visor geográfico (polígono).
-- Municipio.
-- Departamento.
-- Autoridad ambiental.                         
-1.2 Las opciones de selección deben estar disponibles dentro del panel de estadísticas del visor.
+    1.1 El sistema debe permitir definir el ámbito espacial mediante las siguientes opciones:
+    - Geometría dibujada directamente en el visor geográfico (polígono).
+    - Municipio.
+    - Departamento.
+    - Autoridad ambiental.   
+     
+    1.2 Las opciones de selección deben estar disponibles dentro del panel de estadísticas del visor.
 
 2. **Gestión del ámbito activo**\
-2.1 El sistema debe permitir que solo exista un ámbito espacial activo a la vez.\
-2.2 Al seleccionar un nuevo ámbito, el ámbito previamente activo debe desactivarse automáticamente.\
-2.3 El ámbito activo debe ser claramente identificado dentro del panel de estadísticas.
+    2.1 El sistema debe permitir que solo exista un ámbito espacial activo a la vez.\
+    2.2 Al seleccionar un nuevo ámbito, el ámbito previamente activo debe desactivarse automáticamente.\
+    2.3 El ámbito activo debe ser claramente identificado dentro del panel de estadísticas.
 
 3. **Recalculo automático de estadísticas**\
-3.1 Cada vez que el usuario cambie el ámbito espacial, el sistema debe recalcular automáticamente las estadísticas espaciales consolidadas.\
-3.2 El recalculo debe ejecutarse sin requerir confirmación adicional del usuario.\
-3.3 Mientras se realiza el recalculo, el sistema debe mostrar un indicador de procesamiento.
+    3.1 Cada vez que el usuario cambie el ámbito espacial, el sistema debe recalcular automáticamente las estadísticas espaciales consolidadas.\
+    3.2 El recalculo debe ejecutarse sin requerir confirmación adicional del usuario.\
+    3.3 Mientras se realiza el recalculo, el sistema debe mostrar un indicador de procesamiento.
 
 4. **Persistencia temporal del ámbito**\
-4.1 El ámbito espacial seleccionado debe mantenerse activo mientras el usuario permanezca en el visor geográfico.\
-4.2 Al cerrar el panel de estadísticas o salir del visor, el ámbito activo no debe persistir como configuración permanente.
+    4.1 El ámbito espacial seleccionado debe mantenerse activo mientras el usuario permanezca en el visor geográfico.\
+    4.2 Al cerrar el panel de estadísticas o salir del visor, el ámbito activo no debe persistir como configuración permanente.
 
 ## ROLES
 

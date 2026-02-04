@@ -16,24 +16,24 @@
 ## CRITERIOS DE ACEPTACIÓN
 
 1. **Creación y configuración de módulos**\
-1.1 Permitir registrar módulos con nombre único dentro del sistema.\
-1.2 Asociar cada módulo a sistemas específicos mediante fk_sistema.\
-1.3 Listar las capas internas asociadas a cada módulo.\
-1.4 Controlar el acceso a los módulos según permisos de usuario.\
-1.5 Visualizar la relación módulo → capas → grupos, para facilitar la navegación y auditoría.
+    1.1 Permitir registrar módulos con nombre único dentro del sistema.\
+    1.2 Asociar cada módulo a sistemas específicos mediante fk_sistema.\
+    1.3 Listar las capas internas asociadas a cada módulo.\
+    1.4 Controlar el acceso a los módulos según permisos de usuario.\
+    1.5 Visualizar la relación módulo → capas → grupos, para facilitar la navegación y auditoría.
 
 2. **Validaciones de negocio**\
-2.1 Solo el Administrador IDEAM puede crear, modificar o eliminar módulos.\
-2.2 Los campos obligatorios deben completarse para que el módulo pueda activarse:
-
-- Nombre
-- fk_sistema                       
-2.3 No se pueden registrar dos módulos con el mismo nombre dentro del mismo sistema.
+    2.1 Solo el Administrador IDEAM puede crear, modificar o eliminar módulos.\
+    2.2 Los campos obligatorios deben completarse para que el módulo pueda activarse:
+    - Nombre
+    - fk_sistema   
+                                    
+    2.3 No se pueden registrar dos módulos con el mismo nombre dentro del mismo sistema.
 
 3 **UX esperado**\
-3.1 Formulario de creación y edición intuitivo, con validación en tiempo real de campos obligatorios.\
-3.2 Listado claro de módulos con las capas internas asociadas y grupos temáticos vinculados.\
-3.3 Feedback inmediato al asociar o desvincular capas de un módulo.
+    3.1 Formulario de creación y edición intuitivo, con validación en tiempo real de campos obligatorios.\
+    3.2 Listado claro de módulos con las capas internas asociadas y grupos temáticos vinculados.\
+    3.3 Feedback inmediato al asociar o desvincular capas de un módulo.
 
 ## ROLES
 

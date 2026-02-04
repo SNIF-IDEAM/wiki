@@ -16,21 +16,21 @@
 ## CRITERIOS DE ACEPTACIÓN
 
 1. **Integración del panel de estadísticas**\
-1.1 El sistema debe presentar las estadísticas consolidadas dentro del sidebar del visor geográfico.\
-1.2 El sidebar debe permitir visualizar estadísticas sin reemplazar ni bloquear el mapa.
+    1.1 El sistema debe presentar las estadísticas consolidadas dentro del sidebar del visor geográfico.\
+    1.2 El sidebar debe permitir visualizar estadísticas sin reemplazar ni bloquear el mapa.
 
 2. **Navegación y organización del contenido**\
-2.1 El sidebar debe permitir navegar entre diferentes gráficos estadísticos.\
-2.2 El sistema debe permitir colapsar y expandir secciones del panel de estadísticas.\
-2.3 El estado de las secciones (colapsadas o expandidas) debe mantenerse durante la sesión activa.
+    2.1 El sidebar debe permitir navegar entre diferentes gráficos estadísticos.\
+    2.2 El sistema debe permitir colapsar y expandir secciones del panel de estadísticas.\
+    2.3 El estado de las secciones (colapsadas o expandidas) debe mantenerse durante la sesión activa.
 
 3. **Persistencia del estado del panel**\
-3.1 El panel de estadísticas debe mantener su estado al realizar acciones de navegación en el mapa (zoom, desplazamiento).\
-3.2 La interacción con el mapa no debe reiniciar ni recargar el contenido del sidebar.
+    3.1 El panel de estadísticas debe mantener su estado al realizar acciones de navegación en el mapa (zoom, desplazamiento).\
+    3.2 La interacción con el mapa no debe reiniciar ni recargar el contenido del sidebar.
 
 4. **Consistencia visual y de diseño**\
-4.1 El diseño visual del sidebar de estadísticas debe ser consistente con el resto del visor geográfico.\
-4.2 Los estilos, tipografías y controles deben cumplir los lineamientos de interfaz definidos para el sistema.
+    4.1 El diseño visual del sidebar de estadísticas debe ser consistente con el resto del visor geográfico.\
+    4.2 Los estilos, tipografías y controles deben cumplir los lineamientos de interfaz definidos para el sistema.
 
 ## ROLES
 

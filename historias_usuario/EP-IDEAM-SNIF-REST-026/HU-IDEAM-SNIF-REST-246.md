@@ -16,23 +16,23 @@
 ## CRITERIOS DE ACEPTACIÓN
 
 1. **Acceso a la funcionalidad**\
-1.1 Desde el visor geográfico del módulo de restauración, el sistema debe mostrar la opción **“Estadísticas”** dentro del menú de **Consultas**.\
-1.2 La opción debe estar disponible para los perfiles Administrador IDEAM, Registrador y Usuario Consulta.\
-1.3 El acceso a la opción debe depender de que el visor se encuentre correctamente cargado.
+    1.1 Desde el visor geográfico del módulo de restauración, el sistema debe mostrar la opción **“Estadísticas”** dentro del menú de **Consultas**.\
+    1.2 La opción debe estar disponible para los perfiles Administrador IDEAM, Registrador y Usuario Consulta.\
+    1.3 El acceso a la opción debe depender de que el visor se encuentre correctamente cargado.
 
 2. **Despliegue del panel de estadísticas**\
-2.1 Al seleccionar la opción **“Estadísticas”**, el sistema debe desplegar un panel lateral (sidebar).\
-2.2 El panel debe abrirse sin interrumpir la visualización del mapa.\
-2.3 El visor debe entrar en modo de análisis estadístico.
+    2.1 Al seleccionar la opción **“Estadísticas”**, el sistema debe desplegar un panel lateral (sidebar).\
+    2.2 El panel debe abrirse sin interrumpir la visualización del mapa.\
+    2.3 El visor debe entrar en modo de análisis estadístico.
 
 3. **Interacción con el visor geográfico**\
-3.1 El panel de estadísticas debe coexistir con el mapa sin ocultarlo completamente.\
-3.2 El usuario debe poder realizar acciones básicas de navegación (zoom, desplazamiento) mientras el panel está activo.\
-3.3 El cierre del panel debe devolver el visor a su estado normal de consulta.
+    3.1 El panel de estadísticas debe coexistir con el mapa sin ocultarlo completamente.\
+    3.2 El usuario debe poder realizar acciones básicas de navegación (zoom, desplazamiento) mientras el panel está activo.\
+    3.3 El cierre del panel debe devolver el visor a su estado normal de consulta.
 
 4. **Contexto inicial de análisis**\
-4.1 Al abrir el panel, el sistema debe mostrar un mensaje informativo indicando que las estadísticas se generan a partir del territorio visualizado o seleccionado.\
-4.2 No se deben mostrar estadísticas consolidadas si no existe un contexto espacial válido.
+    4.1 Al abrir el panel, el sistema debe mostrar un mensaje informativo indicando que las estadísticas se generan a partir del territorio visualizado o seleccionado.\
+    4.2 No se deben mostrar estadísticas consolidadas si no existe un contexto espacial válido.
 
 ## ROLES
 

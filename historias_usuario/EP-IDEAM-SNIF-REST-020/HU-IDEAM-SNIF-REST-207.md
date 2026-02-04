@@ -16,33 +16,33 @@
 ## CRITERIOS DE ACEPTACIÓN
 
 1. **Vista de catálogo de reinos**\
-1.1 El sistema debe presentar una vista tipo catálogo con un listado tabulado de los reinos registrados.\
-1.2 El listado debe permitir visualizar los registros activos e inactivos.
+    1.1 El sistema debe presentar una vista tipo catálogo con un listado tabulado de los reinos registrados.\
+    1.2 El listado debe permitir visualizar los registros activos e inactivos.
 
 2. **Campos visibles en el catálogo**\
-2.1 Cada registro debe mostrar como mínimo los siguientes campos:
+    2.1 Cada registro debe mostrar como mínimo los siguientes campos:
 
-- Nombre del reino.
-- Estado (activo / inactivo).
-- Fecha de creación.
-- Fecha de actualización.
+    - Nombre del reino.
+    - Estado (activo / inactivo).
+    - Fecha de creación.
+    - Fecha de actualización.
 
 3. **Creación de reinos biológicos**\
-3.1 El sistema debe permitir crear un nuevo reino biológico.\
-3.2 El nombre del reino debe ser obligatorio.\
-3.3 El sistema debe validar que el nombre del reino sea único.
+    3.1 El sistema debe permitir crear un nuevo reino biológico.\
+    3.2 El nombre del reino debe ser obligatorio.\
+    3.3 El sistema debe validar que el nombre del reino sea único.
 
 4. **Edición de reinos biológicos**\
-4.1 El sistema debe permitir editar la información del reino.\
-4.2 La edición no debe afectar registros históricos asociados.
+    4.1 El sistema debe permitir editar la información del reino.\
+    4.2 La edición no debe afectar registros históricos asociados.
 
 5. **Activación e inactivación de reinos**\
-5.1 El sistema debe permitir activar o desactivar un reino biológico.\
-5.2 Si un reino se encuentra inactivo, no debe estar disponible en formularios dependientes.
+    5.1 El sistema debe permitir activar o desactivar un reino biológico.\
+    5.2 Si un reino se encuentra inactivo, no debe estar disponible en formularios dependientes.
 
 6. **Persistencia y trazabilidad**\
-6.1 El sistema debe registrar la fecha de creación y actualización de cada reino.\
-6.2 Todas las acciones deben quedar registradas para fines de auditoría.
+    6.1 El sistema debe registrar la fecha de creación y actualización de cada reino.\
+    6.2 Todas las acciones deben quedar registradas para fines de auditoría.
 
 ## ROLES
 

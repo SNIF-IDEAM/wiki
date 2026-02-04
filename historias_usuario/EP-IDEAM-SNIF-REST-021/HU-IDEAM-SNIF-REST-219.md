@@ -16,29 +16,26 @@
 ## CRITERIOS DE ACEPTACIÓN
 
 1. **Notificación al enviar a validación**\
+    1.1 Cuando un área restaurada o proyecto completo se envíe a validación:
 
-1.1 Cuando un área restaurada o proyecto completo se envíe a validación:
-
-- El sistema debe notificar al IDEAM (usuario o sistema receptor definido) indicando:
-- Nombre del área o proyecto.
-- Estado actual: **PENDIENTE_VALIDACION_IDEAM**.
-- Fecha y hora del envío.
+    - El sistema debe notificar al IDEAM (usuario o sistema receptor definido) indicando:
+    - Nombre del área o proyecto.
+    - Estado actual: **PENDIENTE_VALIDACION_IDEAM**.
+    - Fecha y hora del envío.
 
 2. **Notificación al validar o rechazar**\
+    2.1 Cuando IDEAM valide o rechace un área o proyecto:
 
-2.1 Cuando IDEAM valide o rechace un área o proyecto:
-
-- El sistema debe notificar a los usuarios involucrados (registrador del área o proyecto) indicando:
-- Nombre del área o proyecto.
-- Estado resultante: **VALIDADO** o **RECHAZADO**.
-- Fecha y hora de la acción.
-- Comentarios del IDEAM (si aplica).
+    - El sistema debe notificar a los usuarios involucrados (registrador del área o proyecto) indicando:
+    - Nombre del área o proyecto.
+    - Estado resultante: **VALIDADO** o **RECHAZADO**.
+    - Fecha y hora de la acción.
+    - Comentarios del IDEAM (si aplica).
 
 3. **Reglas de negocio**\
-
-3.1 Las notificaciones deben generarse automáticamente por el sistema y no requerir intervención manual.\
-3.2 Cada notificación debe registrarse en el historial de auditoría del área o proyecto.\
-3.3 Se deben enviar únicamente notificaciones relacionadas con acciones de envío, validación o rechazo; no se envían notificaciones por cambios internos menores.
+    3.1 Las notificaciones deben generarse automáticamente por el sistema y no requerir intervención manual.\
+    3.2 Cada notificación debe registrarse en el historial de auditoría del área o proyecto.\
+    3.3 Se deben enviar únicamente notificaciones relacionadas con acciones de envío, validación o rechazo; no se envían notificaciones por cambios internos menores.
 
 ## ROLES
 
