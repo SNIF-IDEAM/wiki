@@ -41,6 +41,14 @@
 - **Registrador**: Modifica la geometría mediante carga de archivo geográfico.
 - **Sistema**: Ejecuta automáticamente el recálculo de métricas espaciales.
 
+## RESTRICCIONES Y LÍMITES
+
+- El recálculo solo se ejecuta si la geometría modificada es válida; en caso contrario, no se actualizan métricas.
+- Aplica únicamente a áreas de restauración en estado activo; no afecta registros históricos o eliminados.
+- Los cálculos deben realizarse usando el sistema de referencia oficial definido por el sistema y almacenarse en hectáreas.
+- El proceso debe ejecutarse de forma transaccional para evitar inconsistencias parciales en métricas y límites espaciales.
+- Todo recálculo automático debe quedar registrado en la auditoría del sistema, asociado a la modificación de la geometría.
+
 ## DIAGRAMA DE FLUJO DEL PROCESO
 
 [![IMAGEN FLUJO DE ACTIVIDADES](assets/actividades-hu-ideam-snif-rest-205.png)](assets/actividades-hu-ideam-snif-rest-205.png)

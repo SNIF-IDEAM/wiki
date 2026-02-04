@@ -45,6 +45,14 @@
 - **Registrador**: Realiza modificaciones geométricas autorizadas.
 - **Sistema**: Registra automáticamente la auditoría geométrica.
 
+## RESTRICCIONES Y LÍMITES
+
+- Solo se debe generar auditoría cuando exista una modificación efectiva de la geometría; acciones sin cambio espacial no generan registro.
+- Los registros de auditoría no pueden ser modificados ni eliminados por ningún rol del sistema.
+- Cada registro de auditoría debe estar obligatoriamente asociado a un área de restauración y a una versión específica de su geometría.
+- Los registros deben conservar el orden cronológico exacto de las modificaciones realizadas.
+- La consulta del historial de auditoría está limitada a perfiles autorizados según las políticas de seguridad del sistema.
+
 ## DIAGRAMA DE FLUJO DEL PROCESO
 
 [![IMAGEN FLUJO DE ACTIVIDADES](assets/actividades-hu-ideam-snif-rest-206.png)](assets/actividades-hu-ideam-snif-rest-206.png)

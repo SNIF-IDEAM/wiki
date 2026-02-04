@@ -9,9 +9,9 @@
 
 ## DESCRIPCIÓN HISTORIA DE USUARIO
 
-> **Como: sistema.\
-> **Quiero: validar automáticamente la jerarquía taxonómica y sus dependencias.\
-> **Para: evitar inconsistencias en la información biológica utilizada por los módulos operativos y de reporte.
+> **Como:** sistema.\
+> **Quiero:** validar automáticamente la jerarquía taxonómica y sus dependencias.\
+> **Para:** evitar inconsistencias en la información biológica utilizada por los módulos operativos y de reporte.
 
 ## CRITERIOS DE ACEPTACIÓN
 
