@@ -16,7 +16,7 @@
 ## CRITERIOS DE ACEPTACIÓN
 
 1. **Acceso a la funcionalidad**\
-1.1 Desde el catálogo o listado de áreas restauradas, el sistema debe habilitar la opción “Actualizar geometría” únicamente para usuarios con rol Registrador.\
+1.1 Desde el catálogo o listado de áreas restauradas, el sistema debe habilitar la opción **“Actualizar geometría”** únicamente para usuarios con rol Registrador.\
 1.2 La opción solo debe estar disponible para áreas que no se encuentren bloqueadas por procesos de validación IDEAM.
 
 2. **Ventana de actualización de geometría**\
@@ -60,4 +60,4 @@
 
 ## DIAGRAMA DE FLUJO DEL PROCESO
 
-![IMAGEN FLUJO DE ACTIVIDADES](assets/actividades-hu-ideam-snif-rest-195.png)(assets/actividades-hu-ideam-snif-rest-195.png)
+[![IMAGEN FLUJO DE ACTIVIDADES](assets/actividades-hu-ideam-snif-rest-195.png)](assets/actividades-hu-ideam-snif-rest-195.png)

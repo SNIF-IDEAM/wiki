@@ -29,12 +29,9 @@
 2.1 Solo el Administrador IDEAM puede crear, editar o eliminar grupos temáticos.\
 2.2 Los campos obligatorios deben completarse para que el grupo se pueda activar:
 
-Nombre (label)
-
-Activo
-
-Fecha de creación (fch_creacion)
-
+- Nombre (label)
+- Activo
+- Fecha de creación (fch_creacion)                       
 2.3 El grupo debe estar correctamente vinculado a las capas asociadas para garantizar visibilidad y jerarquía correcta.
 
 3. **UX esperado**\
@@ -59,4 +56,4 @@ Fecha de creación (fch_creacion)
 
 ## DIAGRAMA DE FLUJO DEL PROCESO
 
-![IMAGEN FLUJO DE ACTIVIDADES](assets/actividades-hu-ideam-snif-rest-226.png)(assets/actividades-hu-ideam-snif-rest-226.png)
+[![IMAGEN FLUJO DE ACTIVIDADES](assets/actividades-hu-ideam-snif-rest-226.png)](assets/actividades-hu-ideam-snif-rest-226.png)

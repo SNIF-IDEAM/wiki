@@ -34,7 +34,6 @@ HU-IDEAM-SNIF-REST-198
 
 5 **Consistencia y disponibilidad**\
 5.1 Los nuevos valores deben reflejarse de forma inmediata en:
-
 - El visor geográfico.
 - Los formularios informativos del área restaurada.
 - Los reportes dependientes.
@@ -55,4 +54,4 @@ HU-IDEAM-SNIF-REST-198
 
 ## DIAGRAMA DE FLUJO DEL PROCESO
 
-![IMAGEN FLUJO DE ACTIVIDADES](assets/actividades-hu-ideam-snif-rest-198.png)(assets/actividades-hu-ideam-snif-rest-198.png)
+[![IMAGEN FLUJO DE ACTIVIDADES](assets/actividades-hu-ideam-snif-rest-198.png)](assets/actividades-hu-ideam-snif-rest-198.png)

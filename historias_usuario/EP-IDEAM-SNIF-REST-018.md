@@ -49,6 +49,6 @@ Disponer de un módulo que permita la actualización controlada, validada y audi
 
 ## 5. Diagrama de secuencia
 
-![IMAGEN DIAGRAMA DE SECUENCIA](/historias_usuario/EP-IDEAM-SNIF-REST-018/assets/secuencia-ep-ideam-snif-rest-018.png)
+[![IMAGEN DIAGRAMA DE SECUENCIA](EP-IDEAM-SNIF-REST-018/assets/secuencia-ep-ideam-snif-rest-018.png)](EP-IDEAM-SNIF-REST-018/assets/secuencia-ep-ideam-snif-rest-018.png)
 
 ## 6. Wireframes / mockups

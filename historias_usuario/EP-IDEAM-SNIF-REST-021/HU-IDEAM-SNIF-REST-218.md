@@ -18,7 +18,7 @@
 
 1.1 En el header del proyecto, el sistema debe mostrar el botón **“Enviar proyecto a validación”** únicamente si:
 
-- El proyecto está en estado BORRADOR.
+- El proyecto está en estado **BORRADOR**.
 - Tiene al menos una área restaurada.
 
 1.2 Solo usuarios con rol Registrador pueden ver y usar esta opción.
@@ -26,7 +26,6 @@
 2. **Comportamiento al enviar**\
 
 2.1 Al hacer clic en el botón, el sistema debe abrir un modal de confirmación mostrando:
-
 - Nombre del proyecto.
 - Número total de áreas del proyecto.
 - Número de áreas listas para validación.
@@ -46,8 +45,8 @@
 
 3.3 Al confirmar el envío:
 
-- El proyecto cambia de estado a PENDIENTE_VALIDACION_IDEAM.
-- Las áreas enviadas pasan a PENDIENTE_VALIDACION_IDEAM.
+- El proyecto cambia de estado a **PENDIENTE_VALIDACION_IDEAM**.
+- Las áreas enviadas pasan a **PENDIENTE_VALIDACION_IDEAM**.
 - Las áreas excluidas mantienen su estado anterior.
 
 4. **UX esperado**\
@@ -62,7 +61,7 @@
 
 > **“Entiendo que las áreas enviadas no podrán editarse”**
 
-4.2 El botón Confirmar envío debe permanecer deshabilitado hasta que el usuario haga scroll completo del resumen, asegurando que revisó la información.
+4.2 El botón **Confirmar** envío debe permanecer deshabilitado hasta que el usuario haga scroll completo del resumen, asegurando que revisó la información.
 
 ## ROLES
 
@@ -79,4 +78,4 @@
 
 ## DIAGRAMA DE FLUJO DEL PROCESO
 
-![IMAGEN FLUJO DE ACTIVIDADES](assets/actividades-hu-ideam-snif-rest-218.png)(assets/actividades-hu-ideam-snif-rest-218.png)
+[![IMAGEN FLUJO DE ACTIVIDADES](assets/actividades-hu-ideam-snif-rest-218.png)](assets/actividades-hu-ideam-snif-rest-218.png)

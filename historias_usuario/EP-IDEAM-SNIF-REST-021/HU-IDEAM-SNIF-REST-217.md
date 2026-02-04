@@ -16,13 +16,12 @@
 ## CRITERIOS DE ACEPTACIÓN
 
 1. **Acceso a la funcionalidad**\
-1.1 Desde el tab Áreas Restauradas del proyecto, el sistema debe mostrar el botón “Enviar a validación” únicamente para áreas cuyo estado sea **BORRADOR**.\
+1.1 Desde el tab Áreas Restauradas del proyecto, el sistema debe mostrar el botón **“Enviar a validación”** únicamente para áreas cuyo estado sea **BORRADOR**.\
 1.2 La funcionalidad debe estar disponible solo para usuarios con rol Registrador.
 
 2. **Condiciones para habilitar el envío**\
 2.1 El botón **“Enviar a validación”** solo debe habilitarse cuando todas las secciones obligatorias del área restaurada estén completas.\
 2.2 El sistema debe validar previamente que:
-
 - Todas las secciones obligatorias estén completas.
 - La geometría del área sea válida.
 - El área calculada sea mayor a cero (> 0).
@@ -31,7 +30,7 @@
 - No exista un proceso de validación IDEAM en curso para el área.
 
 3. **Modal de confirmación de envío**\
-3.1 Al hacer clic en “Enviar a validación”, el sistema debe abrir un modal de confirmación.\
+3.1 Al hacer clic en **“Enviar a validación”**, el sistema debe abrir un modal de confirmación.\
 3.2 El modal debe mostrar un resumen del área restaurada con la siguiente información:
 
 - Nombre del área restaurada.
@@ -84,4 +83,4 @@
 
 ## DIAGRAMA DE FLUJO DEL PROCESO
 
-![IMAGEN FLUJO DE ACTIVIDADES](assets/actividades-hu-ideam-snif-rest-217.png)(assets/actividades-hu-ideam-snif-rest-217.png)
+[![IMAGEN FLUJO DE ACTIVIDADES](assets/actividades-hu-ideam-snif-rest-217.png)](assets/actividades-hu-ideam-snif-rest-217.png)

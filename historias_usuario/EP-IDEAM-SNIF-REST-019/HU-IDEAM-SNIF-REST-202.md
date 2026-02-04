@@ -51,4 +51,4 @@
 
 ## DIAGRAMA DE FLUJO DEL PROCESO
 
-![IMAGEN FLUJO DE ACTIVIDADES](assets/actividades-hu-ideam-snif-rest-202.png)(assets/actividades-hu-ideam-snif-rest-202.png)
+[![IMAGEN FLUJO DE ACTIVIDADES](assets/actividades-hu-ideam-snif-rest-202.png)](assets/actividades-hu-ideam-snif-rest-202.png)
