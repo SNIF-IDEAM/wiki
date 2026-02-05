@@ -1,6 +1,6 @@
-# HU-DC-002
+# HU-IDEAM-SNIF-REST-130
 
-> **Identificador Historia de Usuario:** hu-dc-002\
+> **Identificador Historia de Usuario:** hu-ideam-snif-rest-130\
 > **Nombre Historia de Usuario:** Descargar resultados de consultas atributivas
 
 > **Sistema de información:** Sistema Nacional de Información Forestal\

@@ -1,6 +1,6 @@
-# HU-DC-003
+# HU-IDEAM-SNIF-REST-131
 
-> **Identificador Historia de Usuario:** hu-dc-003\
+> **Identificador Historia de Usuario:** hu-ideam-snif-rest-131\
 > **Nombre Historia de Usuario:** Descargar resultados de consultas espaciales
 
 > **Sistema de información:** Sistema Nacional de Información Forestal\

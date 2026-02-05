@@ -1,6 +1,6 @@
-# HU-DC-004
+# HU-IDEAM-SNIF-REST-132
 
-> **Identificador Historia de Usuario:** hu-dc-004\
+> **Identificador Historia de Usuario:** hu-ideam-snif-rest-132\
 > **Nombre Historia de Usuario:** Seleccionar formato de descarga
 
 > **Sistema de información:** Sistema Nacional de Información Forestal\

@@ -1,6 +1,6 @@
-# HU-DC-005
+# HU-IDEAM-SNIF-REST-133
 
-> **Identificador Historia de Usuario:** hu-dc-005\
+> **Identificador Historia de Usuario:** hu-ideam-snif-rest-133\
 > **Nombre Historia de Usuario:** Registrar descargas para auditoría
 
 > **Sistema de información:** Sistema Nacional de Información Forestal\

@@ -1,6 +1,6 @@
-# HU-DC-001
+# HU-IDEAM-SNIF-REST-129
 
-> **Identificador Historia de Usuario:** hu-dc-001\
+> **Identificador Historia de Usuario:** hu-ideam-snif-rest-129\
 > **Nombre Historia de Usuario:** Descargar capas desde el catálogo
 
 > **Sistema de información:** Sistema Nacional de Información Forestal\
