@@ -16,28 +16,28 @@
 ## CRITERIOS DE ACEPTACIÓN
 
 1. **Validación de uso de especies**\
-1.1 El sistema debe identificar si una especie se encuentra asociada a una o más áreas restauradas.\
-1.2 Esta validación debe ejecutarse antes de cualquier acción de edición o eliminación.
+    1.1 El sistema debe identificar si una especie se encuentra asociada a una o más áreas restauradas.\
+    1.2 Esta validación debe ejecutarse antes de cualquier acción de edición o eliminación.
 
 2. **Restricción de eliminación**\
-2.1 Si una especie está asociada a un área restaurada, el sistema no debe permitir su eliminación.\
-2.2 La eliminación solo estará permitida para especies que no tengan asociaciones registradas.
+    2.1 Si una especie está asociada a un área restaurada, el sistema no debe permitir su eliminación.\
+    2.2 La eliminación solo estará permitida para especies que no tengan asociaciones registradas.
 
 3. **Edición permitida en especies en uso**\
-3.1 Si una especie está en uso, el sistema solo debe permitir el cambio de su estado (activo / inactivo).\
-3.2 No se debe permitir la modificación de atributos estructurales de la especie.
+    3.1 Si una especie está en uso, el sistema solo debe permitir el cambio de su estado (activo / inactivo).\
+    3.2 No se debe permitir la modificación de atributos estructurales de la especie.
 
 4. **Restricción de modificación de nombre**\
-4.1 El nombre científico de la especie no debe poder modificarse si la especie ya ha sido utilizada en áreas restauradas.\
-4.2 Esta restricción podrá configurarse como obligatoria u opcional según la política definida por la entidad administradora.
+    4.1 El nombre científico de la especie no debe poder modificarse si la especie ya ha sido utilizada en áreas restauradas.\
+    4.2 Esta restricción podrá configurarse como obligatoria u opcional según la política definida por la entidad administradora.
 
 5. **Mensajes de negocio**\
-5.1 El sistema debe mostrar mensajes claros y explícitos cuando una acción no esté permitida.\
-5.2 Los mensajes deben indicar que la restricción se debe a la asociación con áreas restauradas.
+    5.1 El sistema debe mostrar mensajes claros y explícitos cuando una acción no esté permitida.\
+    5.2 Los mensajes deben indicar que la restricción se debe a la asociación con áreas restauradas.
 
 6. **Trazabilidad y consistencia**\
-6.1 Todas las acciones permitidas sobre especies en uso deben quedar registradas en auditoría.\
-6.2 La integridad de los datos históricos debe preservarse en todo momento.
+    6.1 Todas las acciones permitidas sobre especies en uso deben quedar registradas en auditoría.\
+    6.2 La integridad de los datos históricos debe preservarse en todo momento.
 
 ## ROLES
 
@@ -55,4 +55,4 @@
 
 ## DIAGRAMA DE FLUJO DEL PROCESO
 
-![IMAGEN FLUJO DE ACTIVIDADES](assets/actividades-hu-ideam-snif-rest-213.png)(assets/actividades-hu-ideam-snif-rest-213.png)
+[![IMAGEN FLUJO DE ACTIVIDADES](assets/actividades-hu-ideam-snif-rest-213.png)](assets/actividades-hu-ideam-snif-rest-213.png)

@@ -16,31 +16,29 @@
 ## CRITERIOS DE ACEPTACIÓN
 
 1. **Vista jerárquica del catálogo**\
-1.1 El sistema debe presentar el catálogo taxonómico en una vista tipo árbol.\
-1.2 La jerarquía debe respetar estrictamente el orden:
-
-- Reino → Filum → Familia → Género → Especie.
+    1.1 El sistema debe presentar el catálogo taxonómico en una vista tipo árbol.\
+    1.2 La jerarquía debe respetar estrictamente el orden:
+    - Reino → Filum → Familia → Género → Especie.
 
 2. Visualización de estados**\
-2.1 Cada nodo del árbol debe mostrar visualmente su estado (activo / inactivo).\
-2.2 Los estados deben diferenciarse claramente mediante iconografía o estilo visual.
+    2.1 Cada nodo del árbol debe mostrar visualmente su estado (activo / inactivo).\
+    2.2 Los estados deben diferenciarse claramente mediante iconografía o estilo visual.
 
 3. **Acciones contextuales por nivel**\
-3.1 El sistema debe habilitar acciones contextuales según el nivel taxonómico seleccionado.\
-3.2 Las acciones disponibles deben corresponder a los permisos del rol del usuario.\
-3.3 Las acciones pueden incluir, según el nivel y rol:
-
-- Crear
-- Editar
-- Activar / desactivar
+    3.1 El sistema debe habilitar acciones contextuales según el nivel taxonómico seleccionado.\
+    3.2 Las acciones disponibles deben corresponder a los permisos del rol del usuario.\
+    3.3 Las acciones pueden incluir, según el nivel y rol:
+    - Crear
+    - Editar
+    - Activar / desactivar
 
 4. **Navegación y usabilidad**\
-4.1 El usuario debe poder expandir y contraer nodos del árbol.\
-4.2 La vista debe permitir localizar fácilmente elementos dentro de la jerarquía.
+    4.1 El usuario debe poder expandir y contraer nodos del árbol.\
+    4.2 La vista debe permitir localizar fácilmente elementos dentro de la jerarquía.
 
 5. **Integridad de la información**\
-5.1 La vista jerárquica debe reflejar en tiempo real el estado actual del catálogo.\
-5.2 No se debe permitir la modificación directa de la jerarquía si existen restricciones definidas en otras HU.
+    5.1 La vista jerárquica debe reflejar en tiempo real el estado actual del catálogo.\
+    5.2 No se debe permitir la modificación directa de la jerarquía si existen restricciones definidas en otras HU.
 
 ## ROLES
 
@@ -58,4 +56,4 @@
 
 ## DIAGRAMA DE FLUJO DEL PROCESO
 
-![IMAGEN FLUJO DE ACTIVIDADES](assets/actividades-hu-ideam-snif-rest-215.png)(assets/actividades-hu-ideam-snif-rest-215.png)
+[![IMAGEN FLUJO DE ACTIVIDADES](assets/actividades-hu-ideam-snif-rest-215.png)](assets/actividades-hu-ideam-snif-rest-215.png)

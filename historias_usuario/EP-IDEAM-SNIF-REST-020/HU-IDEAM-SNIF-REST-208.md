@@ -16,34 +16,34 @@
 ## CRITERIOS DE ACEPTACIÓN
 
 1. **Vista de catálogo de filum**\
-1.1 El sistema debe presentar una vista tipo catálogo con el listado de filum registrados.\
-1.2 El listado debe permitir filtrar los filum por reino asociado.
+    1.1 El sistema debe presentar una vista tipo catálogo con el listado de filum registrados.\
+    1.2 El listado debe permitir filtrar los filum por reino asociado.
 
 2. **Campos visibles en el catálogo**\
-2.1 Cada registro de filum debe mostrar como mínimo los siguientes campos:
+    2.1 Cada registro de filum debe mostrar como mínimo los siguientes campos:
 
-- Reino asociado.
-- Nombre del filum.
-- Estado (activo / inactivo).
-- Fecha de creación.
-- Fecha de actualización.
+    - Reino asociado.
+    - Nombre del filum.
+    - Estado (activo / inactivo).
+    - Fecha de creación.
+    - Fecha de actualización.
 
 3. **Creación de filum**\
-3.1 El sistema debe permitir crear un nuevo filum.\
-3.2 El filum debe estar obligatoriamente asociado a un reino existente.\
-3.3 El sistema debe validar la unicidad del filum por combinación (reino + nombre).
+    3.1 El sistema debe permitir crear un nuevo filum.\
+    3.2 El filum debe estar obligatoriamente asociado a un reino existente.\
+    3.3 El sistema debe validar la unicidad del filum por combinación (reino + nombre).
 
 4. **Edición de filum**\
-4.1 El sistema debe permitir editar la información del filum.\
-4.2 La edición no debe alterar la jerarquía taxonómica ni afectar registros históricos.
+    4.1 El sistema debe permitir editar la información del filum.\
+    4.2 La edición no debe alterar la jerarquía taxonómica ni afectar registros históricos.
 
 5. **Activación e inactivación de filum**\
-5.1 El sistema debe permitir activar o desactivar un filum.\
-5.2 No se debe permitir activar un filum cuyo reino asociado se encuentre inactivo.
+    5.1 El sistema debe permitir activar o desactivar un filum.\
+    5.2 No se debe permitir activar un filum cuyo reino asociado se encuentre inactivo.
 
 6. **Persistencia y trazabilidad**\
-6.1 El sistema debe registrar la fecha de creación y actualización de cada filum.\
-6.2 Todas las acciones deben quedar registradas para fines de auditoría.
+    6.1 El sistema debe registrar la fecha de creación y actualización de cada filum.\
+    6.2 Todas las acciones deben quedar registradas para fines de auditoría.
 
 ## ROLES
 
@@ -62,4 +62,4 @@
 
 ## DIAGRAMA DE FLUJO DEL PROCESO
 
-![IMAGEN FLUJO DE ACTIVIDADES](assets/actividades-hu-ideam-snif-rest-208.png)(assets/actividades-hu-ideam-snif-rest-208.png)
+[![IMAGEN FLUJO DE ACTIVIDADES](assets/actividades-hu-ideam-snif-rest-208.png)](assets/actividades-hu-ideam-snif-rest-208.png)

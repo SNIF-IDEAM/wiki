@@ -16,19 +16,19 @@
 ## CRITERIOS DE ACEPTACIÓN
 
 2. **Reordenamiento de capas**\
-1.1 Las capas activas pueden reordenarse mediante drag & drop en el panel de control de capas.\
-1.2 El orden en el listado define el orden de renderizado en el mapa.\
-1.3 El cambio de orden se aplica inmediatamente al mapa.
+    1.1 Las capas activas pueden reordenarse mediante drag & drop en el panel de control de capas.\
+    1.2 El orden en el listado define el orden de renderizado en el mapa.\
+    1.3 El cambio de orden se aplica inmediatamente al mapa.
 
 1. **Validaciones de negocio**\
-2.1 Las capas base permanecen siempre en el fondo y no se pueden mover.\
-2.2 Capas críticas (por ejemplo, límites administrativos) pueden tener orden fijo y no son reordenables.\
-2.3 Solo se puede reordenar una capa a la vez; cada movimiento es independiente.
+    2.1 Las capas base permanecen siempre en el fondo y no se pueden mover.\
+    2.2 Capas críticas (por ejemplo, límites administrativos) pueden tener orden fijo y no son reordenables.\
+    2.3 Solo se puede reordenar una capa a la vez; cada movimiento es independiente.
 
 3. **UX esperado**\
-3.1 Indicador visual claro durante el arrastre de la capa.\
-3.2 Animación suave al soltar la capa en la nueva posición.\
-3.3 Feedback inmediato del nuevo orden reflejado en el mapa y en el listado.
+    3.1 Indicador visual claro durante el arrastre de la capa.\
+    3.2 Animación suave al soltar la capa en la nueva posición.\
+    3.3 Feedback inmediato del nuevo orden reflejado en el mapa y en el listado.
 
 ## ROLES
 
@@ -46,4 +46,4 @@ El reordenamiento no afecta la simbología ni la leyenda de las capas.
 
 ## DIAGRAMA DE FLUJO DEL PROCESO
 
-![IMAGEN FLUJO DE ACTIVIDADES](assets/actividades-hu-ideam-snif-rest-223.png)(assets/actividades-hu-ideam-snif-rest-223.png)
+[![IMAGEN FLUJO DE ACTIVIDADES](assets/actividades-hu-ideam-snif-rest-223.png)](assets/actividades-hu-ideam-snif-rest-223.png)

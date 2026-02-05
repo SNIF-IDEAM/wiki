@@ -40,6 +40,6 @@ Permitir a los usuarios del visor geográfico seleccionar, visualizar y gestiona
 
 ## 5. Diagrama de secuencia
 
-![IMAGEN DIAGRAMA DE SECUENCIA](/historias_usuario/EP-IDEAM-SNIF-REST-022/assets/secuencia-ep-ideam-snif-rest-022.png)
+[![IMAGEN DIAGRAMA DE SECUENCIA](EP-IDEAM-SNIF-REST-022/assets/secuencia-ep-ideam-snif-rest-022.png)](EP-IDEAM-SNIF-REST-022/assets/secuencia-ep-ideam-snif-rest-022.png)
 
 ## 6. Wireframes / mockupso

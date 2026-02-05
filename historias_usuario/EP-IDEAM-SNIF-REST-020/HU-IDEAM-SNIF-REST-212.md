@@ -9,31 +9,31 @@
 
 ## DESCRIPCIÓN HISTORIA DE USUARIO
 
-> **Como: sistema.\
-> **Quiero: validar automáticamente la jerarquía taxonómica y sus dependencias.\
-> **Para: evitar inconsistencias en la información biológica utilizada por los módulos operativos y de reporte.
+> **Como:** sistema.\
+> **Quiero:** validar automáticamente la jerarquía taxonómica y sus dependencias.\
+> **Para:** evitar inconsistencias en la información biológica utilizada por los módulos operativos y de reporte.
 
 ## CRITERIOS DE ACEPTACIÓN
 
 1. **Validación automática de activación por jerarquía**\
-1.1 El sistema debe validar el estado del elemento padre antes de permitir la activación de un elemento hijo.\
-1.2 No se debe permitir activar un registro taxonómico si su padre se encuentra inactivo.
+    1.1 El sistema debe validar el estado del elemento padre antes de permitir la activación de un  elemento hijo.\
+    1.2 No se debe permitir activar un registro taxonómico si su padre se encuentra inactivo.
 
 2. **Control de cambios en la jerarquía**\
-2.1 El sistema debe validar si existen registros dependientes antes de permitir cambios en la jerarquía taxonómica.\
-2.2 No se debe permitir cambiar la jerarquía (padre) cuando existan registros hijos asociados.
+    2.1 El sistema debe validar si existen registros dependientes antes de permitir cambios en la jerarquía taxonómica.\
+    2.2 No se debe permitir cambiar la jerarquía (padre) cuando existan registros hijos asociados.
 
 3. **Aplicación transversal de reglas**\
-3.1 Las validaciones deben aplicarse a todos los niveles taxonómicos (Reino, Filum, Familia, Género y Especie).\
-3.2 Las reglas deben ejecutarse de forma automática sin intervención del usuario.
+    3.1 Las validaciones deben aplicarse a todos los niveles taxonómicos (Reino, Filum, Familia, Género y Especie).\
+    3.2 Las reglas deben ejecutarse de forma automática sin intervención del usuario.
 
 4. **Mensajes de negocio claros**\
-4.1 El sistema debe mostrar mensajes claros y comprensibles cuando una acción sea bloqueada por reglas de dependencia.\
-4.2 Los mensajes deben indicar el motivo de la restricción y el nivel jerárquico involucrado.
+    4.1 El sistema debe mostrar mensajes claros y comprensibles cuando una acción sea bloqueada por reglas de dependencia.\
+    4.2 Los mensajes deben indicar el motivo de la restricción y el nivel jerárquico involucrado.
 
 5. **Persistencia y trazabilidad**\
-5.1 El sistema debe registrar los intentos fallidos de modificación por incumplimiento de reglas.\
-5.2 Los registros deben quedar disponibles para auditoría por perfiles autorizados.
+    5.1 El sistema debe registrar los intentos fallidos de modificación por incumplimiento de reglas.\
+    5.2 Los registros deben quedar disponibles para auditoría por perfiles autorizados.
 
 ## ROLES
 
@@ -53,4 +53,4 @@
 
 ## DIAGRAMA DE FLUJO DEL PROCESO
 
-![IMAGEN FLUJO DE ACTIVIDADES](assets/actividades-hu-ideam-snif-rest-212.png)(assets/actividades-hu-ideam-snif-rest-212.png)
+[![IMAGEN FLUJO DE ACTIVIDADES](assets/actividades-hu-ideam-snif-rest-212.png)](assets/actividades-hu-ideam-snif-rest-212.png)

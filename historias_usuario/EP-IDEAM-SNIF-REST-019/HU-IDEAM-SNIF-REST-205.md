@@ -16,24 +16,24 @@
 ## CRITERIOS DE ACEPTACIÓN
 
 1. **Disparo automático del recálculo**\
-1.1 El sistema debe ejecutar el recálculo de métricas al detectar una modificación de la geometría.\
-1.2 El proceso debe realizarse sin intervención manual del usuario.
+    1.1 El sistema debe ejecutar el recálculo de métricas al detectar una modificación de la geometría.\
+    1.2 El proceso debe realizarse sin intervención manual del usuario.
 
 2. **Recalculo del área restaurada**\
-2.1 El sistema debe recalcular el área restaurada a partir de la nueva geometría.\
-2.2 El valor debe almacenarse en hectáreas (ha).
+    2.1 El sistema debe recalcular el área restaurada a partir de la nueva geometría.\
+    2.2 El valor debe almacenarse en hectáreas (ha).
 
 3. **Cálculo de área traslapada**\
-3.1 El sistema debe identificar traslapes con otras áreas restauradas registradas.\
-3.2 El sistema debe calcular el área traslapada resultante.
+    3.1 El sistema debe identificar traslapes con otras áreas restauradas registradas.\
+    3.2 El sistema debe calcular el área traslapada resultante.
 
 4. **Cálculo del área efectiva**\
-4.1 Cuando aplique, el sistema debe recalcular el área efectiva considerando los traslapes.\
-4.2 El valor debe quedar asociado al registro actualizado.
+    4.1 Cuando aplique, el sistema debe recalcular el área efectiva considerando los traslapes.\
+    4.2 El valor debe quedar asociado al registro actualizado.
 
 5. **Actualización de límites espaciales**\
-5.1 El sistema debe actualizar los límites espaciales derivados de la nueva geometría.\
-5.2 Los cambios deben reflejarse en el visor y en las consultas espaciales.
+    5.1 El sistema debe actualizar los límites espaciales derivados de la nueva geometría.\
+    5.2 Los cambios deben reflejarse en el visor y en las consultas espaciales.
 
 ## ROLES
 
@@ -41,6 +41,14 @@
 - **Registrador**: Modifica la geometría mediante carga de archivo geográfico.
 - **Sistema**: Ejecuta automáticamente el recálculo de métricas espaciales.
 
+## RESTRICCIONES Y LÍMITES
+
+- El recálculo solo se ejecuta si la geometría modificada es válida; en caso contrario, no se actualizan métricas.
+- Aplica únicamente a áreas de restauración en estado activo; no afecta registros históricos o eliminados.
+- Los cálculos deben realizarse usando el sistema de referencia oficial definido por el sistema y almacenarse en hectáreas.
+- El proceso debe ejecutarse de forma transaccional para evitar inconsistencias parciales en métricas y límites espaciales.
+- Todo recálculo automático debe quedar registrado en la auditoría del sistema, asociado a la modificación de la geometría.
+
 ## DIAGRAMA DE FLUJO DEL PROCESO
 
-![IMAGEN FLUJO DE ACTIVIDADES](assets/actividades-hu-ideam-snif-rest-205.png)(assets/actividades-hu-ideam-snif-rest-205.png)
+[![IMAGEN FLUJO DE ACTIVIDADES](assets/actividades-hu-ideam-snif-rest-205.png)](assets/actividades-hu-ideam-snif-rest-205.png)

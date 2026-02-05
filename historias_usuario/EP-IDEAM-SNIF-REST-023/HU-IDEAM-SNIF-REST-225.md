@@ -16,30 +16,31 @@
 ## CRITERIOS DE ACEPTACIÓN
 
 1. **Creación y configuración de capa interna**\
-1.1 Permitir crear una nueva capa interna vinculada a un módulo específico.\
-1.2 Configurar la fuente de servicio y el tipo de datos de la capa.\
-1.3 Definir el responsable interno de la capa.\
-1.4 Establecer el estado actual de la capa y condiciones de uso.\
-1.5 Configurar parámetros de actualización de la capa.\
-1.6 Permitir definir dependencias entre capas internas.\
-1.7 Controlar la visibilidad de la capa según permisos de usuario.\
-1.8 Asignar filtros de actualización específicos según necesidades del módulo.
+    1.1 Permitir crear una nueva capa interna vinculada a un módulo específico.\
+    1.2 Configurar la fuente de servicio y el tipo de datos de la capa.\
+    1.3 Definir el responsable interno de la capa.\
+    1.4 Establecer el estado actual de la capa y condiciones de uso.\
+    1.5 Configurar parámetros de actualización de la capa.\
+    1.6 Permitir definir dependencias entre capas internas.\
+    1.7 Controlar la visibilidad de la capa según permisos de usuario.\
+    1.8 Asignar filtros de actualización específicos según necesidades del módulo.
 
 2. **Validaciones de negocio**\
-2.1 Solo el Administrador IDEAM puede crear, modificar o eliminar capas internas.\
-2.2 Los campos obligatorios deben estar completos para que la capa pueda activarse:
+    2.1 Solo el Administrador IDEAM puede crear, modificar o eliminar capas internas.\
+    2.2 Los campos obligatorios deben estar completos para que la capa pueda activarse:
 
-- Nombre
-- Etiqueta
-- Tipo
-- Módulo
-- Fuente de servicio                
-2.3 La capa interna debe cumplir los parámetros de actualización y dependencias para garantizar consistencia con otras capas.
+    - Nombre
+    - Etiqueta
+    - Tipo
+    - Módulo
+    - Fuente de servicio   
+     
+    2.3 La capa interna debe cumplir los parámetros de actualización y dependencias para garantizar consistencia con otras capas.
 
 3. **UX esperado**\
-3.1 Formulario de registro y edición intuitivo con validación en tiempo real de campos obligatorios.\
-3.2 Feedback inmediato al activar/desactivar capas o cambiar su visibilidad.\
-3.3 Visualización clara de las dependencias y filtros aplicados.
+    3.1 Formulario de registro y edición intuitivo con validación en tiempo real de campos obligatorios.\
+    3.2 Feedback inmediato al activar/desactivar capas o cambiar su visibilidad.\
+    3.3 Visualización clara de las dependencias y filtros aplicados.
 
 ## ROLES
 
@@ -57,4 +58,4 @@
 
 ## DIAGRAMA DE FLUJO DEL PROCESO
 
-![IMAGEN FLUJO DE ACTIVIDADES](assets/actividades-hu-ideam-snif-rest-225.png)(assets/actividades-hu-ideam-snif-rest-225.png)
+[![IMAGEN FLUJO DE ACTIVIDADES](assets/actividades-hu-ideam-snif-rest-225.png)](assets/actividades-hu-ideam-snif-rest-225.png)

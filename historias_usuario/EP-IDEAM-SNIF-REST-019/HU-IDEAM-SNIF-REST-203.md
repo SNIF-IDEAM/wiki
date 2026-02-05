@@ -16,23 +16,23 @@
 ## CRITERIOS DE ACEPTACIÓN
 
 1. **Visualización previa de geometrías cargadas**\
-1.1 El sistema debe mostrar en el visor geográfico todos los polígonos contenidos en el archivo cargado.\
-1.2 Cada polígono debe visualizarse de forma individual y diferenciada para facilitar su identificación.
+    1.1 El sistema debe mostrar en el visor geográfico todos los polígonos contenidos en el archivo cargado.\
+    1.2 Cada polígono debe visualizarse de forma individual y diferenciada para facilitar su identificación.
 
 2. **Selección de polígonos**\
-2.1 El sistema debe permitir al usuario seleccionar un único polígono del archivo cargado.\
-2.2 El sistema debe permitir la selección de múltiples polígonos para conformar una geometría tipo Multipolígono.\
-2.3 Los polígonos seleccionados deben resaltarse visualmente respecto a los no seleccionados.
+    2.1 El sistema debe permitir al usuario seleccionar un único polígono del archivo cargado.\
+    2.2 El sistema debe permitir la selección de múltiples polígonos para conformar una geometría tipo Multipolígono.\
+    2.3 Los polígonos seleccionados deben resaltarse visualmente respecto a los no seleccionados.
 
 3. **Vista de resumen de la selección**\
-3.1 El sistema debe mostrar una vista de resumen con el número total de polígonos seleccionados.\
-3.2 El sistema debe mostrar el área total resultante de la selección.\
-3.3 La vista de resumen debe actualizarse dinámicamente según la selección realizada.
+    3.1 El sistema debe mostrar una vista de resumen con el número total de polígonos seleccionados.\
+    3.2 El sistema debe mostrar el área total resultante de la selección.\
+    3.3 La vista de resumen debe actualizarse dinámicamente según la selección realizada.
 
 4. **Confirmación de la asociación**\
-4.1 El sistema debe requerir una confirmación explícita del usuario antes de asociar la geometría seleccionada al área restaurada.\
-4.2 Al confirmar, la geometría seleccionada debe quedar asociada al área restaurada en creación o edición.\
-4.3 El sistema debe permitir cancelar la selección sin asociar ninguna geometría.
+    4.1 El sistema debe requerir una confirmación explícita del usuario antes de asociar la geometría seleccionada al área restaurada.\
+    4.2 Al confirmar, la geometría seleccionada debe quedar asociada al área restaurada en creación o edición.\
+    4.3 El sistema debe permitir cancelar la selección sin asociar ninguna geometría.
 
 ## ROLES
 
@@ -49,4 +49,4 @@
 
 ## DIAGRAMA DE FLUJO DEL PROCESO
 
-![IMAGEN FLUJO DE ACTIVIDADES](assets/actividades-hu-ideam-snif-rest-203.png)(assets/actividades-hu-ideam-snif-rest-203.png)
+[![IMAGEN FLUJO DE ACTIVIDADES](assets/actividades-hu-ideam-snif-rest-203.png)](assets/actividades-hu-ideam-snif-rest-203.png)

@@ -16,22 +16,22 @@
 ## CRITERIOS DE ACEPTACIÓN
 
 1. **Habilitación del reemplazo de geometría**\
-1.1 El sistema debe permitir la opción de reemplazar la geometría existente únicamente a usuarios con perfil Registrador.\
-1.2 La opción de reemplazo debe estar disponible desde el flujo de edición del área restaurada.
+  1.1 El sistema debe permitir la opción de reemplazar la geometría existente únicamente a usuarios con perfil Registrador.\
+  1.2 La opción de reemplazo debe estar disponible desde el flujo de edición del área restaurada.
 
 2. **Confirmación del reemplazo**\
-2.1 Antes de ejecutar el reemplazo, el sistema debe solicitar una confirmación explícita al usuario.\
-2.2 El mensaje de confirmación debe informar que el reemplazo sobrescribirá completamente la geometría actual.
+  2.1 Antes de ejecutar el reemplazo, el sistema debe solicitar una confirmación explícita al usuario.\
+  2.2 El mensaje de confirmación debe informar que el reemplazo sobrescribirá completamente la geometría actual.
 
 3. **Ejecución del reemplazo**\
-3.1 Al confirmar el reemplazo, la geometría cargada debe sustituir completamente la geometría existente del área restaurada.\
-3.2 El sistema debe cambiar automáticamente el estado del área restaurada a BORRADOR.\
-3.3 La geometría reemplazada debe quedar disponible para validación y guardado posterior.
+  3.1 Al confirmar el reemplazo, la geometría cargada debe sustituir completamente la geometría existente del área restaurada.\
+  3.2 El sistema debe cambiar automáticamente el estado del área restaurada a BORRADOR.\
+  3.3 La geometría reemplazada debe quedar disponible para validación y guardado posterior.
 
 4. **Reprocesamiento espacial automático**\
-4.1 Una vez realizado el reemplazo, el sistema debe recalcular automáticamente el área del polígono en hectáreas (ha).\
-4.2 El sistema debe recalcular los traslapes espaciales asociados a la nueva geometría.\
-4.3 Los resultados de los recalculos deben quedar actualizados para su visualización y análisis.
+  4.1 Una vez realizado el reemplazo, el sistema debe recalcular automáticamente el área del polígono en hectáreas (ha).\
+  4.2 El sistema debe recalcular los traslapes espaciales asociados a la nueva geometría.\
+  4.3 Los resultados de los recalculos deben quedar actualizados para su visualización y análisis.
 
 ## ROLES
 
@@ -48,4 +48,4 @@
 
 ## DIAGRAMA DE FLUJO DEL PROCESO
 
-![IMAGEN FLUJO DE ACTIVIDADES](assets/actividades-hu-ideam-snif-rest-204.png)(assets/actividades-hu-ideam-snif-rest-204.png)
+[![IMAGEN FLUJO DE ACTIVIDADES](assets/actividades-hu-ideam-snif-rest-204.png)](assets/actividades-hu-ideam-snif-rest-204.png)

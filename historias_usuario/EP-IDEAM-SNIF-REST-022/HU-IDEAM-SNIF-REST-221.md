@@ -16,25 +16,25 @@
 ## CRITERIOS DE ACEPTACIÓN
 
 1. **Opción de ver leyenda por capa**\
-1.1 Cada capa listada en el Control de Capas debe incluir la opción “Ver leyenda”.\
-1.2 La leyenda debe mostrar claramente:
+    1.1 Cada capa listada en el Control de Capas debe incluir la opción “Ver leyenda”.\
+    1.2 La leyenda debe mostrar claramente:
 
-- Símbolos usados en la capa.
-- Colores asociados.
-- Rangos o categorías aplicadas.
+    - Símbolos usados en la capa.
+    - Colores asociados.
+    - Rangos o categorías aplicadas.
 
 2. **Comportamiento de la leyenda**\
-2.1 La leyenda debe poder expandirse y colapsarse individualmente por capa sin afectar otras capas.\
-2.2 Al mover o hacer zoom en el mapa, la leyenda debe mantener su estado visible o colapsado según el usuario.
+    2.1 La leyenda debe poder expandirse y colapsarse individualmente por capa sin afectar otras capas.\
+    2.2 Al mover o hacer zoom en el mapa, la leyenda debe mantener su estado visible o colapsado según el usuario.
 
 3. **Validaciones de negocio**\
-3.1 La leyenda mostrada debe corresponder exactamente a la simbología aplicada en el mapa.\
-3.2 Capas sin simbología definida deben mostrar un mensaje informativo indicando que no hay leyenda disponible.
+    3.1 La leyenda mostrada debe corresponder exactamente a la simbología aplicada en el mapa.\
+    3.2 Capas sin simbología definida deben mostrar un mensaje informativo indicando que no hay leyenda disponible.
 
 4. **UX esperado**\
-4.1 Animación suave al expandir o colapsar la leyenda.\
-4.2 Iconografía clara, legible y consistente con los símbolos del mapa.\
-4.3 Mantener el estado de cada leyenda aunque el usuario interactúe con el mapa (pan, zoom o cambio de capas).
+    4.1 Animación suave al expandir o colapsar la leyenda.\
+    4.2 Iconografía clara, legible y consistente con los símbolos del mapa.\
+    4.3 Mantener el estado de cada leyenda aunque el usuario interactúe con el mapa (pan, zoom o cambio de capas).
 
 ## ROLES
 
@@ -52,4 +52,4 @@
 
 ## DIAGRAMA DE FLUJO DEL PROCESO
 
-![IMAGEN FLUJO DE ACTIVIDADES](assets/actividades-hu-ideam-snif-rest-221.png)(assets/actividades-hu-ideam-snif-rest-221.png)
+[![IMAGEN FLUJO DE ACTIVIDADES](assets/actividades-hu-ideam-snif-rest-221.png)](assets/actividades-hu-ideam-snif-rest-221.png)

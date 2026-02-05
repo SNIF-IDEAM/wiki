@@ -43,6 +43,6 @@ Con ello, el sistema fortalece la calidad de los datos espaciales, la consistenc
 
 ## 5. Diagrama de secuencia
 
-![IMAGEN DIAGRAMA DE SECUENCIA](/historias_usuario/EP-IDEAM-SNIF-REST-019/assets/secuencia-ep-ideam-snif-rest-019.png)
+[![IMAGEN DIAGRAMA DE SECUENCIA](EP-IDEAM-SNIF-REST-019/assets/secuencia-ep-ideam-snif-rest-019.png)](EP-IDEAM-SNIF-REST-019/assets/secuencia-ep-ideam-snif-rest-019.png)
 
 ## 6. Wireframes / mockups

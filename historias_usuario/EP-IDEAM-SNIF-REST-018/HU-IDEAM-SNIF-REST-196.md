@@ -1,4 +1,4 @@
-HU-IDEAM-SNIF-REST-196
+# HU-IDEAM-SNIF-REST-196
 
 > **Identificador Historia de Usuario:** hu-ideam-snif-rest-196\
 > **Nombre Historia de Usuario:** Confirmar o cancelar actualización de geometría
@@ -16,27 +16,27 @@ HU-IDEAM-SNIF-REST-196
 ## CRITERIOS DE ACEPTACIÓN
 
 1. **Disponibilidad de acciones**\
-1.1 Durante el proceso de actualización geométrica, el sistema debe mostrar los botones:
+    1.1 Durante el proceso de actualización geométrica, el sistema debe mostrar los botones:
 
 - Confirmar actualización
 - Cancelar
 
 2. **Confirmar actualización**\
-2.1 Al seleccionar **Confirmar actualización**, el sistema debe ejecutar la validación geométrica definida.\
-2.2 Si la validación es exitosa:
+    2.1 Al seleccionar **Confirmar actualización**, el sistema debe ejecutar la validación geométrica definida.\
+    2.2 Si la validación es exitosa:
 
-- La geometría cargada debe guardarse como la nueva versión activa del área restaurada.
-- Se debe ejecutar automáticamente el recalculo de áreas.
-- Se debe ejecutar automáticamente el recalculo de traslapes.
+    - La geometría cargada debe guardarse como la nueva versión activa del área restaurada.
+    - Se debe ejecutar automáticamente el recalculo de áreas.
+    - Se debe ejecutar automáticamente el recalculo de traslapes.
 
 3. **Cancelar actualización**\
-3.1 Al seleccionar **Cancelar**, el sistema debe descartar el archivo geográfico cargado.\
-3.2 No se debe persistir ninguna modificación geométrica.\
-3.3 La geometría original del área restaurada debe conservarse sin alteraciones.
+    3.1 Al seleccionar **Cancelar**, el sistema debe descartar el archivo geográfico cargado.\
+    3.2 No se debe persistir ninguna modificación geométrica.\
+    3.3 La geometría original del área restaurada debe conservarse sin alteraciones.
 
 4. **Integridad del proceso**\
-4.1 El sistema debe garantizar que no existan estados intermedios inconsistentes.\
-4.2 Solo una geometría puede quedar activa tras la confirmación.
+    4.1 El sistema debe garantizar que no existan estados intermedios inconsistentes.\
+    4.2 Solo una geometría puede quedar activa tras la confirmación.
 
 ## ROLES
 
@@ -54,4 +54,4 @@ HU-IDEAM-SNIF-REST-196
 
 ## DIAGRAMA DE FLUJO DEL PROCESO
 
-![IMAGEN FLUJO DE ACTIVIDADES](assets/actividades-hu-ideam-snif-rest-196.png)(assets/actividades-hu-ideam-snif-rest-196.png)
+[![IMAGEN FLUJO DE ACTIVIDADES](assets/actividades-hu-ideam-snif-rest-196.png)](assets/actividades-hu-ideam-snif-rest-196.png)

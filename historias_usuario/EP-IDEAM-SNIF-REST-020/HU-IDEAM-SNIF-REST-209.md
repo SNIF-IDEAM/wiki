@@ -9,40 +9,40 @@
 
 ## DESCRIPCIÓN HISTORIA DE USUARIO
 
-> **Como: usuario administrador.\
-> **Quiero: administrar las familias asociadas a un filum.\
-> **Para: garantizar la consistencia y coherencia de la jerarquía taxonómica del sistema.
+> **Como:** usuario administrador.\
+> **Quiero:** administrar las familias asociadas a un filum.\
+> **Para:** garantizar la consistencia y coherencia de la jerarquía taxonómica del sistema.
 
 ## CRITERIOS DE ACEPTACIÓN
 
 1. **Vista de catálogo de familias**\
-1.1 El sistema debe presentar un listado tabulado de las familias registradas.\
-1.2 El listado debe permitir filtros por reino y filum asociados.
+    1.1 El sistema debe presentar un listado tabulado de las familias registradas.\
+    1.2 El listado debe permitir filtros por reino y filum asociados.
 
 2. **Campos visibles en el catálogo**\
-2.1 Cada registro de familia debe mostrar como mínimo los siguientes campos:
+    2.1 Cada registro de familia debe mostrar como mínimo los siguientes campos:
 
-- Nombre de la familia.
-- Estado (activo / inactivo).
-- Fecha de creación.
-- Fecha de actualización.
+    - Nombre de la familia.
+    - Estado (activo / inactivo).
+    - Fecha de creación.
+    - Fecha de actualización.
 
 3. **Creación de familias**\
-3.1 El sistema debe permitir crear una nueva familia.\
-3.2 La familia debe estar obligatoriamente asociada a un filum existente.\
-3.3 El sistema debe validar la unicidad del nombre de la familia dentro del filum.
+    3.1 El sistema debe permitir crear una nueva familia.\
+    3.2 La familia debe estar obligatoriamente asociada a un filum existente.\
+    3.3 El sistema debe validar la unicidad del nombre de la familia dentro del filum.
 
 4. **Edición de familias**\
-4.1 El sistema debe permitir editar la información de la familia.\
-4.2 La edición no debe afectar registros históricos asociados.
+    4.1 El sistema debe permitir editar la información de la familia.\
+    4.2 La edición no debe afectar registros históricos asociados.
 
 5. **Activación e inactivación de familias**\
-5.1 El sistema debe permitir activar o desactivar una familia.\
-5.2 Si el filum asociado se inactiva, el sistema debe inactivar lógicamente las familias dependientes.
+    5.1 El sistema debe permitir activar o desactivar una familia.\
+    5.2 Si el filum asociado se inactiva, el sistema debe inactivar lógicamente las familias dependientes.
 
 6. **Persistencia y trazabilidad**\
-6.1 El sistema debe registrar la fecha de creación y actualización de cada familia.\
-6.2 Todas las acciones deben quedar registradas para fines de auditoría.
+    6.1 El sistema debe registrar la fecha de creación y actualización de cada familia.\
+    6.2 Todas las acciones deben quedar registradas para fines de auditoría.
 
 ## ROLES
 
@@ -61,4 +61,4 @@
 
 ## DIAGRAMA DE FLUJO DEL PROCESO
 
-![IMAGEN FLUJO DE ACTIVIDADES](assets/actividades-hu-ideam-snif-rest-209.png)(assets/actividades-hu-ideam-snif-rest-209.png)
+[![IMAGEN FLUJO DE ACTIVIDADES](assets/actividades-hu-ideam-snif-rest-209.png)](assets/actividades-hu-ideam-snif-rest-209.png)
