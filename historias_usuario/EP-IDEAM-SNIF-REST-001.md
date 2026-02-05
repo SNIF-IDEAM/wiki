@@ -26,16 +26,16 @@ Garantizar un **sistema de autenticación y autorización seguro, centralizado y
 ## 3. Historias de usuario asociadas
 
 - [**HU-IDEAM-SNIF-REST-022:** Autenticación de usuarios vía Keycloak](/historias_usuario/EP-IDEAM-SNIF-REST-001/HU-IDEAM-SNIF-REST-022.md)
-- [**HU-IDEAM-SNIF-REST-023:** Asignación de roles a usuarios](/historias_usuario/EP-IDEAM-SNIF-REST-001/HU-IDEAM-SNIF-REST-023.md)
-- [**HU-IDEAM-SNIF-REST-024:** Validación de permisos por rol](/historias_usuario/EP-IDEAM-SNIF-REST-001/HU-IDEAM-SNIF-REST-024.md)
-- [**HU-IDEAM-SNIF-REST-025:** Registro de nuevos usuarios](/historias_usuario/EP-IDEAM-SNIF-REST-001/HU-IDEAM-SNIF-REST-025.md)
-- [**HU-IDEAM-SNIF-REST-026:** Activación y desactivación de usuarios](/historias_usuario/EP-IDEAM-SNIF-REST-001/HU-IDEAM-SNIF-REST-026.md)
-- [**HU-IDEAM-SNIF-REST-027:** Edición de perfil de usuario](/historias_usuario/EP-IDEAM-SNIF-REST-001/HU-IDEAM-SNIF-REST-027.md)
-- [**HU-IDEAM-SNIF-REST-028:** Consulta de información de usuario](/historias_usuario/EP-IDEAM-SNIF-REST-001/HU-IDEAM-SNIF-REST-028.md)
-- [**HU-IDEAM-SNIF-REST-029:** Cierre de sesión (logout)](/historias_usuario/EP-IDEAM-SNIF-REST-001/HU-IDEAM-SNIF-REST-029.md)
-- [**HU-IDEAM-SNIF-REST-030:** Renovación automática de tokens](/historias_usuario/EP-IDEAM-SNIF-REST-001/HU-IDEAM-SNIF-REST-030.md)
-- [**HU-IDEAM-SNIF-REST-031:** Auditoría de accesos y operaciones de usuarios](/historias_usuario/EP-IDEAM-SNIF-REST-001/HU-IDEAM-SNIF-REST-031.md)
-- [**HU-IDEAM-SNIF-REST-032:** Gestión de sesiones concurrentes](/historias_usuario/EP-IDEAM-SNIF-REST-001/HU-IDEAM-SNIF-REST-032.md)
+- [**HU-IDEAM-SNIF-REST-023:** Acceso como usuario invitado](/historias_usuario/EP-IDEAM-SNIF-REST-001/HU-IDEAM-SNIF-REST-023.md)
+- [**HU-IDEAM-SNIF-REST-024:** Aceptación de términos y condiciones y tratamiento de datos](/historias_usuario/EP-IDEAM-SNIF-REST-001/HU-IDEAM-SNIF-REST-024.md)
+- [**HU-IDEAM-SNIF-REST-025:** Persistencia de aceptación de términos](/historias_usuario/EP-IDEAM-SNIF-REST-001/HU-IDEAM-SNIF-REST-025.md)
+- [**HU-IDEAM-SNIF-REST-026:** Inicialización del contexto del usuario](/historias_usuario/EP-IDEAM-SNIF-REST-001/HU-IDEAM-SNIF-REST-026.md)
+- [**HU-IDEAM-SNIF-REST-027:** Control de acceso a funcionalidades según rol](/historias_usuario/EP-IDEAM-SNIF-REST-001/HU-IDEAM-SNIF-REST-027.md)
+- [**HU-IDEAM-SNIF-REST-028:** Gestión de sesión y cierre seguro](/historias_usuario/EP-IDEAM-SNIF-REST-001/HU-IDEAM-SNIF-REST-028.md)
+- [**HU-IDEAM-SNIF-REST-029:** Unicidad y control de sesión activa](/historias_usuario/EP-IDEAM-SNIF-REST-001/HU-IDEAM-SNIF-REST-029.md)
+- [**HU-IDEAM-SNIF-REST-030:** Trazabilidad de accesos y contexto inicial](/historias_usuario/EP-IDEAM-SNIF-REST-001/HU-IDEAM-SNIF-REST-030.md)
+- [**HU-IDEAM-SNIF-REST-031:** Página de selección de módulos del SNIF](/historias_usuario/EP-IDEAM-SNIF-REST-001/HU-IDEAM-SNIF-REST-031.md)
+- [**HU-IDEAM-SNIF-REST-032:** Información general del Módulo de Restauración](/historias_usuario/EP-IDEAM-SNIF-REST-001/HU-IDEAM-SNIF-REST-032.md)
 - [**HU-IDEAM-SNIF-REST-033:** Regla institucional de acceso a aplicaciones del Módulo de Restauración](/historias_usuario/EP-IDEAM-SNIF-REST-001/HU-IDEAM-SNIF-REST-033.md)
 
 ---
