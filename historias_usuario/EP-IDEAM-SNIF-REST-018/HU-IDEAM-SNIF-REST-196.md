@@ -18,8 +18,8 @@
 1. **Disponibilidad de acciones**\
     1.1 Durante el proceso de actualización geométrica, el sistema debe mostrar los botones:
 
-- Confirmar actualización
-- Cancelar
+    - Confirmar actualización
+    - Cancelar
 
 2. **Confirmar actualización**\
     2.1 Al seleccionar **Confirmar actualización**, el sistema debe ejecutar la validación geométrica definida.\
