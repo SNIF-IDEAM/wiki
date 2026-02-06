@@ -28,10 +28,10 @@ Con ello, el sistema fortalece la calidad en el uso de la plataforma, mejora la 
 
 ## 3. Historias de usuario asociadas
 
-- [**HU-IDEAM-SNIF-REST-139:** Acceso al menú de apropiación](/historias_usuario/EP-IDEAM-SNIF-REST-012/HU-IDEAM-SNIF-REST-139)
-- [**HU-IDEAM-SNIF-REST-140:** Visualizar videos de uso](/historias_usuario/EP-IDEAM-SNIF-REST-012/HU-IDEAM-SNIF-REST-140)
-- [**HU-IDEAM-SNIF-REST-141:** Visualizar contenido según rol](/historias_usuario/EP-IDEAM-SNIF-REST-012/HU-IDEAM-SNIF-REST-141)
-- [**HU-IDEAM-SNIF-REST-142:** Acceso contextual desde visor y tableros](/historias_usuario/EP-IDEAM-SNIF-REST-012/HU-IDEAM-SNIF-REST-142)
+- [**HU-IDEAM-SNIF-REST-139:** Acceso al menú de apropiación](/historias_usuario/EP-IDEAM-SNIF-REST-012/HU-IDEAM-SNIF-REST-139.md)
+- [**HU-IDEAM-SNIF-REST-140:** Visualizar videos de uso](/historias_usuario/EP-IDEAM-SNIF-REST-012/HU-IDEAM-SNIF-REST-140.md)
+- [**HU-IDEAM-SNIF-REST-141:** Visualizar contenido según rol](/historias_usuario/EP-IDEAM-SNIF-REST-012/HU-IDEAM-SNIF-REST-141.md)
+- [**HU-IDEAM-SNIF-REST-142:** Acceso contextual desde visor y tableros](/historias_usuario/EP-IDEAM-SNIF-REST-012/HU-IDEAM-SNIF-REST-142.md)
 
 ## 4. Riesgos
 
