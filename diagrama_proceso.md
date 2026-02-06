@@ -4,7 +4,7 @@ En el diagrama en mención, se utiliza un modelado y notación de procesos de ne
 
 El proceso general del **Módulo de Restauración SNIF** abarca la gestión integral de proyectos y áreas restauradas, desde el acceso y autenticación hasta la validación final y la consulta/exportación de datos, integrando funcionalidades SIG, gestión documental, reportes y control de calidad.
 
-<img src="assets/bpmn.png" class="zoomable" />
+[![diagrama de proceso](diagrama_proceso/assets/bpmn.png)](diagrama_proceso/assets/bpmn.png)
 
 ## 1. Acceso y Autenticación
 

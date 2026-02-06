@@ -13,7 +13,7 @@ En este subapartado se presenta el **modelo conceptual y lógico** de la base de
   <a href="https://docs.google.com/document/d/13uFjZgND94pLmRxh7afwYdL-oo65CgV8/edit?usp=drive_link&ouid=113521546771022809165&rtpof=true&sd=true" target="_blank">Resumen técnico Base de Datos SNIF – RESTAURACIÓN</a>
 
 - **Modelo gráfico:**
-  <img src="assets/estructura_datos.png" class="zoomable" />
+  [![Modelo gráfico](estructura_datos/assets/estructura_datos.png)](estructura_datos/assets/estructura_datos.png)
 
 > **Contenido:**
 >
