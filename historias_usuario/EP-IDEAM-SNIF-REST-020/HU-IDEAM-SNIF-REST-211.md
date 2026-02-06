@@ -48,10 +48,6 @@
     6.1 El sistema debe permitir activar o desactivar una especie.\
     6.2 Las especies inactivas no deben mostrarse en los formularios de áreas restauradas.
 
-7. **Persistencia y trazabilidad**\
-    7.1 El sistema debe registrar la fecha de creación y actualización de cada especie.\
-    7.2 Todas las acciones deben quedar registradas para fines de auditoría.
-
 ## ROLES
 
 - **Administrador IDEAM**:	Puede crear, editar, activar e inactivar especies.

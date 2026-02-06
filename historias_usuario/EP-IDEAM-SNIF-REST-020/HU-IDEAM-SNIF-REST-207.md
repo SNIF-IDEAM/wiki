@@ -40,10 +40,6 @@
     5.1 El sistema debe permitir activar o desactivar un reino biológico.\
     5.2 Si un reino se encuentra inactivo, no debe estar disponible en formularios dependientes.
 
-6. **Persistencia y trazabilidad**\
-    6.1 El sistema debe registrar la fecha de creación y actualización de cada reino.\
-    6.2 Todas las acciones deben quedar registradas para fines de auditoría.
-
 ## ROLES
 
 - **Administrador IDEAM**:	Puede crear, editar, activar e inactivar reinos biológicos.

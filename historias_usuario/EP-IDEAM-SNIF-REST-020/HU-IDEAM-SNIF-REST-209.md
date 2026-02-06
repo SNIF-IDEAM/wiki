@@ -40,10 +40,6 @@
     5.1 El sistema debe permitir activar o desactivar una familia.\
     5.2 Si el filum asociado se inactiva, el sistema debe inactivar lógicamente las familias dependientes.
 
-6. **Persistencia y trazabilidad**\
-    6.1 El sistema debe registrar la fecha de creación y actualización de cada familia.\
-    6.2 Todas las acciones deben quedar registradas para fines de auditoría.
-
 ## ROLES
 
 - **Administrador IDEAM**:	Puede crear, editar, activar e inactivar familias.
