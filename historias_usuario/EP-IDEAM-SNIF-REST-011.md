@@ -252,7 +252,8 @@ Registro permite análisis de:
 
 ## 13. Diagrama de secuencia
 
-_Pendiente de generación_
+[![IMAGEN DIAGRAMA DE SECUENCIA](EP-IDEAM-SNIF-REST-011/assets/secuencia-ep-ideam-snif-rest-011.png)](EP-IDEAM-SNIF-REST-011/assets/secuencia-ep-ideam-snif-rest-011.png)
+
 
 ---
 

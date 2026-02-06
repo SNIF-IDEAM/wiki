@@ -177,7 +177,7 @@ Toda descarga se registra obligatoriamente en REGISTROS DEL SISTEMA incluyendo:
 
 ## 11. Diagrama de secuencia
 
-_Pendiente de generación_
+[![IMAGEN DIAGRAMA DE SECUENCIA](EP-IDEAM-SNIF-REST-010/assets/secuencia-ep-ideam-snif-rest-010.png)](EP-IDEAM-SNIF-REST-010/assets/secuencia-ep-ideam-snif-rest-010.png)
 
 ---
 
