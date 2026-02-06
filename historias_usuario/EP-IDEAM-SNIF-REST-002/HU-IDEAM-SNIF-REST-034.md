@@ -1,16 +1,16 @@
 # HU-IDEAM-SNIF-REST-034
 
-> **Identificador Historia de Usuario:** hu-ideam-snif-rest-034/
+> **Identificador Historia de Usuario:** hu-ideam-snif-rest-034\
 > **Nombre Historia de Usuario:** Listar tablas de dominio (_dom)
 
-> **Sistema de información:** Sistema Nacional de Información Forestal/
-> **Módulo / subsistema:** Módulo de restauración/
+> **Sistema de información:** Sistema Nacional de Información Forestal\
+> **Módulo / subsistema:** Módulo de restauración\
 > **Validador temático(s):** Raymond Alexander Jiménez Arteaga
 
 ## DESCRIPCIÓN HISTORIA DE USUARIO
 
-> **Como:** administrador del sistema./
-> **Quiero:** visualizar el listado de todas las tablas de dominio (_dom) configuradas en el sistema./
+> **Como:** administrador del sistema.\
+> **Quiero:** visualizar el listado de todas las tablas de dominio (_dom) configuradas en el sistema.\
 > **Para:** acceder a su administración de forma centralizada y controlada.
 
 ## CRITERIOS DE ACEPTACIÓN
