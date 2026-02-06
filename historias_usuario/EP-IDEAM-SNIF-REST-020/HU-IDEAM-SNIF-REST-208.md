@@ -41,10 +41,6 @@
     5.1 El sistema debe permitir activar o desactivar un filum.\
     5.2 No se debe permitir activar un filum cuyo reino asociado se encuentre inactivo.
 
-6. **Persistencia y trazabilidad**\
-    6.1 El sistema debe registrar la fecha de creación y actualización de cada filum.\
-    6.2 Todas las acciones deben quedar registradas para fines de auditoría.
-
 ## ROLES
 
 - **Administrador IDEAM**:	Puede crear, editar, activar e inactivar filum.

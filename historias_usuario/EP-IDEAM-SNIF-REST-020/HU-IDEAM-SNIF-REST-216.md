@@ -9,7 +9,7 @@
 
 ## DESCRIPCIÓN HISTORIA DE USUARIO
 
-> **Como:** usuario administrador.\
+> **Como:** usuario del sistema.\
 > **Quiero:** buscar especies de forma rápida y flexible dentro del catálogo taxonómico.\
 > **Para:** agilizar la administración, consulta y validación de especies en el sistema.
 
