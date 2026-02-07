@@ -1,3 +1,7 @@
+---
+title: Nivel 3
+description: Arquitectura C4, Nivel 3
+---
 # Modelo C4 – Nivel 3: Componentes Internos del Sistema
 
 ## 3.1 Descripción general

@@ -1,3 +1,7 @@
+---
+title: Glosario
+description: Glosario de terminos del modulo de restauración.
+---
 # SNIF-GTS Glosario de términos
 
 ## Descripción

@@ -1,3 +1,7 @@
+---
+title: Nivel 1
+description: Arquitectura C4, Nivel 1
+---
 # Modelo C4 – Nivel 1: Contexto del Sistema
 
 ## 1.1 Descripción general

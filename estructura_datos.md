@@ -1,3 +1,7 @@
+---
+title: Estructura de Datos
+description: Estructura de base de datos para la implementación SNIF del IDEAM
+---
 # Estructura de Datos
 
 Este apartado describe los componentes principales que conforman la **estructura de datos del Módulo de Restauración SNIF**, incluyendo el diseño del modelo, el diccionario de datos y los procesos de migración y carga (ETLs).  
