@@ -1,3 +1,7 @@
+---
+title: Diagrama de proceso
+description: Diagrama de proceso para la implementación SNIF
+---
 # Proceso General del Módulo de Restauración SNIF – Descripción del Flujo BPMN
 
 En el diagrama en mención, se utiliza un modelado y notación de procesos de negocio, o diagrama BPMN (Business Process Model and Notation), que se utiliza para crear diagramas de flujo de modelos de procesos de negocio fáciles de leer, que se puedan compartir en distintas industrias y organizaciones. A continuación, se describen los elementos gráficos utilizados en el Diagrama de procesos del "nuevo" módulo de restauración del SNIF.

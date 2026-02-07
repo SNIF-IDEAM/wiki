@@ -1,3 +1,7 @@
+---
+title: Arquitectura de software
+description: Arquitectura de software de implementación SNIF
+---
 # Arquitectura de software
 
 ## Visión general
