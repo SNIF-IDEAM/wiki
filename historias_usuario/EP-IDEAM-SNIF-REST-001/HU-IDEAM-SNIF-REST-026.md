@@ -69,3 +69,7 @@
 - Para usuarios invitados, las funcionalidades están limitadas exclusivamente al visor de consulta.
 - La entidad asociada solo aplica para usuarios autenticados con roles específicos.
 
+## DIAGRAMA DE FLUJO DEL PROCESO
+
+[![IMAGEN FLUJO DE ACTIVIDADES](assets/actividades-hu-ideam-snif-rest-026.png)](assets/actividades-hu-ideam-snif-rest-026.png)
+

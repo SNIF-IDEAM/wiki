@@ -45,3 +45,7 @@
 - Sin capacidad de crear o editar información.
 - Acceso restringido a módulos y funcionalidades públicas.
 - Todos los accesos como invitado se auditan.
+
+## DIAGRAMA DE FLUJO DEL PROCESO
+
+[![IMAGEN FLUJO DE ACTIVIDADES](assets/actividades-hu-ideam-snif-rest-023.png)](assets/actividades-hu-ideam-snif-rest-023.png)

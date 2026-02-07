@@ -54,3 +54,7 @@
 - Los registros de auditoría deben cumplir con normativa de protección de datos personales.
 - El sistema debe mantener histórico de aceptaciones para fines legales.
 
+## DIAGRAMA DE FLUJO DEL PROCESO
+
+[![IMAGEN FLUJO DE ACTIVIDADES](assets/actividades-hu-ideam-snif-rest-025.png)](assets/actividades-hu-ideam-snif-rest-025.png)
+

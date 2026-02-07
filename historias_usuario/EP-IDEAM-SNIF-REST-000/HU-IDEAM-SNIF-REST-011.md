@@ -29,3 +29,7 @@
 
 - Solo se muestran proyectos validados por IDEAM.
 - El listado se presenta en ventana modal.
+
+## DIAGRAMA DE FLUJO DEL PROCESO
+
+[![IMAGEN FLUJO DE ACTIVIDADES](assets/actividades-hu-ideam-snif-rest-011.png)](assets/actividades-hu-ideam-snif-rest-011.png)

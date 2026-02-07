@@ -37,3 +37,7 @@
 - Las restricciones se aplican según el rol asignado.
 - El visor es de consulta para todos los perfiles.
 - La segregación funcional es obligatoria.
+
+## DIAGRAMA DE FLUJO DEL PROCESO
+
+[![IMAGEN FLUJO DE ACTIVIDADES](assets/actividades-hu-ideam-snif-rest-021.png)](assets/actividades-hu-ideam-snif-rest-021.png)

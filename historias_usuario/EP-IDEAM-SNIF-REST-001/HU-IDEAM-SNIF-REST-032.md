@@ -53,3 +53,7 @@
 - La aceptación se registra para trazabilidad.
 - El modal debe respetar la identidad visual institucional IDEAM-SNIF.
 
+## DIAGRAMA DE FLUJO DEL PROCESO
+
+[![IMAGEN FLUJO DE ACTIVIDADES](assets/actividades-hu-ideam-snif-rest-032.png)](assets/actividades-hu-ideam-snif-rest-032.png)
+

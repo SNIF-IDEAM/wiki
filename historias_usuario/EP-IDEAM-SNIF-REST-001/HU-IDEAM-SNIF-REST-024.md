@@ -36,3 +36,7 @@
 - La aceptación es obligatoria para continuar.
 - El modal no puede omitirse o cerrarse sin aceptación.
 - La aceptación se registra por sesión de usuario.
+
+## DIAGRAMA DE FLUJO DEL PROCESO
+
+[![IMAGEN FLUJO DE ACTIVIDADES](assets/actividades-hu-ideam-snif-rest-024.png)](assets/actividades-hu-ideam-snif-rest-024.png)

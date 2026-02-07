@@ -26,3 +26,7 @@
 
 - Solo se puede acceder al detalle de proyectos aprobados.
 - El acceso se realiza desde el listado de proyectos.
+
+## DIAGRAMA DE FLUJO DEL PROCESO
+
+[![IMAGEN FLUJO DE ACTIVIDADES](assets/actividades-hu-ideam-snif-rest-014.png)](assets/actividades-hu-ideam-snif-rest-014.png)

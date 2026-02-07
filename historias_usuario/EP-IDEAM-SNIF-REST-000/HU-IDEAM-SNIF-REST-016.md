@@ -30,3 +30,7 @@
 
 - La información se organiza en cuatro pestañas fijas.
 - Todas las pestañas son de solo consulta.
+
+## DIAGRAMA DE FLUJO DEL PROCESO
+
+[![IMAGEN FLUJO DE ACTIVIDADES](assets/actividades-hu-ideam-snif-rest-016.png)](assets/actividades-hu-ideam-snif-rest-016.png)

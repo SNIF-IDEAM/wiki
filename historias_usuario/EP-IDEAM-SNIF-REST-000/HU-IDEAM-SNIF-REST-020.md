@@ -26,3 +26,7 @@
 
 - La información se presenta mediante tooltip.
 - Incluye fechas y detalles del estado de validación.
+
+## DIAGRAMA DE FLUJO DEL PROCESO
+
+[![IMAGEN FLUJO DE ACTIVIDADES](assets/actividades-hu-ideam-snif-rest-020.png)](assets/actividades-hu-ideam-snif-rest-020.png)

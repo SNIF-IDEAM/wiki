@@ -32,3 +32,7 @@
 
 - Los procesos son de apoyo a la consulta.
 - No se permite la modificación de información oficial.
+
+## DIAGRAMA DE FLUJO DEL PROCESO
+
+[![IMAGEN FLUJO DE ACTIVIDADES](assets/actividades-hu-ideam-snif-rest-009.png)](assets/actividades-hu-ideam-snif-rest-009.png)

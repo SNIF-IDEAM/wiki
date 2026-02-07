@@ -31,3 +31,7 @@
 
 - Las consultas se realizan sobre información validada.
 - No se permite modificación de datos desde las consultas.
+
+## DIAGRAMA DE FLUJO DEL PROCESO
+
+[![IMAGEN FLUJO DE ACTIVIDADES](assets/actividades-hu-ideam-snif-rest-010.png)](assets/actividades-hu-ideam-snif-rest-010.png)

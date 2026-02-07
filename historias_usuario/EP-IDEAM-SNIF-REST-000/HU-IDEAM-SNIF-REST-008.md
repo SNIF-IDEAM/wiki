@@ -33,3 +33,7 @@
 
 - Las capas se organizan por ejes temáticos predefinidos.
 - Los metadatos son informativos y no editables desde el visor.
+
+## DIAGRAMA DE FLUJO DEL PROCESO
+
+[![IMAGEN FLUJO DE ACTIVIDADES](assets/actividades-hu-ideam-snif-rest-008.png)](assets/actividades-hu-ideam-snif-rest-008.png)

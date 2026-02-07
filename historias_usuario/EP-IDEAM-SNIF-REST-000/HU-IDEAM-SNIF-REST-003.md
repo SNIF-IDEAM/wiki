@@ -29,3 +29,7 @@
 
 - Las coordenadas se muestran en la parte inferior del visor.
 - La visualización es continua y automática.
+
+## DIAGRAMA DE FLUJO DEL PROCESO
+
+[![IMAGEN FLUJO DE ACTIVIDADES](assets/actividades-hu-ideam-snif-rest-003.png)](assets/actividades-hu-ideam-snif-rest-003.png)

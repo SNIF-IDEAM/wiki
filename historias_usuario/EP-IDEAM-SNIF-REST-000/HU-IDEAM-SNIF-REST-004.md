@@ -30,3 +30,7 @@
 
 - Los controles son de uso libre para todos los perfiles.
 - Permiten navegación básica sobre el territorio nacional.
+
+## DIAGRAMA DE FLUJO DEL PROCESO
+
+[![IMAGEN FLUJO DE ACTIVIDADES](assets/actividades-hu-ideam-snif-rest-004.png)](assets/actividades-hu-ideam-snif-rest-004.png)

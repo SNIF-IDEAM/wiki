@@ -26,3 +26,7 @@
 
 - La actualización es automática y en tiempo real.
 - No requiere recarga manual del visor.
+
+## DIAGRAMA DE FLUJO DEL PROCESO
+
+[![IMAGEN FLUJO DE ACTIVIDADES](assets/actividades-hu-ideam-snif-rest-018.png)](assets/actividades-hu-ideam-snif-rest-018.png)

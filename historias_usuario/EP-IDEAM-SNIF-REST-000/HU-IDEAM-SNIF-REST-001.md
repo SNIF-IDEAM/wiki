@@ -42,3 +42,7 @@
 - El visor es de solo consulta.
 - Solo se visualizan proyectos validados por el IDEAM.
 - El acceso está disponible para todos los roles del sistema.
+
+## DIAGRAMA DE FLUJO DEL PROCESO
+
+[![IMAGEN FLUJO DE ACTIVIDADES](assets/actividades-hu-ideam-snif-rest-001.png)](assets/actividades-hu-ideam-snif-rest-001.png)

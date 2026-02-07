@@ -29,3 +29,7 @@
 
 - La tabla incluye paginación para facilitar la navegación.
 - La descarga respeta los filtros aplicados.
+
+## DIAGRAMA DE FLUJO DEL PROCESO
+
+[![IMAGEN FLUJO DE ACTIVIDADES](assets/actividades-hu-ideam-snif-rest-013.png)](assets/actividades-hu-ideam-snif-rest-013.png)

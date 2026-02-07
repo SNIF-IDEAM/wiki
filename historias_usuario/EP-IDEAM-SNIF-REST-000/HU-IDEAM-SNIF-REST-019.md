@@ -26,3 +26,7 @@
 
 - El estado se muestra tanto en listado como en detalle.
 - La información es de solo consulta.
+
+## DIAGRAMA DE FLUJO DEL PROCESO
+
+[![IMAGEN FLUJO DE ACTIVIDADES](assets/actividades-hu-ideam-snif-rest-019.png)](assets/actividades-hu-ideam-snif-rest-019.png)

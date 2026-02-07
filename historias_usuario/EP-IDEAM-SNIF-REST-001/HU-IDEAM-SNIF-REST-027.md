@@ -57,3 +57,7 @@
 - El control de acceso se aplica desde la inicialización del contexto del usuario.
 - No se permite escalamiento de privilegios durante la sesión activa.
 
+## DIAGRAMA DE FLUJO DEL PROCESO
+
+[![IMAGEN FLUJO DE ACTIVIDADES](assets/actividades-hu-ideam-snif-rest-027.png)](assets/actividades-hu-ideam-snif-rest-027.png)
+

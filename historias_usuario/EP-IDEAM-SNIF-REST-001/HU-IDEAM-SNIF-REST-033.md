@@ -64,3 +64,7 @@
 - Los controles de acceso deben ser auditables y verificables.
 - La regla se aplica independientemente del canal de acceso (web, móvil, API).
 
+## DIAGRAMA DE FLUJO DEL PROCESO
+
+[![IMAGEN FLUJO DE ACTIVIDADES](assets/actividades-hu-ideam-snif-rest-033.png)](assets/actividades-hu-ideam-snif-rest-033.png)
+

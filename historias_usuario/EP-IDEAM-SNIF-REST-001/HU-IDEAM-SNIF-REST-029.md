@@ -58,3 +58,7 @@
 - El tiempo de expiración de sesión es configurable a nivel de sistema.
 - El sistema debe manejar desconexiones de red sin perder la integridad de la sesión.
 
+## DIAGRAMA DE FLUJO DEL PROCESO
+
+[![IMAGEN FLUJO DE ACTIVIDADES](assets/actividades-hu-ideam-snif-rest-029.png)](assets/actividades-hu-ideam-snif-rest-029.png)
+

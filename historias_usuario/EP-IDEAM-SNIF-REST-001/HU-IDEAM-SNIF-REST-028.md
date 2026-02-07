@@ -54,3 +54,7 @@
 - Para usuarios invitados, el cierre de sesión también elimina cualquier configuración temporal.
 - El sistema debe manejar cierres de sesión por timeout automático.
 
+## DIAGRAMA DE FLUJO DEL PROCESO
+
+[![IMAGEN FLUJO DE ACTIVIDADES](assets/actividades-hu-ideam-snif-rest-028.png)](assets/actividades-hu-ideam-snif-rest-028.png)
+

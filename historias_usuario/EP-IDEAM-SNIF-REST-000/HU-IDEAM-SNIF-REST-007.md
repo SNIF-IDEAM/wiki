@@ -29,3 +29,7 @@
 
 - El sidebar es colapsable para optimizar el espacio de visualización.
 - Las tres pestañas principales son fijas y obligatorias.
+
+## DIAGRAMA DE FLUJO DEL PROCESO
+
+[![IMAGEN FLUJO DE ACTIVIDADES](assets/actividades-hu-ideam-snif-rest-007.png)](assets/actividades-hu-ideam-snif-rest-007.png)

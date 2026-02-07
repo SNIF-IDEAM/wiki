@@ -29,3 +29,7 @@
 
 - Las estadísticas se muestran en el sidebar.
 - Se actualizan según la interacción con el mapa.
+
+## DIAGRAMA DE FLUJO DEL PROCESO
+
+[![IMAGEN FLUJO DE ACTIVIDADES](assets/actividades-hu-ideam-snif-rest-017.png)](assets/actividades-hu-ideam-snif-rest-017.png)

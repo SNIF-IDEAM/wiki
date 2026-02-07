@@ -32,3 +32,7 @@
 
 - Los filtros aplican sobre proyectos validados.
 - Los filtros son combinables entre sí.
+
+## DIAGRAMA DE FLUJO DEL PROCESO
+
+[![IMAGEN FLUJO DE ACTIVIDADES](assets/actividades-hu-ideam-snif-rest-012.png)](assets/actividades-hu-ideam-snif-rest-012.png)

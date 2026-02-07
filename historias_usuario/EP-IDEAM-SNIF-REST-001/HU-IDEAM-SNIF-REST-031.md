@@ -65,3 +65,7 @@
 - La validación de permisos debe ser en tiempo real al cargar la página.
 - Los cambios en permisos requieren nueva autenticación para reflejarse.
 
+## DIAGRAMA DE FLUJO DEL PROCESO
+
+[![IMAGEN FLUJO DE ACTIVIDADES](assets/actividades-hu-ideam-snif-rest-031.png)](assets/actividades-hu-ideam-snif-rest-031.png)
+

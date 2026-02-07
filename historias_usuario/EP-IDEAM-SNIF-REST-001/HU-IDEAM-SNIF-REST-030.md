@@ -60,3 +60,7 @@
 - El acceso a información sensible en registros debe estar protegido.
 - El sistema de auditoría no debe afectar el rendimiento de operaciones críticas.
 
+## DIAGRAMA DE FLUJO DEL PROCESO
+
+[![IMAGEN FLUJO DE ACTIVIDADES](assets/actividades-hu-ideam-snif-rest-030.png)](assets/actividades-hu-ideam-snif-rest-030.png)
+

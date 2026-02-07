@@ -26,3 +26,7 @@
 
 - El control de capas se realiza desde el sidebar izquierdo.
 - La personalización es individual por usuario.
+
+## DIAGRAMA DE FLUJO DEL PROCESO
+
+[![IMAGEN FLUJO DE ACTIVIDADES](assets/actividades-hu-ideam-snif-rest-006.png)](assets/actividades-hu-ideam-snif-rest-006.png)

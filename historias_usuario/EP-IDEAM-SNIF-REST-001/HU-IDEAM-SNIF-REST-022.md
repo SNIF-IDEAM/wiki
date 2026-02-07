@@ -49,3 +49,7 @@
 - La autenticación es exclusivamente mediante Keycloak.
 - Usuarios sin rol asignado tienen acceso restringido.
 - Todos los intentos de inicio de sesión se auditan.
+
+## DIAGRAMA DE FLUJO DEL PROCESO
+
+[![IMAGEN FLUJO DE ACTIVIDADES](assets/actividades-hu-ideam-snif-rest-022.png)](assets/actividades-hu-ideam-snif-rest-022.png)

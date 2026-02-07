@@ -29,3 +29,7 @@
 
 - Solo se permiten mapas base de fuentes institucionales o autorizadas.
 - El cambio debe ser dinámico sin afectar la continuidad de la navegación.
+
+## DIAGRAMA DE FLUJO DEL PROCESO
+
+[![IMAGEN FLUJO DE ACTIVIDADES](assets/actividades-hu-ideam-snif-rest-005.png)](assets/actividades-hu-ideam-snif-rest-005.png)
