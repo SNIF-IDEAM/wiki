@@ -45,5 +45,5 @@ Se incluyen detalles como **interfaces**, **puertos**, **protocolos**, **bases d
 
 ## Enlaces relacionados
 
-- [Historias de usuario](/historias_usuario/README)
-- [Casos de prueba](/casos_prueba/README)
+- [Historias de usuario](historias_usuario.md)
+- [Casos de prueba](casos_prueba.md)
