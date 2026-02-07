@@ -1,3 +1,7 @@
+---
+title: Manuales
+description: Manuales aplicables para implementación SNIF del IDEAM
+---
 # Manuales
 
 > ## Manual del administrador del sistema

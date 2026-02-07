@@ -1,3 +1,7 @@
+---
+title: Inicio
+description: Proyecto SNIF del IDEAM
+---
 # PROYECTO SNIF IDEAM
 
 ## **Introducción general**

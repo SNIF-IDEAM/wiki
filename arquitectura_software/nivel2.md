@@ -1,3 +1,7 @@
+---
+title: Nivel 2
+description: Arquitectura C4, Nivel 2
+---
 # Modelo C4 – Nivel 2: Contenedores
 
 ## 2.1 Descripción general
@@ -63,7 +67,7 @@ El SNIF mantiene comunicación con las siguientes plataformas externas, esencial
 
 > **Descripción:** Representa los principales contenedores del SNIF (Frontend, Backend y Base de Datos) y su interacción con los sistemas externos (Keycloak, ArcGIS Enterprise, ArcGIS Online y Power BI).
 
-<img src="assets/02_contenedores.png" class="zoomable" />
+[![Contenedores](assets/02_contenedores.png)](assets/02_contenedores.png)
 
 ---
 

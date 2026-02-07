@@ -1,3 +1,7 @@
+---
+title: Casos de prueba
+description: Casos de prueba aplicables para la implementación SNIF
+---
 # Casos de prueba
 
 ## Descripción

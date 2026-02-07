@@ -1,3 +1,7 @@
+---
+title: Nivel 3
+description: Arquitectura C4, Nivel 3
+---
 # Modelo C4 – Nivel 3: Componentes Internos del Sistema
 
 ## 3.1 Descripción general
@@ -87,7 +91,7 @@ El SNIF mantiene una **arquitectura interoperable** mediante integraciones con s
 4. Los resultados se devuelven al **Frontend** o se publican en plataformas externas como **Power BI** o **ArcGIS Online**.
 5. **ArcGIS Enterprise** mantiene sincronización de datos espaciales, permitiendo que el Backend acceda a servicios geográficos o actualice capas.
 
-<img src="assets/03_componentes.png" class="zoomable" />
+[![Componentes](assets/03_componentes.png)](assets/03_componentes.png)
 
 ---
 

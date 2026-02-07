@@ -1,3 +1,7 @@
+---
+title: UX / UI
+description: Experiencia en interface de Usuario del modulo de restauración.
+---
 # Lineamientos de Diseño del SNIF Restauración
 
 Este documento compila los **principios, lineamientos y recursos de diseño visual y de experiencia de usuario (UX/UI)** definidos para el **Módulo de Restauración del SNIF**.  
