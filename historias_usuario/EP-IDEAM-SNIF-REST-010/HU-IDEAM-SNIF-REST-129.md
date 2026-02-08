@@ -119,3 +119,7 @@
 - Registrar obligatoriamente cada evento de descarga.
 - Incluir información completa de trazabilidad.
 - Garantizar persistencia de registros de auditoría.
+
+## DIAGRAMA DE FLUJO DEL PROCESO
+
+[![IMAGEN FLUJO DE ACTIVIDADES](assets/actividades-hu-ideam-snif-rest-129.png)](assets/actividades-hu-ideam-snif-rest-129.png)

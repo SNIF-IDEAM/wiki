@@ -167,3 +167,7 @@
 - **Create (C):** Registro obligatorio de cada evento de descarga.
 - **Read (R):** Consulta de logs exclusivamente por administradores.
 - No aplica Update ni Delete (inmutabilidad de logs).
+
+## DIAGRAMA DE FLUJO DEL PROCESO
+
+[![IMAGEN FLUJO DE ACTIVIDADES](assets/actividades-hu-ideam-snif-rest-133.png)](assets/actividades-hu-ideam-snif-rest-133.png)

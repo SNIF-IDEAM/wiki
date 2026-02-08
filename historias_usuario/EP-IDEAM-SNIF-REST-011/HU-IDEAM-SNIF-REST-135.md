@@ -153,3 +153,7 @@
 **CRUD específico:**
 - **Read:** Consulta de listado de capas (todos los usuarios).
 - **Update:** Edición de metadatos solo por Administrador desde interfaz de administración.
+
+## DIAGRAMA DE FLUJO DEL PROCESO
+
+[![IMAGEN FLUJO DE ACTIVIDADES](assets/actividades-hu-ideam-snif-rest-135.png)](assets/actividades-hu-ideam-snif-rest-135.png)

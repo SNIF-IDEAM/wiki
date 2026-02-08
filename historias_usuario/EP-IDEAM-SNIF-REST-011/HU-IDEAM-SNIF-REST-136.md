@@ -147,3 +147,7 @@
 
 **CRUD específico:**
 - **Read:** Consulta y búsqueda de capas (todos los usuarios según permisos).
+
+## DIAGRAMA DE FLUJO DEL PROCESO
+
+[![IMAGEN FLUJO DE ACTIVIDADES](assets/actividades-hu-ideam-snif-rest-136.png)](assets/actividades-hu-ideam-snif-rest-136.png)

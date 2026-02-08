@@ -140,3 +140,7 @@
 - Aplicar límites diferenciados según perfil de usuario.
 - Validar que las restricciones se cumplan antes de permitir la descarga.
 - Informar claramente las restricciones aplicadas al usuario.
+
+## DIAGRAMA DE FLUJO DEL PROCESO
+
+[![IMAGEN FLUJO DE ACTIVIDADES](assets/actividades-hu-ideam-snif-rest-130.png)](assets/actividades-hu-ideam-snif-rest-130.png)

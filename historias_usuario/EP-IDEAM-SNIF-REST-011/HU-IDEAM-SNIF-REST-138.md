@@ -176,3 +176,7 @@
 - Mostrar indicadores de carga durante la operación.
 - Informar sobre restricciones o limitaciones cuando apliquen.
 - Sugerir acciones correctivas en caso de error.
+
+## DIAGRAMA DE FLUJO DEL PROCESO
+
+[![IMAGEN FLUJO DE ACTIVIDADES](assets/actividades-hu-ideam-snif-rest-138.png)](assets/actividades-hu-ideam-snif-rest-138.png)

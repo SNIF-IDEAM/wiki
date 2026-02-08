@@ -139,3 +139,7 @@
 **CRUD específico:**
 - **Read:** Consulta de ejes temáticos y conteo de capas (todos los usuarios).
 - **Create / Update / Delete:** Solo para rol Administrador desde interfaz de administración separada.
+
+## DIAGRAMA DE FLUJO DEL PROCESO
+
+[![IMAGEN FLUJO DE ACTIVIDADES](assets/actividades-hu-ideam-snif-rest-134.png)](assets/actividades-hu-ideam-snif-rest-134.png)
