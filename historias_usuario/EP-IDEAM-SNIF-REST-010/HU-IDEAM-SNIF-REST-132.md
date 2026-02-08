@@ -141,3 +141,7 @@
 - Evitar pasos innecesarios en el flujo de descarga.
 - Proporcionar retroalimentación visual clara de la selección realizada.
 - Permitir cancelar y cambiar de formato antes de iniciar la descarga.
+
+## DIAGRAMA DE FLUJO DEL PROCESO
+
+[![IMAGEN FLUJO DE ACTIVIDADES](assets/actividades-hu-ideam-snif-rest-132.png)](assets/actividades-hu-ideam-snif-rest-132.png)
