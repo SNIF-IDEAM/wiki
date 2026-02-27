@@ -1,5 +1,5 @@
 ---
-title: Documento de prueba
+title: Documento de prueba2
 description: Se está probando un submodulo
 ---
 
