@@ -2,6 +2,6 @@
 title: restauracion2
 ---
 
-ACTUALIZACIÓN CON TITULO
+# ACTUALIZACIÓN CON TITULO
 
-- [Descripción restauración](/restauracion2/descripcion.md)
+[Descripción restauración](/restauracion2/descripcion.md)
