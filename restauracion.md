@@ -1,1 +1,0 @@
-- [Descripción restauración](/restauracion/descripcion.md)
