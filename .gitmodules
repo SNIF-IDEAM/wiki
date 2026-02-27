@@ -1,0 +1,3 @@
+[submodule "restauracion"]
+	path = restauracion
+	url = https://github.com/SNIF-IDEAM/wikijs_prueba_submodulo.git
