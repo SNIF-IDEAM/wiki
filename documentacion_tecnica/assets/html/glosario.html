@@ -22,7 +22,7 @@ document.addEventListener("DOMContentLoaded", () => {
   const table = document.getElementById("jsonTable");
   if (!table) return;
 
-  fetch("/assets/json/glosario.json")
+  fetch("../assets/json/glosario.json")
     .then(r => r.json())
     .then(data => {
 
