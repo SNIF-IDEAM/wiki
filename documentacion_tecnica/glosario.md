@@ -15,18 +15,15 @@ La elaboración del glosario responde a la necesidad de contar con un instrument
 ## Listado
 
 <input
-  id="filterInput"
-  type="text"
-  placeholder="Filtrar..."
-  style="
-    padding: 8px;
-    margin-bottom: 10px;
-    width: 300px;
-    font-size: 14px;
-  "
+      id="filterInput"
+      type="text"
+      placeholder="Filtrar..."
+      style="padding: 8px; margin-bottom: 10px; width: 300px; font-size: 14px"
+      oninput="filtrar(this.value)"
 />
-
-<table id="jsonTable" border="1" cellpadding="5" style="border-collapse: collapse;">
-  <thead></thead>
-  <tbody></tbody>
-</table>
+<table
+      id="jsonTable"
+      border="1"
+      cellpadding="5"
+      style="border-collapse: collapse; width: 100%"
+></table>
