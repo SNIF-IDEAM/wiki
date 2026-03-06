@@ -1,19 +1,24 @@
-<!DOCTYPE html>
+<!doctype html>
 <html lang="es">
-<head>
-<meta charset="UTF-8">
-<title>Glosario</title>
-</head>
+  <head>
+    <meta charset="UTF-8" />
+    <title>Glosario</title>
+  </head>
 
-<body>
-<input
-  id="filterInput"
-  type="text"
-  placeholder="Filtrar..."
-  style="padding:8px;margin-bottom:10px;width:300px;font-size:14px;"
-  oninput="console.log('Filtrando...');"
-/>
+  <body>
+    <input
+      id="filterInput"
+      type="text"
+      placeholder="Filtrar..."
+      style="padding: 8px; margin-bottom: 10px; width: 300px; font-size: 14px"
+      oninput="filtrar(this.value)"
+    />
 
-<table id="jsonTable" border="1" cellpadding="5" style="border-collapse: collapse; width:100%;"></table>
-</body>
+    <table
+      id="jsonTable"
+      border="1"
+      cellpadding="5"
+      style="border-collapse: collapse; width: 100%"
+    ></table>
+  </body>
 </html>
