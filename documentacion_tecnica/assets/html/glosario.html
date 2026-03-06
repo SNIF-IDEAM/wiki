@@ -1,36 +1,34 @@
-<!DOCTYPE html>
+<!doctype html>
 <html lang="es">
-<head>
-<meta charset="UTF-8">
-<title>Glosario</title>
-</head>
+  <head>
+    <meta charset="UTF-8" />
+    <title>Glosario</title>
+  </head>
 
-<body>
+  <body>
+    <input
+      id="filterInput"
+      type="text"
+      placeholder="Filtrar..."
+      style="padding: 8px; margin-bottom: 10px; width: 300px; font-size: 14px"
+      oninput="filtrar(this.value)"
+    />
 
-<input
-  id="filterInput"
-  type="text"
-  placeholder="Filtrar..."
-  style="padding:8px;margin-bottom:10px;width:300px;font-size:14px;"
-  oninput="console.log('Filtrando...');"
-/>
+    <table
+      id="jsonTable"
+      border="1"
+      cellpadding="5"
+      style="border-collapse: collapse; width: 100%"
+    ></table>
 
-<table id="jsonTable" border="1" cellpadding="5" style="border-collapse: collapse; width:100%;"></table>
+    <script>
+      let jsonDataCopy = [];
+      let jsonData = [];
+      console.log("Cargando glosario...");
 
-<script>
-
-  console.log("Cargando glosario...");
-document.addEventListener("DOMContentLoaded", () => {
-
-  const table = document.getElementById("jsonTable");
-  if (!table) return;
-
-  fetch("../assets/json/glosario.json")
-    .then(r => r.json())
-    .then(data => {
+      const table = document.getElementById("jsonTable");
 
       function render(rows) {
-
         const thead = `
           <tr>
             <th>ID</th>
@@ -39,13 +37,17 @@ document.addEventListener("DOMContentLoaded", () => {
           </tr>
         `;
 
-        const tbody = rows.map(row => `
+        const tbody = rows
+          .map(
+            (row) => `
           <tr>
             <td>${row.id}</td>
             <td>${row.term}</td>
             <td>${row.definition}</td>
           </tr>
-        `).join("");
+        `,
+          )
+          .join("");
 
         table.innerHTML = `
           <thead>${thead}</thead>
@@ -53,28 +55,28 @@ document.addEventListener("DOMContentLoaded", () => {
         `;
       }
 
-      render(data);
+      const filtrar = (value) => {
+        const v = value.toLowerCase();
 
-      const input = document.getElementById("filterInput");
+        if (!v) {
+          render(jsonDataCopy);
+        }
 
-      if (input) {
-        input.addEventListener("input", () => {
+        render(
+          jsonData.filter((obj) =>
+            JSON.stringify(obj).toLowerCase().includes(v),
+          ),
+        );
+      };
 
-          const v = input.value.toLowerCase();
+      fetch("../json/glosario.json")
+        .then((r) => r.json())
+        .then((data) => {
+          jsonData = data;
+          jsonDataCopy = data;
 
-          render(
-            data.filter(obj =>
-              JSON.stringify(obj).toLowerCase().includes(v)
-            )
-          );
-
+          render(data);
         });
-      }
-
-    });
-
-});
-</script>
-
-</body>
+    </script>
+  </body>
 </html>
