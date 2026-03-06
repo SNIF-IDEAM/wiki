@@ -1,9 +1,9 @@
 let jsonData = [];
 let jsonDataCopy = [];
 
-const table = document.getElementById("jsonTable");
-
 function render(rows) {
+  const table = document.getElementById("jsonTable");
+
   const thead = `
         <tr>
           <th>ID</th>
