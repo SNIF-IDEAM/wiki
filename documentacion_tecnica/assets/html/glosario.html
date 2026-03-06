@@ -1,24 +1,84 @@
-<!doctype html>
+<!DOCTYPE html>
 <html lang="es">
-  <head>
-    <meta charset="UTF-8" />
-    <title>Glosario</title>
-  </head>
+<head>
+<meta charset="UTF-8">
+<title>Glosario</title>
+</head>
 
-  <body>
-    <input
-      id="filterInput"
-      type="text"
-      placeholder="Filtrar..."
-      style="padding: 8px; margin-bottom: 10px; width: 300px; font-size: 14px"
-      oninput="filtrar(this.value)"
-    />
+<body>
+<h1 id="snif-gts-glosario-de-términos" class="toc-header"> SNIF-GTS Glosario de términos</h1>
+<h2 id="descripción" class="toc-header"> Descripción</h2>
+<p>El Glosario de Términos del Sistema Nacional de Información Forestal (SNIF-GTS) se concibe como una herramienta de referencia que facilita la comprensión común entre actores técnicos, institucionales y comunitarios vinculados a la gestión de la información forestal en Colombia. Su propósito es unificar criterios, fortalecer la comunicación y garantizar un lenguaje estandarizado en el marco de los procesos asociados a la generación, análisis y divulgación de información ambiental y forestal.</p>
+<p>Este glosario incorpora términos técnicos y temáticos que surgen tanto del ámbito de las tecnologías de la información como del contexto ambiental y forestal. Así, se constituye en un documento de apoyo para la interacción entre especialistas en sistemas de información geográfica, gestores de datos, formuladores de políticas públicas y comunidades académicas o locales que participan en la construcción de conocimiento.</p>
+<p>La elaboración del glosario responde a la necesidad de contar con un instrumento dinámico, actualizado y de fácil consulta, que se ajuste a las exigencias de los compromisos nacionales e internacionales en materia de conservación, restauración y gestión sostenible de los recursos naturales.</p>
+<h2 id="listado" class="toc-header"> Listado</h2>
+<input
+  id="filterInput"
+  type="text"
+  placeholder="Filtrar..."
+  style="padding:8px;margin-bottom:10px;width:300px;font-size:14px;"
+  oninput="console.log('Filtrando...');"
+/>
 
-    <table
-      id="jsonTable"
-      border="1"
-      cellpadding="5"
-      style="border-collapse: collapse; width: 100%"
-    ></table>
-  </body>
+<table id="jsonTable" border="1" cellpadding="5" style="border-collapse: collapse; width:100%;"></table>
+
+<script>
+
+document.addEventListener("DOMContentLoaded", () => {
+
+  const table = document.getElementById("jsonTable");
+  if (!table) return;
+
+  fetch("../assets/json/glosario.json")
+    .then(r => r.json())
+    .then(data => {
+
+      function render(rows) {
+
+        const thead = `
+          <tr>
+            <th>ID</th>
+            <th>Término</th>
+            <th>Definición</th>
+          </tr>
+        `;
+
+        const tbody = rows.map(row => `
+          <tr>
+            <td>${row.id}</td>
+            <td>${row.term}</td>
+            <td>${row.definition}</td>
+          </tr>
+        `).join("");
+
+        table.innerHTML = `
+          <thead>${thead}</thead>
+          <tbody>${tbody}</tbody>
+        `;
+      }
+
+      render(data);
+
+      const input = document.getElementById("filterInput");
+
+      if (input) {
+        input.addEventListener("input", () => {
+
+          const v = input.value.toLowerCase();
+
+          render(
+            data.filter(obj =>
+              JSON.stringify(obj).toLowerCase().includes(v)
+            )
+          );
+
+        });
+      }
+
+    });
+
+});
+</script>
+
+</body>
 </html>
