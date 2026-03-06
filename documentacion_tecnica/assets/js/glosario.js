@@ -36,7 +36,7 @@ window.filtrar = (value) => {
 };
 
 window.boot.register("page-ready", () => {
-  fetch("../json/glosario.json")
+  fetch("json/glosario.json")
     .then((r) => r.json())
     .then((data) => {
       jsonData = data;
