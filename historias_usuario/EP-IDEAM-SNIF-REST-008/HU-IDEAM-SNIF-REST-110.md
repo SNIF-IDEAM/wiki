@@ -96,4 +96,4 @@
 
 ## DIAGRAMA DE FLUJO DEL PROCESO
 
-[![IMAGEN FLUJO DE ACTIVIDADES](/historias_usuario/EP-IDEAM-SNIF-REST-008/assets/actividades-hu-ideam-snif-rest-110.png)](/historias_usuario/EP-IDEAM-SNIF-REST-008/assets/actividades-hu-ideam-snif-rest-110.png)
+[![IMAGEN FLUJO DE ACTIVIDADES](assets/actividades-hu-ideam-snif-rest-110.png)](assets/actividades-hu-ideam-snif-rest-110.png)

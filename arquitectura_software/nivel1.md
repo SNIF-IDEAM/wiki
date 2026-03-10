@@ -83,5 +83,5 @@ Los sistemas externos —**Keycloak**, **ArcGIS Online**, **ArcGIS Enterprise** 
 
 ## Enlaces relacionados
 
-- [Modelo C4 – Nivel 2: Contenedores](/arquitectura_software/nivel2.md)
-- [Modelo C4 – Nivel 3: Componentes](/arquitectura_software/nivel3.md)
+- [Modelo C4 – Nivel 2: Contenedores](nivel2.md)
+- [Modelo C4 – Nivel 3: Componentes](nivel3.md)

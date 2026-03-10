@@ -27,11 +27,11 @@ Con ello, el sistema asegura la calidad, coherencia y gobernanza de los contenid
 
 ## 3. Historias de usuario asociadas
 
-- [**HU-IDEAM-SNIF-REST-143:** Crear reporte o material de apropiación](/historias_usuario/EP-IDEAM-SNIF-REST-013/HU-IDEAM-SNIF-REST-143.md)
-- [**HU-IDEAM-SNIF-REST-144:** Editar reporte o material existente](/historias_usuario/EP-IDEAM-SNIF-REST-013/HU-IDEAM-SNIF-REST-144.md)
-- [**HU-IDEAM-SNIF-REST-145:** Activar o desactivar visibilidad de reportes](/historias_usuario/EP-IDEAM-SNIF-REST-013/HU-IDEAM-SNIF-REST-145.md)
-- [**HU-IDEAM-SNIF-REST-146:** Eliminar reporte o material de apropiación](/historias_usuario/EP-IDEAM-SNIF-REST-013/HU-IDEAM-SNIF-REST-146.md)
-- [**HU-IDEAM-SNIF-REST-147:** Visualizar listado administrativo de reportes](/historias_usuario/EP-IDEAM-SNIF-REST-013/HU-IDEAM-SNIF-REST-147.md)
+- [**HU-IDEAM-SNIF-REST-143:** Crear reporte o material de apropiación](EP-IDEAM-SNIF-REST-013/HU-IDEAM-SNIF-REST-143.md)
+- [**HU-IDEAM-SNIF-REST-144:** Editar reporte o material existente](EP-IDEAM-SNIF-REST-013/HU-IDEAM-SNIF-REST-144.md)
+- [**HU-IDEAM-SNIF-REST-145:** Activar o desactivar visibilidad de reportes](EP-IDEAM-SNIF-REST-013/HU-IDEAM-SNIF-REST-145.md)
+- [**HU-IDEAM-SNIF-REST-146:** Eliminar reporte o material de apropiación](EP-IDEAM-SNIF-REST-013/HU-IDEAM-SNIF-REST-146.md)
+- [**HU-IDEAM-SNIF-REST-147:** Visualizar listado administrativo de reportes](EP-IDEAM-SNIF-REST-013/HU-IDEAM-SNIF-REST-147.md)
 
 ## 4. Riesgos
 

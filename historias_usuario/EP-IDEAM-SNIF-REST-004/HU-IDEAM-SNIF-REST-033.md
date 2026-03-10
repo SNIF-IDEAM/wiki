@@ -60,7 +60,7 @@
 6. **Validaciones del dato**\
    6.1 El sistema valida la obligatoriedad de los campos según las reglas definidas.\
    6.2 El sistema aplica validaciones de integridad referencial con los catálogos definidos en la Épica 003.\
-   6.3 El sistema aplica las reglas de unicidad del proyecto definidas en la [HU-IDEAM-SNIF-REST-050](/historias_usuario/EP-IDEAM-SNIF-REST-004/HU-IDEAM-SNIF-REST-050.md).
+   6.3 El sistema aplica las reglas de unicidad del proyecto definidas en la [HU-IDEAM-SNIF-REST-050](HU-IDEAM-SNIF-REST-050.md).
 
 7. **Persistencia y auditoría**\
    7.1 El sistema guarda los cambios realizados por el Registrador.\

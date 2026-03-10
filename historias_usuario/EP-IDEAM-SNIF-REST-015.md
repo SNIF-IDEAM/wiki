@@ -25,21 +25,21 @@ Gestionar de forma centralizada, controlada y trazable la semántica del dominio
 
 ## 3. Historias de usuario asociadas
 
-- [**HU-IDEAM-SNIF-REST-152:** Crear Concepto](/historias_usuario/EP-IDEAM-SNIF-REST-015/HU-IDEAM-SNIF-REST-152.md)
-- [**HU-IDEAM-SNIF-REST-153:** Modificar Concepto](/historias_usuario/EP-IDEAM-SNIF-REST-015/HU-IDEAM-SNIF-REST-153.md)
-- [**HU-IDEAM-SNIF-REST-154:** Cambiar Estado de Concepto](/historias_usuario/EP-IDEAM-SNIF-REST-015/HU-IDEAM-SNIF-REST-154.md)
-- [**HU-IDEAM-SNIF-REST-155:** Consultar/Listar Conceptos](/historias_usuario/EP-IDEAM-SNIF-REST-015/HU-IDEAM-SNIF-REST-155.md)
-- [**HU-IDEAM-SNIF-REST-156:** Crear Nueva Versión de Concepto](/historias_usuario/EP-IDEAM-SNIF-REST-015/HU-IDEAM-SNIF-REST-156.md)
-- [**HU-IDEAM-SNIF-REST-157:** Finalizar Vigencia de Versión](/historias_usuario/EP-IDEAM-SNIF-REST-015/HU-IDEAM-SNIF-REST-157.md)
-- [**HU-IDEAM-SNIF-REST-158:** Consultar Historial de Versiones](/historias_usuario/EP-IDEAM-SNIF-REST-015/HU-IDEAM-SNIF-REST-158.md)
-- [**HU-IDEAM-SNIF-REST-159:** Crear Término](/historias_usuario/EP-IDEAM-SNIF-REST-015/HU-IDEAM-SNIF-REST-159.md)
-- [**HU-IDEAM-SNIF-REST-160:** Asociar Término a Concepto](/historias_usuario/EP-IDEAM-SNIF-REST-015/HU-IDEAM-SNIF-REST-160.md)
-- [**HU-IDEAM-SNIF-REST-161:** Crear Relación entre Conceptos](/historias_usuario/EP-IDEAM-SNIF-REST-015/HU-IDEAM-SNIF-REST-161.md)
-- [**HU-IDEAM-SNIF-REST-162:** Consultar Red Semántica](/historias_usuario/EP-IDEAM-SNIF-REST-015/HU-IDEAM-SNIF-REST-162.md)
-- [**HU-IDEAM-SNIF-REST-163:** Registrar Área de Restauración con Concepto](/historias_usuario/EP-IDEAM-SNIF-REST-015/HU-IDEAM-SNIF-REST-163.md)
-- [**HU-IDEAM-SNIF-REST-164:** Actualizar Versión de Concepto en Áreas Restauradas](/historias_usuario/EP-IDEAM-SNIF-REST-015/HU-IDEAM-SNIF-REST-164.md)
-- [**HU-IDEAM-SNIF-REST-165:** Consultar Proyectos y Áreas Restauradas por Concepto/Versión](/historias_usuario/EP-IDEAM-SNIF-REST-015/HU-IDEAM-SNIF-REST-165.md)
-- [**HU-IDEAM-SNIF-REST-166:** Consultar Trazabilidad Completa](/historias_usuario/EP-IDEAM-SNIF-REST-015/HU-IDEAM-SNIF-REST-166.md)
+- [**HU-IDEAM-SNIF-REST-152:** Crear Concepto](EP-IDEAM-SNIF-REST-015/HU-IDEAM-SNIF-REST-152.md)
+- [**HU-IDEAM-SNIF-REST-153:** Modificar Concepto](EP-IDEAM-SNIF-REST-015/HU-IDEAM-SNIF-REST-153.md)
+- [**HU-IDEAM-SNIF-REST-154:** Cambiar Estado de Concepto](EP-IDEAM-SNIF-REST-015/HU-IDEAM-SNIF-REST-154.md)
+- [**HU-IDEAM-SNIF-REST-155:** Consultar/Listar Conceptos](EP-IDEAM-SNIF-REST-015/HU-IDEAM-SNIF-REST-155.md)
+- [**HU-IDEAM-SNIF-REST-156:** Crear Nueva Versión de Concepto](EP-IDEAM-SNIF-REST-015/HU-IDEAM-SNIF-REST-156.md)
+- [**HU-IDEAM-SNIF-REST-157:** Finalizar Vigencia de Versión](EP-IDEAM-SNIF-REST-015/HU-IDEAM-SNIF-REST-157.md)
+- [**HU-IDEAM-SNIF-REST-158:** Consultar Historial de Versiones](EP-IDEAM-SNIF-REST-015/HU-IDEAM-SNIF-REST-158.md)
+- [**HU-IDEAM-SNIF-REST-159:** Crear Término](EP-IDEAM-SNIF-REST-015/HU-IDEAM-SNIF-REST-159.md)
+- [**HU-IDEAM-SNIF-REST-160:** Asociar Término a Concepto](EP-IDEAM-SNIF-REST-015/HU-IDEAM-SNIF-REST-160.md)
+- [**HU-IDEAM-SNIF-REST-161:** Crear Relación entre Conceptos](EP-IDEAM-SNIF-REST-015/HU-IDEAM-SNIF-REST-161.md)
+- [**HU-IDEAM-SNIF-REST-162:** Consultar Red Semántica](EP-IDEAM-SNIF-REST-015/HU-IDEAM-SNIF-REST-162.md)
+- [**HU-IDEAM-SNIF-REST-163:** Registrar Área de Restauración con Concepto](EP-IDEAM-SNIF-REST-015/HU-IDEAM-SNIF-REST-163.md)
+- [**HU-IDEAM-SNIF-REST-164:** Actualizar Versión de Concepto en Áreas Restauradas](EP-IDEAM-SNIF-REST-015/HU-IDEAM-SNIF-REST-164.md)
+- [**HU-IDEAM-SNIF-REST-165:** Consultar Proyectos y Áreas Restauradas por Concepto/Versión](EP-IDEAM-SNIF-REST-015/HU-IDEAM-SNIF-REST-165.md)
+- [**HU-IDEAM-SNIF-REST-166:** Consultar Trazabilidad Completa](EP-IDEAM-SNIF-REST-015/HU-IDEAM-SNIF-REST-166.md)
 
 ## 4. Riesgos
 

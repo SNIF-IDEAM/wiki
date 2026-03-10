@@ -27,16 +27,16 @@ Permitir a los usuarios del módulo de restauración del SNIF realizar consultas
 
 ## 3. Historias de usuario asociadas
 
-- [**HU-IDEAM-SNIF-REST-236:** Acceso a la consulta espacial](/historias_usuario/EP-IDEAM-SNIF-REST-025/HU-IDEAM-SNIF-REST-236.md)
-- [**HU-IDEAM-SNIF-REST-237:** Dibujo de geometría para consulta espacial](/historias_usuario/EP-IDEAM-SNIF-REST-025/HU-IDEAM-SNIF-REST-237.md)
-- [**HU-IDEAM-SNIF-REST-238:** Selección del tipo de objeto a consultar espacialmente](/historias_usuario/EP-IDEAM-SNIF-REST-025/HU-IDEAM-SNIF-REST-238.md)
-- [**HU-IDEAM-SNIF-REST-239:** Cruce espacial automático con la geometría dibujada](/historias_usuario/EP-IDEAM-SNIF-REST-025/HU-IDEAM-SNIF-REST-239.md)
-- [**HU-IDEAM-SNIF-REST-240:** Ejecución y limpieza de la consulta espacial](/historias_usuario/EP-IDEAM-SNIF-REST-025/HU-IDEAM-SNIF-REST-240.md)
-- [**HU-IDEAM-SNIF-REST-241:** Visualización de resultados por proyectos](/historias_usuario/EP-IDEAM-SNIF-REST-025/HU-IDEAM-SNIF-REST-241.md)
-- [**HU-IDEAM-SNIF-REST-242:** Visualización de áreas restauradas asociadas a un proyecto](/historias_usuario/EP-IDEAM-SNIF-REST-025/HU-IDEAM-SNIF-REST-242.md)
-- [**HU-IDEAM-SNIF-REST-243:** Enfoque automático en el mapa desde los resultados](/historias_usuario/EP-IDEAM-SNIF-REST-025/HU-IDEAM-SNIF-REST-243.md)
-- [**HU-IDEAM-SNIF-REST-244:** Exportación de resultados de la consulta espacial](/historias_usuario/EP-IDEAM-SNIF-REST-025/HU-IDEAM-SNIF-REST-244.md)
-- [**HU-IDEAM-SNIF-REST-245:** Integración de la consulta espacial con el visor](/historias_usuario/EP-IDEAM-SNIF-REST-025/HU-IDEAM-SNIF-REST-245.md)
+- [**HU-IDEAM-SNIF-REST-236:** Acceso a la consulta espacial](EP-IDEAM-SNIF-REST-025/HU-IDEAM-SNIF-REST-236.md)
+- [**HU-IDEAM-SNIF-REST-237:** Dibujo de geometría para consulta espacial](EP-IDEAM-SNIF-REST-025/HU-IDEAM-SNIF-REST-237.md)
+- [**HU-IDEAM-SNIF-REST-238:** Selección del tipo de objeto a consultar espacialmente](EP-IDEAM-SNIF-REST-025/HU-IDEAM-SNIF-REST-238.md)
+- [**HU-IDEAM-SNIF-REST-239:** Cruce espacial automático con la geometría dibujada](EP-IDEAM-SNIF-REST-025/HU-IDEAM-SNIF-REST-239.md)
+- [**HU-IDEAM-SNIF-REST-240:** Ejecución y limpieza de la consulta espacial](EP-IDEAM-SNIF-REST-025/HU-IDEAM-SNIF-REST-240.md)
+- [**HU-IDEAM-SNIF-REST-241:** Visualización de resultados por proyectos](EP-IDEAM-SNIF-REST-025/HU-IDEAM-SNIF-REST-241.md)
+- [**HU-IDEAM-SNIF-REST-242:** Visualización de áreas restauradas asociadas a un proyecto](EP-IDEAM-SNIF-REST-025/HU-IDEAM-SNIF-REST-242.md)
+- [**HU-IDEAM-SNIF-REST-243:** Enfoque automático en el mapa desde los resultados](EP-IDEAM-SNIF-REST-025/HU-IDEAM-SNIF-REST-243.md)
+- [**HU-IDEAM-SNIF-REST-244:** Exportación de resultados de la consulta espacial](EP-IDEAM-SNIF-REST-025/HU-IDEAM-SNIF-REST-244.md)
+- [**HU-IDEAM-SNIF-REST-245:** Integración de la consulta espacial con el visor](EP-IDEAM-SNIF-REST-025/HU-IDEAM-SNIF-REST-245.md)
 
 ## 4. Riesgos
 

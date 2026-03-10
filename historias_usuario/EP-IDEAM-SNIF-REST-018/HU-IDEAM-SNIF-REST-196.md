@@ -50,7 +50,7 @@
 - El recalculo de áreas y traslapes es obligatorio tras la confirmación.
 - No se permiten confirmaciones parciales.
 - La cancelación no genera cambios de estado ni registros espaciales.
-- Esta HU depende directamente de la - [**HU-IDEAM-SNIF-REST-197:** Validaciones geométricas en carga de archivo](/content/historias_usuario/EP-IDEAM-SNIF-REST-018/HU-IDEAM-SNIF-REST-197.md).
+- Esta HU depende directamente de la - [**HU-IDEAM-SNIF-REST-197:** Validaciones geométricas en carga de archivo](HU-IDEAM-SNIF-REST-197.md).
 
 ## DIAGRAMA DE FLUJO DEL PROCESO
 

@@ -16,22 +16,22 @@ Permitir la carga, consulta, actualización, control de vigencia y trazabilidad 
 
 ## 3. Historias de usuario asociadas
 
-- [**HU-IDEAM-SNIF-REST-090:** Cargar adjuntos a un proyecto](/historias_usuario/EP-IDEAM-SNIF-REST-006/HU-IDEAM-SNIF-REST-090.md)
-- [**HU-IDEAM-SNIF-REST-091:** Validar tamaño máximo del archivo](/historias_usuario/EP-IDEAM-SNIF-REST-006/HU-IDEAM-SNIF-REST-091.md)
-- [**HU-IDEAM-SNIF-REST-092:** Validar formato del archivo adjunto](/historias_usuario/EP-IDEAM-SNIF-REST-006/HU-IDEAM-SNIF-REST-092.md)
-- [**HU-IDEAM-SNIF-REST-093:** Listar adjuntos asociados a un proyecto](/historias_usuario/EP-IDEAM-SNIF-REST-006/HU-IDEAM-SNIF-REST-093.md)
-- [**HU-IDEAM-SNIF-REST-094:** Descargar adjuntos](/historias_usuario/EP-IDEAM-SNIF-REST-006/HU-IDEAM-SNIF-REST-094.md)
-- [**HU-IDEAM-SNIF-REST-095:** Editar descripción del adjunto](/historias_usuario/EP-IDEAM-SNIF-REST-006/HU-IDEAM-SNIF-REST-095.md)
-- [**HU-IDEAM-SNIF-REST-096:** Actualizar fecha de modificación del adjunto](/historias_usuario/EP-IDEAM-SNIF-REST-006/HU-IDEAM-SNIF-REST-096.md)
-- [**HU-IDEAM-SNIF-REST-097:** Activar o inactivar adjuntos (borrado lógico)](/historias_usuario/EP-IDEAM-SNIF-REST-006/HU-IDEAM-SNIF-REST-097.md)
-- [**HU-IDEAM-SNIF-REST-098:** Validar existencia del registro relacionado](/historias_usuario/EP-IDEAM-SNIF-REST-006/HU-IDEAM-SNIF-REST-098.md)
-- [**HU-IDEAM-SNIF-REST-099:** Restringir tipos de relación del adjunto](/historias_usuario/EP-IDEAM-SNIF-REST-006/HU-IDEAM-SNIF-REST-099.md)
-- [**HU-IDEAM-SNIF-REST-100:** Trazabilidad por esquema relacionado](/historias_usuario/EP-IDEAM-SNIF-REST-006/HU-IDEAM-SNIF-REST-100.md)
-- [**HU-IDEAM-SNIF-REST-101:** Control de unicidad de adjuntos (cuando aplica)](/historias_usuario/EP-IDEAM-SNIF-REST-006/HU-IDEAM-SNIF-REST-101.md)
-- [**HU-IDEAM-SNIF-REST-102:** Auditoría y trazabilidad de adjuntos](/historias_usuario/EP-IDEAM-SNIF-REST-006/HU-IDEAM-SNIF-REST-102.md)
-- [**HU-IDEAM-SNIF-REST-103:** Control de acceso por rol (adjuntos)](/historias_usuario/EP-IDEAM-SNIF-REST-006/HU-IDEAM-SNIF-REST-103.md)
-- [**HU-IDEAM-SNIF-REST-104:** Visualizar adjuntos según estado del proyecto](/historias_usuario/EP-IDEAM-SNIF-REST-006/HU-IDEAM-SNIF-REST-104.md)
-- [**HU-IDEAM-SNIF-REST-105:** Clasificar adjuntos por tipo documental](/historias_usuario/EP-IDEAM-SNIF-REST-006/HU-IDEAM-SNIF-REST-105.md)
+- [**HU-IDEAM-SNIF-REST-090:** Cargar adjuntos a un proyecto](EP-IDEAM-SNIF-REST-006/HU-IDEAM-SNIF-REST-090.md)
+- [**HU-IDEAM-SNIF-REST-091:** Validar tamaño máximo del archivo](EP-IDEAM-SNIF-REST-006/HU-IDEAM-SNIF-REST-091.md)
+- [**HU-IDEAM-SNIF-REST-092:** Validar formato del archivo adjunto](EP-IDEAM-SNIF-REST-006/HU-IDEAM-SNIF-REST-092.md)
+- [**HU-IDEAM-SNIF-REST-093:** Listar adjuntos asociados a un proyecto](EP-IDEAM-SNIF-REST-006/HU-IDEAM-SNIF-REST-093.md)
+- [**HU-IDEAM-SNIF-REST-094:** Descargar adjuntos](EP-IDEAM-SNIF-REST-006/HU-IDEAM-SNIF-REST-094.md)
+- [**HU-IDEAM-SNIF-REST-095:** Editar descripción del adjunto](EP-IDEAM-SNIF-REST-006/HU-IDEAM-SNIF-REST-095.md)
+- [**HU-IDEAM-SNIF-REST-096:** Actualizar fecha de modificación del adjunto](EP-IDEAM-SNIF-REST-006/HU-IDEAM-SNIF-REST-096.md)
+- [**HU-IDEAM-SNIF-REST-097:** Activar o inactivar adjuntos (borrado lógico)](EP-IDEAM-SNIF-REST-006/HU-IDEAM-SNIF-REST-097.md)
+- [**HU-IDEAM-SNIF-REST-098:** Validar existencia del registro relacionado](EP-IDEAM-SNIF-REST-006/HU-IDEAM-SNIF-REST-098.md)
+- [**HU-IDEAM-SNIF-REST-099:** Restringir tipos de relación del adjunto](EP-IDEAM-SNIF-REST-006/HU-IDEAM-SNIF-REST-099.md)
+- [**HU-IDEAM-SNIF-REST-100:** Trazabilidad por esquema relacionado](EP-IDEAM-SNIF-REST-006/HU-IDEAM-SNIF-REST-100.md)
+- [**HU-IDEAM-SNIF-REST-101:** Control de unicidad de adjuntos (cuando aplica)](EP-IDEAM-SNIF-REST-006/HU-IDEAM-SNIF-REST-101.md)
+- [**HU-IDEAM-SNIF-REST-102:** Auditoría y trazabilidad de adjuntos](EP-IDEAM-SNIF-REST-006/HU-IDEAM-SNIF-REST-102.md)
+- [**HU-IDEAM-SNIF-REST-103:** Control de acceso por rol (adjuntos)](EP-IDEAM-SNIF-REST-006/HU-IDEAM-SNIF-REST-103.md)
+- [**HU-IDEAM-SNIF-REST-104:** Visualizar adjuntos según estado del proyecto](EP-IDEAM-SNIF-REST-006/HU-IDEAM-SNIF-REST-104.md)
+- [**HU-IDEAM-SNIF-REST-105:** Clasificar adjuntos por tipo documental](EP-IDEAM-SNIF-REST-006/HU-IDEAM-SNIF-REST-105.md)
 
 ---
 

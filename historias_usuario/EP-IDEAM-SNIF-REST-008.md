@@ -48,15 +48,15 @@ Este principio garantiza una solución **institucional, consistente y escalable*
 
 ## 4. Historias de usuario asociadas
 
-- [**HU-IDEAM-SNIF-REST-110:** Filtrado y consulta de eventos pendientes](/historias_usuario/EP-IDEAM-SNIF-REST-008/HU-IDEAM-SNIF-REST-110.md)
-- [**HU-IDEAM-SNIF-REST-111:** Visualización agrupada de proyectos y áreas](/historias_usuario/EP-IDEAM-SNIF-REST-008/HU-IDEAM-SNIF-REST-111.md)
-- [**HU-IDEAM-SNIF-REST-112:** Selección múltiple para validación en lote](/historias_usuario/EP-IDEAM-SNIF-REST-008/HU-IDEAM-SNIF-REST-112.md)
-- [**HU-IDEAM-SNIF-REST-113:** Validación individual de proyecto](/historias_usuario/EP-IDEAM-SNIF-REST-008/HU-IDEAM-SNIF-REST-113.md)
-- [**HU-IDEAM-SNIF-REST-114:** Validación individual de área de restauración](/historias_usuario/EP-IDEAM-SNIF-REST-008/HU-IDEAM-SNIF-REST-114.md)
-- [**HU-IDEAM-SNIF-REST-115:** Modal de rechazo con motivo obligatorio](/historias_usuario/EP-IDEAM-SNIF-REST-008/HU-IDEAM-SNIF-REST-115.md)
-- [**HU-IDEAM-SNIF-REST-116:** Bloqueo optimista de validación](/historias_usuario/EP-IDEAM-SNIF-REST-008/HU-IDEAM-SNIF-REST-116.md)
-- [**HU-IDEAM-SNIF-REST-117:** Notificación automática a la entidad](/historias_usuario/EP-IDEAM-SNIF-REST-008/HU-IDEAM-SNIF-REST-117.md)
-- [**HU-IDEAM-SNIF-REST-118:** Vista de diferencias consolidada](/historias_usuario/EP-IDEAM-SNIF-REST-008/HU-IDEAM-SNIF-REST-118.md)
+- [**HU-IDEAM-SNIF-REST-110:** Filtrado y consulta de eventos pendientes](EP-IDEAM-SNIF-REST-008/HU-IDEAM-SNIF-REST-110.md)
+- [**HU-IDEAM-SNIF-REST-111:** Visualización agrupada de proyectos y áreas](EP-IDEAM-SNIF-REST-008/HU-IDEAM-SNIF-REST-111.md)
+- [**HU-IDEAM-SNIF-REST-112:** Selección múltiple para validación en lote](EP-IDEAM-SNIF-REST-008/HU-IDEAM-SNIF-REST-112.md)
+- [**HU-IDEAM-SNIF-REST-113:** Validación individual de proyecto](EP-IDEAM-SNIF-REST-008/HU-IDEAM-SNIF-REST-113.md)
+- [**HU-IDEAM-SNIF-REST-114:** Validación individual de área de restauración](EP-IDEAM-SNIF-REST-008/HU-IDEAM-SNIF-REST-114.md)
+- [**HU-IDEAM-SNIF-REST-115:** Modal de rechazo con motivo obligatorio](EP-IDEAM-SNIF-REST-008/HU-IDEAM-SNIF-REST-115.md)
+- [**HU-IDEAM-SNIF-REST-116:** Bloqueo optimista de validación](EP-IDEAM-SNIF-REST-008/HU-IDEAM-SNIF-REST-116.md)
+- [**HU-IDEAM-SNIF-REST-117:** Notificación automática a la entidad](EP-IDEAM-SNIF-REST-008/HU-IDEAM-SNIF-REST-117.md)
+- [**HU-IDEAM-SNIF-REST-118:** Vista de diferencias consolidada](EP-IDEAM-SNIF-REST-008/HU-IDEAM-SNIF-REST-118.md)
 
 ---
 

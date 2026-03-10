@@ -27,11 +27,11 @@ Proporcionar un **mecanismo de descarga seguro, controlado y trazable** de infor
 
 ## 3. Historias de usuario asociadas
 
-- [**HU-IDEAM-SNIF-REST-129:** Descargar capas desde el catálogo](/historias_usuario/EP-IDEAM-SNIF-REST-010/HU-IDEAM-SNIF-REST-129.md)
-- [**HU-IDEAM-SNIF-REST-130:** Descargar resultados de consultas atributivas](/historias_usuario/EP-IDEAM-SNIF-REST-010/HU-IDEAM-SNIF-REST-130.md)
-- [**HU-IDEAM-SNIF-REST-131:** Descargar resultados de consultas espaciales](/historias_usuario/EP-IDEAM-SNIF-REST-010/HU-IDEAM-SNIF-REST-131.md)
-- [**HU-IDEAM-SNIF-REST-132:** Seleccionar formato de descarga](/historias_usuario/EP-IDEAM-SNIF-REST-010/HU-IDEAM-SNIF-REST-132.md)
-- [**HU-IDEAM-SNIF-REST-133:** Registrar descargas para auditoría](/historias_usuario/EP-IDEAM-SNIF-REST-010/HU-IDEAM-SNIF-REST-133.md)
+- [**HU-IDEAM-SNIF-REST-129:** Descargar capas desde el catálogo](EP-IDEAM-SNIF-REST-010/HU-IDEAM-SNIF-REST-129.md)
+- [**HU-IDEAM-SNIF-REST-130:** Descargar resultados de consultas atributivas](EP-IDEAM-SNIF-REST-010/HU-IDEAM-SNIF-REST-130.md)
+- [**HU-IDEAM-SNIF-REST-131:** Descargar resultados de consultas espaciales](EP-IDEAM-SNIF-REST-010/HU-IDEAM-SNIF-REST-131.md)
+- [**HU-IDEAM-SNIF-REST-132:** Seleccionar formato de descarga](EP-IDEAM-SNIF-REST-010/HU-IDEAM-SNIF-REST-132.md)
+- [**HU-IDEAM-SNIF-REST-133:** Registrar descargas para auditoría](EP-IDEAM-SNIF-REST-010/HU-IDEAM-SNIF-REST-133.md)
 
 ---
 

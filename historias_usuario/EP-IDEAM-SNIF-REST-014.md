@@ -29,10 +29,10 @@ Con ello, el sistema fortalece la toma de decisiones, la transparencia de la inf
 
 ## 3. Historias de usuario asociadas
 
-- [**HU-IDEAM-SNIF-REST-148:** Tablero de control general](/historias_usuario/EP-IDEAM-SNIF-REST-014/HU-IDEAM-SNIF-REST-148.md)
-- [**HU-IDEAM-SNIF-REST-149:** Descarga de información desde tableros Power BI](/historias_usuario/EP-IDEAM-SNIF-REST-014/HU-IDEAM-SNIF-REST-149.md)
-- [**HU-IDEAM-SNIF-REST-150:** Consulta y descarga de información desde tableros Power BI](/historias_usuario/EP-IDEAM-SNIF-REST-014/HU-IDEAM-SNIF-REST-150.md)
-- [**HU-IDEAM-SNIF-REST-151:** Control de acceso a reportes](/historias_usuario/EP-IDEAM-SNIF-REST-014/HU-IDEAM-SNIF-REST-151.md)
+- [**HU-IDEAM-SNIF-REST-148:** Tablero de control general](EP-IDEAM-SNIF-REST-014/HU-IDEAM-SNIF-REST-148.md)
+- [**HU-IDEAM-SNIF-REST-149:** Descarga de información desde tableros Power BI](EP-IDEAM-SNIF-REST-014/HU-IDEAM-SNIF-REST-149.md)
+- [**HU-IDEAM-SNIF-REST-150:** Consulta y descarga de información desde tableros Power BI](EP-IDEAM-SNIF-REST-014/HU-IDEAM-SNIF-REST-150.md)
+- [**HU-IDEAM-SNIF-REST-151:** Control de acceso a reportes](EP-IDEAM-SNIF-REST-014/HU-IDEAM-SNIF-REST-151.md)
 
 ## 4. Riesgos
 

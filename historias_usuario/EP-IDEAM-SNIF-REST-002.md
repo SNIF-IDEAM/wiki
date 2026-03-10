@@ -24,17 +24,17 @@ Permitir la **gestión centralizada, controlada y trazable de las tablas de domi
 
 ## 3. Historias de usuario asociadas
 
-- [**HU-IDEAM-SNIF-REST-034:** Listar tablas de dominio (_dom)](/historias_usuario/EP-IDEAM-SNIF-REST-002/HU-IDEAM-SNIF-REST-034.md)
-- [**HU-IDEAM-SNIF-REST-035:** Listar registros de una tabla de dominio](/historias_usuario/EP-IDEAM-SNIF-REST-002/HU-IDEAM-SNIF-REST-035.md)
-- [**HU-IDEAM-SNIF-REST-036:** Crear un nuevo registro en tabla de dominio](/historias_usuario/EP-IDEAM-SNIF-REST-002/HU-IDEAM-SNIF-REST-036.md)
-- [**HU-IDEAM-SNIF-REST-037:** Editar un registro de tabla de dominio](/historias_usuario/EP-IDEAM-SNIF-REST-002/HU-IDEAM-SNIF-REST-037.md)
-- [**HU-IDEAM-SNIF-REST-038:** Activar o desactivar registros de dominio (borrado lógico)](/historias_usuario/EP-IDEAM-SNIF-REST-002/HU-IDEAM-SNIF-REST-038.md)
-- [**HU-IDEAM-SNIF-REST-039:** Consulta de valores de dominio por usuarios no administradores](/historias_usuario/EP-IDEAM-SNIF-REST-002/HU-IDEAM-SNIF-REST-039.md)
-- [**HU-IDEAM-SNIF-REST-040:** Validación de integridad referencial de valores de dominio](/historias_usuario/EP-IDEAM-SNIF-REST-002/HU-IDEAM-SNIF-REST-040.md)
-- [**HU-IDEAM-SNIF-REST-041:** Auditoría de cambios en tablas de dominio](/historias_usuario/EP-IDEAM-SNIF-REST-002/HU-IDEAM-SNIF-REST-041.md)
-- [**HU-IDEAM-SNIF-REST-042:** Control de acceso por rol en tablas de dominio](/historias_usuario/EP-IDEAM-SNIF-REST-002/HU-IDEAM-SNIF-REST-042.md)
-- [**HU-IDEAM-SNIF-REST-043:** Impacto controlado de cambios de dominio en formularios](/historias_usuario/EP-IDEAM-SNIF-REST-002/HU-IDEAM-SNIF-REST-043.md)
-- [**HU-IDEAM-SNIF-REST-044:** Validación de unicidad en tablas de dominio](/historias_usuario/EP-IDEAM-SNIF-REST-002/HU-IDEAM-SNIF-REST-044.md)
+- [**HU-IDEAM-SNIF-REST-034:** Listar tablas de dominio (_dom)](EP-IDEAM-SNIF-REST-002/HU-IDEAM-SNIF-REST-034.md)
+- [**HU-IDEAM-SNIF-REST-035:** Listar registros de una tabla de dominio](EP-IDEAM-SNIF-REST-002/HU-IDEAM-SNIF-REST-035.md)
+- [**HU-IDEAM-SNIF-REST-036:** Crear un nuevo registro en tabla de dominio](EP-IDEAM-SNIF-REST-002/HU-IDEAM-SNIF-REST-036.md)
+- [**HU-IDEAM-SNIF-REST-037:** Editar un registro de tabla de dominio](EP-IDEAM-SNIF-REST-002/HU-IDEAM-SNIF-REST-037.md)
+- [**HU-IDEAM-SNIF-REST-038:** Activar o desactivar registros de dominio (borrado lógico)](EP-IDEAM-SNIF-REST-002/HU-IDEAM-SNIF-REST-038.md)
+- [**HU-IDEAM-SNIF-REST-039:** Consulta de valores de dominio por usuarios no administradores](EP-IDEAM-SNIF-REST-002/HU-IDEAM-SNIF-REST-039.md)
+- [**HU-IDEAM-SNIF-REST-040:** Validación de integridad referencial de valores de dominio](EP-IDEAM-SNIF-REST-002/HU-IDEAM-SNIF-REST-040.md)
+- [**HU-IDEAM-SNIF-REST-041:** Auditoría de cambios en tablas de dominio](EP-IDEAM-SNIF-REST-002/HU-IDEAM-SNIF-REST-041.md)
+- [**HU-IDEAM-SNIF-REST-042:** Control de acceso por rol en tablas de dominio](EP-IDEAM-SNIF-REST-002/HU-IDEAM-SNIF-REST-042.md)
+- [**HU-IDEAM-SNIF-REST-043:** Impacto controlado de cambios de dominio en formularios](EP-IDEAM-SNIF-REST-002/HU-IDEAM-SNIF-REST-043.md)
+- [**HU-IDEAM-SNIF-REST-044:** Validación de unicidad en tablas de dominio](EP-IDEAM-SNIF-REST-002/HU-IDEAM-SNIF-REST-044.md)
 
 ---
 

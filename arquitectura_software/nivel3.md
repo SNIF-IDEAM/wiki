@@ -97,5 +97,5 @@ El SNIF mantiene una **arquitectura interoperable** mediante integraciones con s
 
 ## Enlaces relacionados
 
-- [Modelo C4 – Nivel 1: Contexto](/arquitectura_software/nivel1.md)
-- [Modelo C4 – Nivel 2: Contenedores](/arquitectura_software/nivel2.md)
+- [Modelo C4 – Nivel 1: Contexto](nivel1.md)
+- [Modelo C4 – Nivel 2: Contenedores](nivel2.md)

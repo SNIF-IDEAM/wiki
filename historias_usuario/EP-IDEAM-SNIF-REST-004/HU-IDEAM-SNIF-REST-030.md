@@ -40,7 +40,7 @@
 
 4. **Validaciones del dato**\
    4.1 El sistema valida la obligatoriedad de los campos mínimos requeridos para la creación del proyecto.\
-   4.2 El sistema valida la **unicidad del proyecto** conforme a las reglas definidas en la [HU-IDEAM-SNIF-REST-050](/historias_usuario/EP-IDEAM-SNIF-REST-050.md).\
+   4.2 El sistema valida la **unicidad del proyecto** conforme a las reglas definidas en la [HU-IDEAM-SNIF-REST-050](HU-IDEAM-SNIF-REST-050.md).\
    4.3 Cuando se detecta un posible duplicado, el sistema informa al usuario y bloquea la creación.
 
 5. **Comportamiento del formulario**\

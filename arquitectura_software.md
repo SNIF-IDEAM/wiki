@@ -41,11 +41,11 @@ En el **diagrama de componentes**, estos se representan como **cajas rectangular
 
 Se incluyen detalles como **interfaces**, **puertos**, **protocolos**, **bases de datos** u otros elementos relevantes para comprender la estructura y las interacciones del sistema.
 
-> [Nivel 1 — Contexto (System Context)](/arquitectura_software/nivel1.md)
+> [Nivel 1 — Contexto (System Context)](arquitectura_software/nivel1.md)
 >
-> [Nivel 2 — Contenedores (Containers)](/arquitectura_software/nivel2.md)
+> [Nivel 2 — Contenedores (Containers)](arquitectura_software/nivel2.md)
 >
-> [Nivel 3 — Componentes (Components)](/arquitectura_software/nivel3.md)
+> [Nivel 3 — Componentes (Components)](arquitectura_software/nivel3.md)
 
 ## Enlaces relacionados
 

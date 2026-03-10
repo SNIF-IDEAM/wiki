@@ -27,11 +27,11 @@ Facilitar el **descubrimiento, comprensión y acceso a las capas geográficas di
 
 ## 3. Historias de usuario asociadas
 
-- [**HU-IDEAM-SNIF-REST-134:** Visualizar ejes temáticos del catálogo](/historias_usuario/EP-IDEAM-SNIF-REST-011/HU-IDEAM-SNIF-REST-134.md)
-- [**HU-IDEAM-SNIF-REST-135:** Explorar capas por eje temático](/historias_usuario/EP-IDEAM-SNIF-REST-011/HU-IDEAM-SNIF-REST-135.md)
-- [**HU-IDEAM-SNIF-REST-136:** Buscar capas en el catálogo](/historias_usuario/EP-IDEAM-SNIF-REST-011/HU-IDEAM-SNIF-REST-136.md)
-- [**HU-IDEAM-SNIF-REST-137:** Visualizar detalle de una capa](/historias_usuario/EP-IDEAM-SNIF-REST-011/HU-IDEAM-SNIF-REST-137.md)
-- [**HU-IDEAM-SNIF-REST-138:** Agregar capa al mapa](/historias_usuario/EP-IDEAM-SNIF-REST-011/HU-IDEAM-SNIF-REST-138.md)
+- [**HU-IDEAM-SNIF-REST-134:** Visualizar ejes temáticos del catálogo](EP-IDEAM-SNIF-REST-011/HU-IDEAM-SNIF-REST-134.md)
+- [**HU-IDEAM-SNIF-REST-135:** Explorar capas por eje temático](EP-IDEAM-SNIF-REST-011/HU-IDEAM-SNIF-REST-135.md)
+- [**HU-IDEAM-SNIF-REST-136:** Buscar capas en el catálogo](EP-IDEAM-SNIF-REST-011/HU-IDEAM-SNIF-REST-136.md)
+- [**HU-IDEAM-SNIF-REST-137:** Visualizar detalle de una capa](EP-IDEAM-SNIF-REST-011/HU-IDEAM-SNIF-REST-137.md)
+- [**HU-IDEAM-SNIF-REST-138:** Agregar capa al mapa](EP-IDEAM-SNIF-REST-011/HU-IDEAM-SNIF-REST-138.md)
 
 ---
 

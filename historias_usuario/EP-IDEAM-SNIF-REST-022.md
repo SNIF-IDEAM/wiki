@@ -25,10 +25,10 @@ Permitir a los usuarios del visor geográfico seleccionar, visualizar y gestiona
 
 ## 3. Historias de usuario asociadas
 
-- [**HU-IDEAM-SNIF-REST-220:** Control de capas activas](/historias_usuario/EP-IDEAM-SNIF-REST-021/HU-IDEAM-SNIF-REST-220)
-- [**HU-IDEAM-SNIF-REST-221:** Visualización de leyenda por capa](/historias_usuario/EP-IDEAM-SNIF-REST-022/HU-IDEAM-SNIF-REST-221)
-- [**HU-IDEAM-SNIF-REST-222:** AAjuste de transparencia de capas](/historias_usuario/EP-IDEAM-SNIF-REST-022/HU-IDEAM-SNIF-REST-222)
-- [**HU-IDEAM-SNIF-REST-223:** Reordenamiento de capas](/historias_usuario/EP-IDEAM-SNIF-REST-022/HU-IDEAM-SNIF-REST-223)
+- [**HU-IDEAM-SNIF-REST-220:** Control de capas activas](EP-IDEAM-SNIF-REST-021/HU-IDEAM-SNIF-REST-220)
+- [**HU-IDEAM-SNIF-REST-221:** Visualización de leyenda por capa](EP-IDEAM-SNIF-REST-022/HU-IDEAM-SNIF-REST-221)
+- [**HU-IDEAM-SNIF-REST-222:** AAjuste de transparencia de capas](EP-IDEAM-SNIF-REST-022/HU-IDEAM-SNIF-REST-222)
+- [**HU-IDEAM-SNIF-REST-223:** Reordenamiento de capas](EP-IDEAM-SNIF-REST-022/HU-IDEAM-SNIF-REST-223)
 
 ## 4. Riesgos
 

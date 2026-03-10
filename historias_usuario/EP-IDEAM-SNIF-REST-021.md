@@ -39,9 +39,9 @@ Disponer de un mecanismo controlado y trazable que permita al usuario registrado
 
 ## 3. Historias de usuario asociadas
 
-- [**HU-IDEAM-SNIF-REST-217:** Enviar área restaurada a validación IDEAM](/historias_usuario/EP-IDEAM-SNIF-REST-021/HU-IDEAM-SNIF-REST-207)
-- [**HU-IDEAM-SNIF-REST-218:** Enviar proyecto completo a validación IDEAM](/historias_usuario/EP-IDEAM-SNIF-REST-021/HU-IDEAM-SNIF-REST-208)
-- [**HU-IDEAM-SNIF-REST-219:** Notificaciones de envío a validación](/historias_usuario/EP-IDEAM-SNIF-REST-021/HU-IDEAM-SNIF-REST-209)
+- [**HU-IDEAM-SNIF-REST-217:** Enviar área restaurada a validación IDEAM](EP-IDEAM-SNIF-REST-021/HU-IDEAM-SNIF-REST-207)
+- [**HU-IDEAM-SNIF-REST-218:** Enviar proyecto completo a validación IDEAM](EP-IDEAM-SNIF-REST-021/HU-IDEAM-SNIF-REST-208)
+- [**HU-IDEAM-SNIF-REST-219:** Notificaciones de envío a validación](EP-IDEAM-SNIF-REST-021/HU-IDEAM-SNIF-REST-209)
 
 ## 4. Riesgos
 

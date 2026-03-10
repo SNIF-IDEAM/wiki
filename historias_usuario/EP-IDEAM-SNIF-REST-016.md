@@ -32,16 +32,16 @@ Con ello, el sistema fortalece la coherencia de la información, el cumplimiento
 
 ## 3. Historias de usuario asociadas
 
-- [**HU-IDEAM-SNIF-REST-167:** Crear agenda política](/historias_usuario/EP-IDEAM-SNIF-REST-016/HU-IDEAM-SNIF-REST-167.md)
-- [**HU-IDEAM-SNIF-REST-168:** Desactivar agenda política](/historias_usuario/EP-IDEAM-SNIF-REST-016/HU-IDEAM-SNIF-REST-168.md)
-- [**HU-IDEAM-SNIF-REST-169:** Consultar agendas y estadísticas](/historias_usuario/EP-IDEAM-SNIF-REST-016/HU-IDEAM-SNIF-REST-169.md)
-- [**HU-IDEAM-SNIF-REST-170:** Crear categoría de agenda](/historias_usuario/EP-IDEAM-SNIF-REST-016/HU-IDEAM-SNIF-REST-170.md)
-- [**HU-IDEAM-SNIF-REST-171:** Asociar áreas restauradas a múltiples agendas](/historias_usuario/EP-IDEAM-SNIF-REST-016/HU-IDEAM-SNIF-REST-171.md)
-- [**HU-IDEAM-SNIF-REST-172:** Generar reporte multi-agenda de proyecto](/historias_usuario/EP-IDEAM-SNIF-REST-016/HU-IDEAM-SNIF-REST-172.md)
-- [**HU-IDEAM-SNIF-REST-173:** Asociar área a agendas con evidencias](/historias_usuario/EP-IDEAM-SNIF-REST-016/HU-IDEAM-SNIF-REST-173.md)
-- [**HU-IDEAM-SNIF-REST-174:** Validar solapamientos y doble contabilidad](/historias_usuario/EP-IDEAM-SNIF-REST-016/HU-IDEAM-SNIF-REST-174.md)
-- [**HU-IDEAM-SNIF-REST-175:** Generar reporte agregado por agenda](/historias_usuario/EP-IDEAM-SNIF-REST-016/HU-IDEAM-SNIF-REST-175.md)
-- [**HU-IDEAM-SNIF-REST-176:** Análisis de co-beneficios multi-agenda](/historias_usuario/EP-IDEAM-SNIF-REST-016/HU-IDEAM-SNIF-REST-176.md)
+- [**HU-IDEAM-SNIF-REST-167:** Crear agenda política](EP-IDEAM-SNIF-REST-016/HU-IDEAM-SNIF-REST-167.md)
+- [**HU-IDEAM-SNIF-REST-168:** Desactivar agenda política](EP-IDEAM-SNIF-REST-016/HU-IDEAM-SNIF-REST-168.md)
+- [**HU-IDEAM-SNIF-REST-169:** Consultar agendas y estadísticas](EP-IDEAM-SNIF-REST-016/HU-IDEAM-SNIF-REST-169.md)
+- [**HU-IDEAM-SNIF-REST-170:** Crear categoría de agenda](EP-IDEAM-SNIF-REST-016/HU-IDEAM-SNIF-REST-170.md)
+- [**HU-IDEAM-SNIF-REST-171:** Asociar áreas restauradas a múltiples agendas](EP-IDEAM-SNIF-REST-016/HU-IDEAM-SNIF-REST-171.md)
+- [**HU-IDEAM-SNIF-REST-172:** Generar reporte multi-agenda de proyecto](EP-IDEAM-SNIF-REST-016/HU-IDEAM-SNIF-REST-172.md)
+- [**HU-IDEAM-SNIF-REST-173:** Asociar área a agendas con evidencias](EP-IDEAM-SNIF-REST-016/HU-IDEAM-SNIF-REST-173.md)
+- [**HU-IDEAM-SNIF-REST-174:** Validar solapamientos y doble contabilidad](EP-IDEAM-SNIF-REST-016/HU-IDEAM-SNIF-REST-174.md)
+- [**HU-IDEAM-SNIF-REST-175:** Generar reporte agregado por agenda](EP-IDEAM-SNIF-REST-016/HU-IDEAM-SNIF-REST-175.md)
+- [**HU-IDEAM-SNIF-REST-176:** Análisis de co-beneficios multi-agenda](EP-IDEAM-SNIF-REST-016/HU-IDEAM-SNIF-REST-176.md)
 
 ## 4. Riesgos
 
