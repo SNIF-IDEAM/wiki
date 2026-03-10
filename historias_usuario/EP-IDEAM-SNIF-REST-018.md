@@ -31,12 +31,12 @@ Disponer de un módulo que permita la actualización controlada, validada y audi
 
 ## 3. Historias de usuario asociadas
 
-- [**HU-IDEAM-SNIF-REST-195:** Actualizar geometría de un área restaurada mediante archivo](/historias_usuario/EP-IDEAM-SNIF-REST-018/HU-IDEAM-SNIF-REST-195)
-- [**HU-IDEAM-SNIF-REST-196:** Confirmar o cancelar actualización de geometría](/historias_usuario/EP-IDEAM-SNIF-REST-018/HU-IDEAM-SNIF-REST-196)
-- [**HU-IDEAM-SNIF-REST-197:** Validaciones geométricas en carga de archivo](/historias_usuario/EP-IDEAM-SNIF-REST-018/HU-IDEAM-SNIF-REST-197)
-- [**HU-IDEAM-SNIF-REST-198:** Recalcular áreas y traslapes tras actualización geométrica](/historias_usuario/EP-IDEAM-SNIF-REST-018/HU-IDEAM-SNIF-REST-198)
-- [**HU-IDEAM-SNIF-REST-199:** Registrar auditoría de cambios geométricos](/historias_usuario/EP-IDEAM-SNIF-REST-018/HU-IDEAM-SNIF-REST-199)
-- [**HU-IDEAM-SNIF-REST-200:** Visualizar geometría actualizada en visor geográfico](/historias_usuario/EP-IDEAM-SNIF-REST-018/HU-IDEAM-SNIF-REST-200)
+- [**HU-IDEAM-SNIF-REST-195:** Actualizar geometría de un área restaurada mediante archivo](EP-IDEAM-SNIF-REST-018/HU-IDEAM-SNIF-REST-195)
+- [**HU-IDEAM-SNIF-REST-196:** Confirmar o cancelar actualización de geometría](EP-IDEAM-SNIF-REST-018/HU-IDEAM-SNIF-REST-196)
+- [**HU-IDEAM-SNIF-REST-197:** Validaciones geométricas en carga de archivo](EP-IDEAM-SNIF-REST-018/HU-IDEAM-SNIF-REST-197)
+- [**HU-IDEAM-SNIF-REST-198:** Recalcular áreas y traslapes tras actualización geométrica](EP-IDEAM-SNIF-REST-018/HU-IDEAM-SNIF-REST-198)
+- [**HU-IDEAM-SNIF-REST-199:** Registrar auditoría de cambios geométricos](EP-IDEAM-SNIF-REST-018/HU-IDEAM-SNIF-REST-199)
+- [**HU-IDEAM-SNIF-REST-200:** Visualizar geometría actualizada en visor geográfico](EP-IDEAM-SNIF-REST-018/HU-IDEAM-SNIF-REST-200)
 
 ## 4. Riesgos
 

@@ -16,10 +16,10 @@ Gestionar, centralizar y administrar los eventos generados automáticamente por 
 
 ## 3. Historias de usuario asociadas
 
-- [**HU-IDEAM-SNIF-REST-106:** Registro automático de eventos](/historias_usuario/EP-IDEAM-SNIF-REST-007/HU-IDEAM-SNIF-REST-106.md)
-- [**HU-IDEAM-SNIF-REST-107:** Clasificación del tipo de afectación del evento](/historias_usuario/EP-IDEAM-SNIF-REST-007/HU-IDEAM-SNIF-REST-107.md)
-- [**HU-IDEAM-SNIF-REST-108:** Gestión del flujo de estados del evento](/historias_usuario/EP-IDEAM-SNIF-REST-007/HU-IDEAM-SNIF-REST-108.md)
-- [**HU-IDEAM-SNIF-REST-109:** Visualización de eventos desde el menú Validaciones](/historias_usuario/EP-IDEAM-SNIF-REST-007/HU-IDEAM-SNIF-REST-109.md)
+- [**HU-IDEAM-SNIF-REST-106:** Registro automático de eventos](EP-IDEAM-SNIF-REST-007/HU-IDEAM-SNIF-REST-106.md)
+- [**HU-IDEAM-SNIF-REST-107:** Clasificación del tipo de afectación del evento](EP-IDEAM-SNIF-REST-007/HU-IDEAM-SNIF-REST-107.md)
+- [**HU-IDEAM-SNIF-REST-108:** Gestión del flujo de estados del evento](EP-IDEAM-SNIF-REST-007/HU-IDEAM-SNIF-REST-108.md)
+- [**HU-IDEAM-SNIF-REST-109:** Visualización de eventos desde el menú Validaciones](EP-IDEAM-SNIF-REST-007/HU-IDEAM-SNIF-REST-109.md)
 
 ---
 

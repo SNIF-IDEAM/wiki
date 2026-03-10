@@ -31,9 +31,9 @@
    - INACTIVO  
 
 2. **Flujo permitido de estados**\
-   2.1 El sistema permite el cambio de estado de **BORRADOR** a **ENVIADO A VALIDACIÓN IDEAM** únicamente mediante la funcionalidad definida en la [HU-IDEAM-SNIF-REST-034](/historias_usuario/EP-IDEAM-SNIF-REST-004/HU-IDEAM-SNIF-REST-034.md).\
+   2.1 El sistema permite el cambio de estado de **BORRADOR** a **ENVIADO A VALIDACIÓN IDEAM** únicamente mediante la funcionalidad definida en la [HU-IDEAM-SNIF-REST-034](HU-IDEAM-SNIF-REST-034.md).\
    2.2 El sistema permite el cambio de estado de **ENVIADO A VALIDACIÓN IDEAM** a **APROBADO IDEAM** o **RECHAZADO IDEAM**.\
-   2.3 El sistema permite el cambio de estado de **BORRADOR** a **INACTIVO** únicamente mediante la funcionalidad definida en la [HU-IDEAM-SNIF-REST-034](/historias_usuario/EP-IDEAM-SNIF-REST-004/HU-IDEAM-SNIF-REST-034.md).\
+   2.3 El sistema permite el cambio de estado de **BORRADOR** a **INACTIVO** únicamente mediante la funcionalidad definida en la [HU-IDEAM-SNIF-REST-034](HU-IDEAM-SNIF-REST-034.md).\
    2.4 No se permiten transiciones de estado distintas a las definidas.
 
 3. **Restricciones por estado**\

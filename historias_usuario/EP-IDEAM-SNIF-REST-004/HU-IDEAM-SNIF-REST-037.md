@@ -15,7 +15,7 @@
 
 ## ALCANCE FUNCIONAL
 
-- Validación de referencias entre el proyecto y las entidades base definidas en la [EP-IDEAM-SNIF-REST-003](/historias_usuario/EP-IDEAM-SNIF-REST-003.md).
+- Validación de referencias entre el proyecto y las entidades base definidas en la [EP-IDEAM-SNIF-REST-003](../EP-IDEAM-SNIF-REST-003.md).
 - Bloqueo de operaciones que generen inconsistencias referenciales.
 - Protección de proyectos existentes ante cambios en catálogos maestros.
 - Aplicación transversal de las reglas de integridad durante todo el ciclo de vida del proyecto.
@@ -42,7 +42,7 @@
    4.2 El sistema valida la integridad referencial antes de permitir el envío del proyecto a validación.
 
 5. **Coherencia de combinaciones permitidas**\
-   5.1 El sistema valida que la combinación Tipo de Proyecto – Tipo de Trámite – Tipo de Acto Administrativo sea válida conforme a las reglas definidas en la [EP-IDEAM-SNIF-REST-003](/historias_usuario/EP-IDEAM-SNIF-REST-003.md).\
+   5.1 El sistema valida que la combinación Tipo de Proyecto – Tipo de Trámite – Tipo de Acto Administrativo sea válida conforme a las reglas definidas en la [EP-IDEAM-SNIF-REST-003](../EP-IDEAM-SNIF-REST-003.md).\
    5.2 El sistema bloquea el guardado del proyecto cuando la combinación no está permitida.
 
 6. **Persistencia de la integridad**\

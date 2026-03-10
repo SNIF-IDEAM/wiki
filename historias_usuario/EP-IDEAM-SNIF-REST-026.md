@@ -21,14 +21,14 @@ Esta épica soporta de manera transversal los procesos de seguimiento, monitoreo
 
 ## 3. Historias de usuario asociadas
 
-- [**HU-IDEAM-SNIF-REST-246:** Acceso a estadísticas espaciales desde el visor](/historias_usuario/EP-IDEAM-SNIF-REST-026/HU-IDEAM-SNIF-REST-246)
-- [**HU-IDEAM-SNIF-REST-247:** Selección del ámbito espacial para estadísticas](/historias_usuario/EP-IDEAM-SNIF-REST-026/HU-IDEAM-SNIF-REST-247)
-- [**HU-IDEAM-SNIF-REST-248:** Selección del tipo de información a consolidar](/historias_usuario/EP-IDEAM-SNIF-REST-026/HU-IDEAM-SNIF-REST-248)
-- [**HU-IDEAM-SNIF-REST-249:** Cálculo de estadísticas consolidadas](/historias_usuario/EP-IDEAM-SNIF-REST-026/HU-IDEAM-SNIF-REST-249)
-- [**HU-IDEAM-SNIF-REST-250:** Visualización de estadísticas mediante gráficos](/historias_usuario/EP-IDEAM-SNIF-REST-026/HU-IDEAM-SNIF-REST-250)
-- [**HU-IDEAM-SNIF-REST-251:** Interacción entre gráficos y mapa](/historias_usuario/EP-IDEAM-SNIF-REST-026/HU-IDEAM-SNIF-REST-251)
-- [**HU-IDEAM-SNIF-REST-252:** Actualización dinámica de estadísticas](/historias_usuario/EP-IDEAM-SNIF-REST-026/HU-IDEAM-SNIF-REST-252)
-- [**HU-IDEAM-SNIF-REST-253:** Integración de estadísticas en el sidebar del visor](/historias_usuario/EP-IDEAM-SNIF-REST-026/HU-IDEAM-SNIF-REST-253)
+- [**HU-IDEAM-SNIF-REST-246:** Acceso a estadísticas espaciales desde el visor](EP-IDEAM-SNIF-REST-026/HU-IDEAM-SNIF-REST-246)
+- [**HU-IDEAM-SNIF-REST-247:** Selección del ámbito espacial para estadísticas](EP-IDEAM-SNIF-REST-026/HU-IDEAM-SNIF-REST-247)
+- [**HU-IDEAM-SNIF-REST-248:** Selección del tipo de información a consolidar](EP-IDEAM-SNIF-REST-026/HU-IDEAM-SNIF-REST-248)
+- [**HU-IDEAM-SNIF-REST-249:** Cálculo de estadísticas consolidadas](EP-IDEAM-SNIF-REST-026/HU-IDEAM-SNIF-REST-249)
+- [**HU-IDEAM-SNIF-REST-250:** Visualización de estadísticas mediante gráficos](EP-IDEAM-SNIF-REST-026/HU-IDEAM-SNIF-REST-250)
+- [**HU-IDEAM-SNIF-REST-251:** Interacción entre gráficos y mapa](EP-IDEAM-SNIF-REST-026/HU-IDEAM-SNIF-REST-251)
+- [**HU-IDEAM-SNIF-REST-252:** Actualización dinámica de estadísticas](EP-IDEAM-SNIF-REST-026/HU-IDEAM-SNIF-REST-252)
+- [**HU-IDEAM-SNIF-REST-253:** Integración de estadísticas en el sidebar del visor](EP-IDEAM-SNIF-REST-026/HU-IDEAM-SNIF-REST-253)
 
 
 ## 4. Riesgos

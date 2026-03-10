@@ -73,5 +73,5 @@ El SNIF mantiene comunicación con las siguientes plataformas externas, esencial
 
 ## Enlaces relacionados
 
-- [Modelo C4 – Nivel 1: Contexto](/arquitectura_software/nivel1.md)
-- [Modelo C4 – Nivel 3: Componentes](/arquitectura_software/nivel3.md)
+- [Modelo C4 – Nivel 1: Contexto](nivel1.md)
+- [Modelo C4 – Nivel 3: Componentes](nivel3.md)

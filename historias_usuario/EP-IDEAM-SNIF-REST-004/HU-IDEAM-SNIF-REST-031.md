@@ -73,7 +73,7 @@
 
 - El listado de proyectos en Gestión no incluye proyectos visibles únicamente en el Visor Geográfico.  
 - Los usuarios solo pueden visualizar proyectos conforme a su rol y entidad.  
-- El acceso al listado está restringido por el control de acceso definido en la [HU-IDEAM-SNIF-REST-029](/historias_usuario/EP-IDEAM-SNIF-REST-004/HU-IDEAM-SNIF-REST-029.md).  
+- El acceso al listado está restringido por el control de acceso definido en la [HU-IDEAM-SNIF-REST-029](HU-IDEAM-SNIF-REST-029.md).  
 - Esta historia de usuario no contempla la edición directa de proyectos sin acceder a su vista detallada.
 
 ## DIAGRAMA DE FLUJO DEL PROCESO

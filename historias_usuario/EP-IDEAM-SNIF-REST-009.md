@@ -27,16 +27,16 @@ Permitir a los usuarios del módulo de restauración del SNIF realizar consultas
 
 ## 3. Historias de usuario asociadas
 
-- [**HU-IDEAM-SNIF-REST-119:** Consulta atributiva de información geográfica](/historias_usuario/EP-IDEAM-SNIF-REST-009/HU-IDEAM-SNIF-REST-119.md)
-- [**HU-IDEAM-SNIF-REST-120:** Consulta espacial mediante dibujo en el mapa](/historias_usuario/EP-IDEAM-SNIF-REST-009/HU-IDEAM-SNIF-REST-120.md)
-- [**HU-IDEAM-SNIF-REST-121:** Consulta geográfica por coordenadas](/historias_usuario/EP-IDEAM-SNIF-REST-009/HU-IDEAM-SNIF-REST-121.md)
-- [**HU-IDEAM-SNIF-REST-122:** Consulta mediante carga de capa geográfica](/historias_usuario/EP-IDEAM-SNIF-REST-009/HU-IDEAM-SNIF-REST-122.md)
-- [**HU-IDEAM-SNIF-REST-123:** Visualización integrada de resultados](/historias_usuario/EP-IDEAM-SNIF-REST-009/HU-IDEAM-SNIF-REST-123.md)
-- [**HU-IDEAM-SNIF-REST-124:** Visualización del detalle de un elemento consultado](/historias_usuario/EP-IDEAM-SNIF-REST-009/HU-IDEAM-SNIF-REST-124.md)
-- [**HU-IDEAM-SNIF-REST-125:** Descarga de resultados de consultas](/historias_usuario/EP-IDEAM-SNIF-REST-009/HU-IDEAM-SNIF-REST-125.md)
-- [**HU-IDEAM-SNIF-REST-126:** Reinicio de consultas](/historias_usuario/EP-IDEAM-SNIF-REST-009/HU-IDEAM-SNIF-REST-126.md)
-- [**HU-IDEAM-SNIF-REST-127:** Control de rendimiento de consultas](/historias_usuario/EP-IDEAM-SNIF-REST-009/HU-IDEAM-SNIF-REST-127.md)
-- [**HU-IDEAM-SNIF-REST-128:** Consulta pública controlada](/historias_usuario/EP-IDEAM-SNIF-REST-009/HU-IDEAM-SNIF-REST-128.md)
+- [**HU-IDEAM-SNIF-REST-119:** Consulta atributiva de información geográfica](EP-IDEAM-SNIF-REST-009/HU-IDEAM-SNIF-REST-119.md)
+- [**HU-IDEAM-SNIF-REST-120:** Consulta espacial mediante dibujo en el mapa](EP-IDEAM-SNIF-REST-009/HU-IDEAM-SNIF-REST-120.md)
+- [**HU-IDEAM-SNIF-REST-121:** Consulta geográfica por coordenadas](EP-IDEAM-SNIF-REST-009/HU-IDEAM-SNIF-REST-121.md)
+- [**HU-IDEAM-SNIF-REST-122:** Consulta mediante carga de capa geográfica](EP-IDEAM-SNIF-REST-009/HU-IDEAM-SNIF-REST-122.md)
+- [**HU-IDEAM-SNIF-REST-123:** Visualización integrada de resultados](EP-IDEAM-SNIF-REST-009/HU-IDEAM-SNIF-REST-123.md)
+- [**HU-IDEAM-SNIF-REST-124:** Visualización del detalle de un elemento consultado](EP-IDEAM-SNIF-REST-009/HU-IDEAM-SNIF-REST-124.md)
+- [**HU-IDEAM-SNIF-REST-125:** Descarga de resultados de consultas](EP-IDEAM-SNIF-REST-009/HU-IDEAM-SNIF-REST-125.md)
+- [**HU-IDEAM-SNIF-REST-126:** Reinicio de consultas](EP-IDEAM-SNIF-REST-009/HU-IDEAM-SNIF-REST-126.md)
+- [**HU-IDEAM-SNIF-REST-127:** Control de rendimiento de consultas](EP-IDEAM-SNIF-REST-009/HU-IDEAM-SNIF-REST-127.md)
+- [**HU-IDEAM-SNIF-REST-128:** Consulta pública controlada](EP-IDEAM-SNIF-REST-009/HU-IDEAM-SNIF-REST-128.md)
 
 ## 4. Riesgos
 

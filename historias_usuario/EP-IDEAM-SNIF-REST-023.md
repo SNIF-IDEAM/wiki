@@ -21,10 +21,10 @@ Disponer de un módulo administrativo que permita la gestión centralizada, segu
 
 ## 3. Historias de usuario asociadas
 
-- [**HU-IDEAM-SNIF-REST-224:** Gestión de Capas Externas](/historias_usuario/EP-IDEAM-SNIF-REST-023/HU-IDEAM-SNIF-REST-224)
-- [**HU-IDEAM-SNIF-REST-225:** Gestión de Capas Internas](/historias_usuario/EP-IDEAM-SNIF-REST-023/HU-IDEAM-SNIF-REST-225)
-- [**HU-IDEAM-SNIF-REST-226:** Organización por Grupos Temáticos](/historias_usuario/EP-IDEAM-SNIF-REST-023/HU-IDEAM-SNIF-REST-226)
-- [**HU-IDEAM-SNIF-REST-227:** Gestión de Módulos](/historias_usuario/EP-IDEAM-SNIF-REST-023/HU-IDEAM-SNIF-REST-227)
+- [**HU-IDEAM-SNIF-REST-224:** Gestión de Capas Externas](EP-IDEAM-SNIF-REST-023/HU-IDEAM-SNIF-REST-224)
+- [**HU-IDEAM-SNIF-REST-225:** Gestión de Capas Internas](EP-IDEAM-SNIF-REST-023/HU-IDEAM-SNIF-REST-225)
+- [**HU-IDEAM-SNIF-REST-226:** Organización por Grupos Temáticos](EP-IDEAM-SNIF-REST-023/HU-IDEAM-SNIF-REST-226)
+- [**HU-IDEAM-SNIF-REST-227:** Gestión de Módulos](EP-IDEAM-SNIF-REST-023/HU-IDEAM-SNIF-REST-227)
 
 ## 4. Riesgos
 

@@ -26,14 +26,14 @@ Permitir a los usuarios del visor del módulo de restauración del SNIF realizar
 
 ## 3. Historias de usuario asociadas
 
-- [**HU-IDEAM-SNIF-REST-228:** Selección del tipo de consulta: Proyectos o Áreas de Restauración](/historias_usuario/EP-IDEAM-SNIF-REST-024/HU-IDEAM-SNIF-REST-228.md)
-- [**HU-IDEAM-SNIF-REST-229:** Consulta atributiva avanzada por Proyectos](/historias_usuario/EP-IDEAM-SNIF-REST-024/HU-IDEAM-SNIF-REST-229.md)
-- [**HU-IDEAM-SNIF-REST-230:** Visualización de resultados de consulta por Proyectos](/historias_usuario/EP-IDEAM-SNIF-REST-024/HU-IDEAM-SNIF-REST-230.md)
-- [**HU-IDEAM-SNIF-REST-231:** Ordenamiento y paginación de resultados](/historias_usuario/EP-IDEAM-SNIF-REST-024/HU-IDEAM-SNIF-REST-231.md)
-- [**HU-IDEAM-SNIF-REST-232:** Exportación de resultados de consulta por Proyectos](/historias_usuario/EP-IDEAM-SNIF-REST-024/HU-IDEAM-SNIF-REST-232.md)
-- [**HU-IDEAM-SNIF-REST-233:** Consulta atributiva avanzada por Áreas de Restauración](/historias_usuario/EP-IDEAM-SNIF-REST-024/HU-IDEAM-SNIF-REST-233.md)
-- [**HU-IDEAM-SNIF-REST-234:** Visualización de resultados de consulta por Áreas de Restauración](/historias_usuario/EP-IDEAM-SNIF-REST-024/HU-IDEAM-SNIF-REST-234.md)
-- [**HU-IDEAM-SNIF-REST-235:** Integración de la consulta atributiva con el visor geográfico](/historias_usuario/EP-IDEAM-SNIF-REST-024/HU-IDEAM-SNIF-REST-235.md)
+- [**HU-IDEAM-SNIF-REST-228:** Selección del tipo de consulta: Proyectos o Áreas de Restauración](EP-IDEAM-SNIF-REST-024/HU-IDEAM-SNIF-REST-228.md)
+- [**HU-IDEAM-SNIF-REST-229:** Consulta atributiva avanzada por Proyectos](EP-IDEAM-SNIF-REST-024/HU-IDEAM-SNIF-REST-229.md)
+- [**HU-IDEAM-SNIF-REST-230:** Visualización de resultados de consulta por Proyectos](EP-IDEAM-SNIF-REST-024/HU-IDEAM-SNIF-REST-230.md)
+- [**HU-IDEAM-SNIF-REST-231:** Ordenamiento y paginación de resultados](EP-IDEAM-SNIF-REST-024/HU-IDEAM-SNIF-REST-231.md)
+- [**HU-IDEAM-SNIF-REST-232:** Exportación de resultados de consulta por Proyectos](EP-IDEAM-SNIF-REST-024/HU-IDEAM-SNIF-REST-232.md)
+- [**HU-IDEAM-SNIF-REST-233:** Consulta atributiva avanzada por Áreas de Restauración](EP-IDEAM-SNIF-REST-024/HU-IDEAM-SNIF-REST-233.md)
+- [**HU-IDEAM-SNIF-REST-234:** Visualización de resultados de consulta por Áreas de Restauración](EP-IDEAM-SNIF-REST-024/HU-IDEAM-SNIF-REST-234.md)
+- [**HU-IDEAM-SNIF-REST-235:** Integración de la consulta atributiva con el visor geográfico](EP-IDEAM-SNIF-REST-024/HU-IDEAM-SNIF-REST-235.md)
 
 ## 4. Riesgos
 

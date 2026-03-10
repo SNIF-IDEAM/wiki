@@ -31,16 +31,16 @@ Disponer de un módulo administrativo que permita la gestión centralizada, cont
 
 ## 3. Historias de usuario asociadas
 
-- [**HU-IDEAM-SNIF-REST-207:** Administrar reinos biológicos](/historias_usuario/EP-IDEAM-SNIF-REST-020/HU-IDEAM-SNIF-REST-207)
-- [**HU-IDEAM-SNIF-REST-208:** Administrar filum](/historias_usuario/EP-IDEAM-SNIF-REST-020/HU-IDEAM-SNIF-REST-208)
-- [**HU-IDEAM-SNIF-REST-209:** Administrar familias](/historias_usuario/EP-IDEAM-SNIF-REST-020/HU-IDEAM-SNIF-REST-209)
-- [**HU-IDEAM-SNIF-REST-210:** Administrar géneros](/historias_usuario/EP-IDEAM-SNIF-REST-020/HU-IDEAM-SNIF-REST-210)
-- [**HU-IDEAM-SNIF-REST-211:** Administrar especies](/historias_usuario/EP-IDEAM-SNIF-REST-020/HU-IDEAM-SNIF-REST-211)
-- [**HU-IDEAM-SNIF-REST-212:** Control de dependencias taxonómicas](/historias_usuario/EP-IDEAM-SNIF-REST-020/HU-IDEAM-SNIF-REST-212)
-- [**HU-IDEAM-SNIF-REST-213:** Uso de especies en áreas restauradas](/historias_usuario/EP-IDEAM-SNIF-REST-020/HU-IDEAM-SNIF-REST-213)
-- [**HU-IDEAM-SNIF-REST-214:** Auditoría de catálogos taxonómicos](/historias_usuario/EP-IDEAM-SNIF-REST-020/HU-IDEAM-SNIF-REST-214)
-- [**HU-IDEAM-SNIF-REST-215:** Visualización jerárquica del catálogo](/historias_usuario/EP-IDEAM-SNIF-REST-020/HU-IDEAM-SNIF-REST-215)
-- [**HU-IDEAM-SNIF-REST-216:** Búsqueda avanzada de especies](/historias_usuario/EP-IDEAM-SNIF-REST-020/HU-IDEAM-SNIF-REST-216)
+- [**HU-IDEAM-SNIF-REST-207:** Administrar reinos biológicos](EP-IDEAM-SNIF-REST-020/HU-IDEAM-SNIF-REST-207)
+- [**HU-IDEAM-SNIF-REST-208:** Administrar filum](EP-IDEAM-SNIF-REST-020/HU-IDEAM-SNIF-REST-208)
+- [**HU-IDEAM-SNIF-REST-209:** Administrar familias](EP-IDEAM-SNIF-REST-020/HU-IDEAM-SNIF-REST-209)
+- [**HU-IDEAM-SNIF-REST-210:** Administrar géneros](EP-IDEAM-SNIF-REST-020/HU-IDEAM-SNIF-REST-210)
+- [**HU-IDEAM-SNIF-REST-211:** Administrar especies](EP-IDEAM-SNIF-REST-020/HU-IDEAM-SNIF-REST-211)
+- [**HU-IDEAM-SNIF-REST-212:** Control de dependencias taxonómicas](EP-IDEAM-SNIF-REST-020/HU-IDEAM-SNIF-REST-212)
+- [**HU-IDEAM-SNIF-REST-213:** Uso de especies en áreas restauradas](EP-IDEAM-SNIF-REST-020/HU-IDEAM-SNIF-REST-213)
+- [**HU-IDEAM-SNIF-REST-214:** Auditoría de catálogos taxonómicos](EP-IDEAM-SNIF-REST-020/HU-IDEAM-SNIF-REST-214)
+- [**HU-IDEAM-SNIF-REST-215:** Visualización jerárquica del catálogo](EP-IDEAM-SNIF-REST-020/HU-IDEAM-SNIF-REST-215)
+- [**HU-IDEAM-SNIF-REST-216:** Búsqueda avanzada de especies](EP-IDEAM-SNIF-REST-020/HU-IDEAM-SNIF-REST-216)
 
 ## 4. Riesgos
 

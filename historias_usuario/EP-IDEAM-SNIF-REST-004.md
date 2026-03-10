@@ -25,31 +25,31 @@ Permitir la **creación, consulta, actualización, envío a validación, aprobac
 ## 3. Historias de usuario asociadas
 
 ### Control de acceso
-- [**HU-IDEAM-SNIF-REST-029:** Control de acceso a la Gestión de Proyectos](/historias_usuario/EP-IDEAM-SNIF-REST-004/HU-IDEAM-SNIF-REST-029.md)
+- [**HU-IDEAM-SNIF-REST-029:** Control de acceso a la Gestión de Proyectos](EP-IDEAM-SNIF-REST-004/HU-IDEAM-SNIF-REST-029.md)
 
 ### Gestión del proyecto
-- [**HU-IDEAM-SNIF-REST-030:** Crear un proyecto de restauración](/historias_usuario/EP-IDEAM-SNIF-REST-004/HU-IDEAM-SNIF-REST-030.md)
-- [**HU-IDEAM-SNIF-REST-031:** Consultar y listar proyectos en Gestión](/historias_usuario/EP-IDEAM-SNIF-REST-004/HU-IDEAM-SNIF-REST-031.md)
-- [**HU-IDEAM-SNIF-REST-031-BIS:** Visualización pública de proyectos en el Visor Geográfico](/historias_usuario/EP-IDEAM-SNIF-REST-004/HU-IDEAM-SNIF-REST-031-BIS.md)
-- [**HU-IDEAM-SNIF-REST-032:** Ver información del proyecto](/historias_usuario/EP-IDEAM-SNIF-REST-004/HU-IDEAM-SNIF-REST-032.md)
-- [**HU-IDEAM-SNIF-REST-033:** Editar un proyecto de restauración](/historias_usuario/EP-IDEAM-SNIF-REST-004/HU-IDEAM-SNIF-REST-033.md)
-- [**HU-IDEAM-SNIF-REST-034:** Desactivar (borrado lógico) un proyecto](/historias_usuario/EP-IDEAM-SNIF-REST-004/HU-IDEAM-SNIF-REST-034.md)
-- [**HU-IDEAM-SNIF-REST-034-BIS:** Enviar proyecto a validación IDEAM](/historias_usuario/EP-IDEAM-SNIF-REST-004/HU-IDEAM-SNIF-REST-034-BIS.md)
-- [**HU-IDEAM-SNIF-REST-035:** Gestión de estado del proyecto](/historias_usuario/EP-IDEAM-SNIF-REST-004/HU-IDEAM-SNIF-REST-035.md)
-- [**HU-IDEAM-SNIF-REST-035-BIS:** Validar o rechazar proyecto IDEAM](/historias_usuario/EP-IDEAM-SNIF-REST-004/HU-IDEAM-SNIF-REST-035-BIS.md)
+- [**HU-IDEAM-SNIF-REST-030:** Crear un proyecto de restauración](EP-IDEAM-SNIF-REST-004/HU-IDEAM-SNIF-REST-030.md)
+- [**HU-IDEAM-SNIF-REST-031:** Consultar y listar proyectos en Gestión](EP-IDEAM-SNIF-REST-004/HU-IDEAM-SNIF-REST-031.md)
+- [**HU-IDEAM-SNIF-REST-031-BIS:** Visualización pública de proyectos en el Visor Geográfico](EP-IDEAM-SNIF-REST-004/HU-IDEAM-SNIF-REST-031-BIS.md)
+- [**HU-IDEAM-SNIF-REST-032:** Ver información del proyecto](EP-IDEAM-SNIF-REST-004/HU-IDEAM-SNIF-REST-032.md)
+- [**HU-IDEAM-SNIF-REST-033:** Editar un proyecto de restauración](EP-IDEAM-SNIF-REST-004/HU-IDEAM-SNIF-REST-033.md)
+- [**HU-IDEAM-SNIF-REST-034:** Desactivar (borrado lógico) un proyecto](EP-IDEAM-SNIF-REST-004/HU-IDEAM-SNIF-REST-034.md)
+- [**HU-IDEAM-SNIF-REST-034-BIS:** Enviar proyecto a validación IDEAM](EP-IDEAM-SNIF-REST-004/HU-IDEAM-SNIF-REST-034-BIS.md)
+- [**HU-IDEAM-SNIF-REST-035:** Gestión de estado del proyecto](EP-IDEAM-SNIF-REST-004/HU-IDEAM-SNIF-REST-035.md)
+- [**HU-IDEAM-SNIF-REST-035-BIS:** Validar o rechazar proyecto IDEAM](EP-IDEAM-SNIF-REST-004/HU-IDEAM-SNIF-REST-035-BIS.md)
 
 ### UX, navegación y reglas transversales
-- [**HU-IDEAM-SNIF-REST-038:** Comportamiento UX del formulario de proyecto](/historias_usuario/EP-IDEAM-SNIF-REST-004/HU-IDEAM-SNIF-REST-038.md)
-- [**HU-IDEAM-SNIF-REST-047:** Validaciones dinámicas y ayuda contextual en el formulario](/historias_usuario/EP-IDEAM-SNIF-REST-004/HU-IDEAM-SNIF-REST-047.md)
-- [**HU-IDEAM-SNIF-REST-048:** Control de navegación y guardado del formulario](/historias_usuario/EP-IDEAM-SNIF-REST-004/HU-IDEAM-SNIF-REST-048.md)
-- [**HU-IDEAM-SNIF-REST-049:** Habilitar pestañas posteriores al guardar proyecto](/historias_usuario/EP-IDEAM-SNIF-REST-004/HU-IDEAM-SNIF-REST-049.md)
+- [**HU-IDEAM-SNIF-REST-038:** Comportamiento UX del formulario de proyecto](EP-IDEAM-SNIF-REST-004/HU-IDEAM-SNIF-REST-038.md)
+- [**HU-IDEAM-SNIF-REST-047:** Validaciones dinámicas y ayuda contextual en el formulario](EP-IDEAM-SNIF-REST-004/HU-IDEAM-SNIF-REST-047.md)
+- [**HU-IDEAM-SNIF-REST-048:** Control de navegación y guardado del formulario](EP-IDEAM-SNIF-REST-004/HU-IDEAM-SNIF-REST-048.md)
+- [**HU-IDEAM-SNIF-REST-049:** Habilitar pestañas posteriores al guardar proyecto](EP-IDEAM-SNIF-REST-004/HU-IDEAM-SNIF-REST-049.md)
 
 ### Reglas de integridad y auditoría
-- [**HU-IDEAM-SNIF-REST-036:** Auditoría y trazabilidad del proyecto](/historias_usuario/EP-IDEAM-SNIF-REST-004/HU-IDEAM-SNIF-REST-036.md)
-- [**HU-IDEAM-SNIF-REST-037:** Integridad referencial del proyecto](/historias_usuario/EP-IDEAM-SNIF-REST-004/HU-IDEAM-SNIF-REST-037.md)
-- [**HU-IDEAM-SNIF-REST-039:** Generación de eventos del sistema](/historias_usuario/EP-IDEAM-SNIF-REST-004/HU-IDEAM-SNIF-REST-039.md)
-- [**HU-IDEAM-SNIF-REST-050:** Unicidad del proyecto en el flujo de creación](/historias_usuario/EP-IDEAM-SNIF-REST-004/HU-IDEAM-SNIF-REST-050.md)
-- [**HU-IDEAM-SNIF-REST-051:** Auditoría del flujo de creación y edición de proyectos](/historias_usuario/EP-IDEAM-SNIF-REST-004/HU-IDEAM-SNIF-REST-051.md)
+- [**HU-IDEAM-SNIF-REST-036:** Auditoría y trazabilidad del proyecto](EP-IDEAM-SNIF-REST-004/HU-IDEAM-SNIF-REST-036.md)
+- [**HU-IDEAM-SNIF-REST-037:** Integridad referencial del proyecto](EP-IDEAM-SNIF-REST-004/HU-IDEAM-SNIF-REST-037.md)
+- [**HU-IDEAM-SNIF-REST-039:** Generación de eventos del sistema](EP-IDEAM-SNIF-REST-004/HU-IDEAM-SNIF-REST-039.md)
+- [**HU-IDEAM-SNIF-REST-050:** Unicidad del proyecto en el flujo de creación](EP-IDEAM-SNIF-REST-004/HU-IDEAM-SNIF-REST-050.md)
+- [**HU-IDEAM-SNIF-REST-051:** Auditoría del flujo de creación y edición de proyectos](EP-IDEAM-SNIF-REST-004/HU-IDEAM-SNIF-REST-051.md)
 
 ---
 

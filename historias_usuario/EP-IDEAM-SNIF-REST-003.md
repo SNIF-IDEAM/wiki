@@ -38,15 +38,15 @@ Este principio garantiza una solución **escalable, consistente y alineada con l
 
 ## 4. Historias de usuario asociadas
 
-- [**HU-IDEAM-SNIF-REST-020:** Administración genérica de entidades base](/historias_usuario/EP-IDEAM-SNIF-REST-003/HU-IDEAM-SNIF-REST-020.md)
-- [**HU-IDEAM-SNIF-REST-021:** CRUD de Tipo de Trámite](/historias_usuario/EP-IDEAM-SNIF-REST-003/HU-IDEAM-SNIF-REST-021.md)
-- [**HU-IDEAM-SNIF-REST-022:** CRUD de Tipo de Acto Administrativo](/historias_usuario/EP-IDEAM-SNIF-REST-003/HU-IDEAM-SNIF-REST-022.md)
-- [**HU-IDEAM-SNIF-REST-023:** CRUD de Fuentes de Financiación (Catálogo)](/historias_usuario/EP-IDEAM-SNIF-REST-003/HU-IDEAM-SNIF-REST-023.md)
-- [**HU-IDEAM-SNIF-REST-024:** Administración de combinaciones Proyecto–Trámite–Acto](/historias_usuario/EP-IDEAM-SNIF-REST-003/HU-IDEAM-SNIF-REST-024.md)
-- [**HU-IDEAM-SNIF-REST-025:** Auditoría de cambios en tablas de entidades base del proyecto](/historias_usuario/EP-IDEAM-SNIF-REST-003/HU-IDEAM-SNIF-REST-025.md)
-- [**HU-IDEAM-SNIF-REST-026:** Control de acceso por rol en tablas de entidades base del proyecto](/historias_usuario/EP-IDEAM-SNIF-REST-003/HU-IDEAM-SNIF-REST-026.md)
-- [**HU-IDEAM-SNIF-REST-027:** Validación de unicidad en tablas de entidades base del proyecto](/historias_usuario/EP-IDEAM-SNIF-REST-003/HU-IDEAM-SNIF-REST-027.md)
-- [**HU-IDEAM-SNIF-REST-028:** Administración de entidades base para Apropiación (Reportes y Contenidos)](/historias_usuario/EP-IDEAM-SNIF-REST-003/HU-IDEAM-SNIF-REST-028.md)
+- [**HU-IDEAM-SNIF-REST-020:** Administración genérica de entidades base](EP-IDEAM-SNIF-REST-003/HU-IDEAM-SNIF-REST-020.md)
+- [**HU-IDEAM-SNIF-REST-021:** CRUD de Tipo de Trámite](EP-IDEAM-SNIF-REST-003/HU-IDEAM-SNIF-REST-021.md)
+- [**HU-IDEAM-SNIF-REST-022:** CRUD de Tipo de Acto Administrativo](EP-IDEAM-SNIF-REST-003/HU-IDEAM-SNIF-REST-022.md)
+- [**HU-IDEAM-SNIF-REST-023:** CRUD de Fuentes de Financiación (Catálogo)](EP-IDEAM-SNIF-REST-003/HU-IDEAM-SNIF-REST-023.md)
+- [**HU-IDEAM-SNIF-REST-024:** Administración de combinaciones Proyecto–Trámite–Acto](EP-IDEAM-SNIF-REST-003/HU-IDEAM-SNIF-REST-024.md)
+- [**HU-IDEAM-SNIF-REST-025:** Auditoría de cambios en tablas de entidades base del proyecto](EP-IDEAM-SNIF-REST-003/HU-IDEAM-SNIF-REST-025.md)
+- [**HU-IDEAM-SNIF-REST-026:** Control de acceso por rol en tablas de entidades base del proyecto](EP-IDEAM-SNIF-REST-003/HU-IDEAM-SNIF-REST-026.md)
+- [**HU-IDEAM-SNIF-REST-027:** Validación de unicidad en tablas de entidades base del proyecto](EP-IDEAM-SNIF-REST-003/HU-IDEAM-SNIF-REST-027.md)
+- [**HU-IDEAM-SNIF-REST-028:** Administración de entidades base para Apropiación (Reportes y Contenidos)](EP-IDEAM-SNIF-REST-003/HU-IDEAM-SNIF-REST-028.md)
 
 ---
 
