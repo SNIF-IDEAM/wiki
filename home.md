@@ -45,7 +45,7 @@ Identificar las necesidades principales para el desarrollo del Módulo de restau
 - [Documentación técnica](documentacion_tecnica)
 - [Restauración submodulo](restauracion)
 - [Brief de Identidad Visual e Iconografía SNIF](https://drive.google.com/file/d/1VX2zZ76Jo5NWGE4jiQ2SYBJ1P3zqT1Y3/view?usp=sharing)
-
+- [Prueba](prueba.md)
 ### Colaboradores
 
 | **Organización** | **Nombre del actor**              | **Cargo**                                          | **Correo electrónico**                                                |
